@@ -1,2 +1,2 @@
-# the-late-and-great
+# Interlake-Saints
 site to notify those of us who attended Interlake High School of the classmates we've lost
