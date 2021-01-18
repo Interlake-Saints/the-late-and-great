@@ -8,6 +8,7 @@ url: "https://interlake-saints.github.io" # the base hostname & protocol for you
 twitter_username: MarioJLanza
 github_username:  MarioMangler
 show_excerpts: true
+facebook_username: mariolanza
 
 # Build settings
 theme: minima
