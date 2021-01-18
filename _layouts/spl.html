@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {% assign sorted_cats = site.categories | sort %}
+  {% for category in sorted_cats %}
+    <h2>{{ category[0] | replace: "-", " " | replace: "class", "Class" | replace: "staff", "Staff" }}</h2>
+	{% for post in category[1] %}
+	    <li>
+	      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+	      <span class="post-meta">{{ post.date | date: date_format }}</span>
+	      <h3>
+	        <a class="post-link" href="{{ post.url | relative_url }}">
+	          {{ post.title | escape }}
+	        </a>
+	      </h3>
+	      {%- if site.show_excerpts -%}
+	        {{ post.excerpt }}
+	      {%- endif -%}
+	    </li>
+	{% endfor %}
+  {% endfor %}
+</div>
