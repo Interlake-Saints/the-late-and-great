@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Holly Margo Kabinoff
+date:   2000-01-01
+categories: class-of-1970
+causeOfDeath: house fire
+---
+Holly died in a fire at her home in Chevy Chase in 2000
