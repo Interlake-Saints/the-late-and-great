@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thomas Grover Haring '72"
+title:  "Thomas Grover Haring"
 date:   1993-01-17
 categories: class-of-1972
 ---

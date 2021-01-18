@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Daniel James Christian '69
+title:  Daniel James Christian
 date:   2013-08-11
 categories: class-of-1969
 ---

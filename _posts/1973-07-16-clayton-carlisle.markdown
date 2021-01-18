@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Clayton Dale Carlisle '70"
+title:  "Clayton Dale Carlisle"
 date:   1973-07-16
 categories: class-of-1970
 ---

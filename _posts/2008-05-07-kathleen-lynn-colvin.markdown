@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kathleen Lynn "Kathy" Colvin '69
+title:  Kathleen Lynn "Kathy" Colvin
 date:   2008-05-07
 categories: class-of-1969
 ---

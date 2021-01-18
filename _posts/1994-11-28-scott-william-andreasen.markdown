@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Scott William Andreasen '69
+title:  Scott William Andreasen
 date:   1994-11-28
 categories: class-of-1969
 causeOfDeath: car accident
