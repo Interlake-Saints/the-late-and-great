@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Daniel James Christian
+sortKey:  Christian, Daniel James
 date:   2013-08-11
 categories: class-of-1969
 ---

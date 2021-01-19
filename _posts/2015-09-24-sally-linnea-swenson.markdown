@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Sally Linnea Swenson
+sortKey:  Swenson, Sally Linnea
 date:   2015-09-24
 categories: class-of-1973
 causeOfDeath: breast cancer

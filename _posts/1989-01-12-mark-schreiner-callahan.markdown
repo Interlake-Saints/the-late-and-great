@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Mark Schreiner Callahan
+sortKey:  Callahan, Mark Schreiner
 date:   1989-01-12
 categories: class-of-1972
 ---

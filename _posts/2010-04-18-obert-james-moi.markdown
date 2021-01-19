@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Obert James "Jim" Moi
+sortKey:  Moi, Obert James "Jim"
 date:   2010-04-18
 categories: class-of-1973
 causeOfDeath: horseback riding accident

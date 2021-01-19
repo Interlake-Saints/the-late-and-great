@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Dale Steve Parkhurst
+sortKey:  Parkhurst, Dale Steve
 date:   2011-09-04
 categories: class-of-1972
 ---

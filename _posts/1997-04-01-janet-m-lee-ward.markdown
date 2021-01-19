@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Janet M'Lee Ward
+sortKey:  Ward, Janet M'Lee
 date:   1997-04-01
 categories: class-of-1969
 causeOfDeath: breast cancer

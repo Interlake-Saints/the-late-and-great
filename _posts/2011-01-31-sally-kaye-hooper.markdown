@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Sally Kaye Hooper
+sortKey:  Hooper, Sally Kaye
 date:   2011-01-31
 categories: staff
 ---

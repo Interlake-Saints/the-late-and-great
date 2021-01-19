@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Darrell Robert Rasmussen
+sortKey:  Rasmussen, Darrell Robert
 date:   2015-10-30
 categories: staff
 ---

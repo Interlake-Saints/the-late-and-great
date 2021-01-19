@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Andrew Christian Erickson
+sortKey:  Erickson, Andrew Christian
 date:   2006-02-13
 categories: class-of-1973
 ---

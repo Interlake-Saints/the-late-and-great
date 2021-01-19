@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Robert Edward Renick, Jr.
+sortKey:  Renick, Jr., Robert Edward
 date:   2018-10-15
 categories: class-of-1973
 causeOfDeath: complications from stroke

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "John Price"
+title:  John Price
+sortKey:  Price, John
 date:   2011-12-30
 categories: staff
 ---

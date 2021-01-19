@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Richard Deane "Rick" Smith
+sortKey:  Smith, Richard Deane "Rick"
 date:   1970-05-25
 categories: class-of-1969
 causeOfDeath: killed in Vietnam

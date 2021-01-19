@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Michele Carol Kirkey
+sortKey:  Kirkey, Michele Carol
 date:   2013-10-15
 categories: class-of-1974
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  James M. Faulk
+sortKey:  Faulk, James M.
 date:   1970-05-03
 categories: class-of-1971
 causeOfDeath: car accident

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Marshall Hugh Moss
+sortKey:  Moss, Marshall Hugh
 date:   2002-06-08
 categories: class-of-1970
 causeOfDeath: cancer

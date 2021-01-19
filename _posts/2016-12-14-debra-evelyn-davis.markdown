@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Debra Evelyn "Debi" Davis
+sortKey:  Davis, Debra Evelyn "Debi"
 date:   2016-12-14
 categories: class-of-1972
 causeOfDeath: complications from M.S.

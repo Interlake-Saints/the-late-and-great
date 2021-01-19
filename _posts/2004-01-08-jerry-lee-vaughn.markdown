@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Jerry Lee Vaughn
+sortKey:  Vaughn, Jerry Lee
 date:   2004-01-08
 categories: class-of-1970
 causeOfDeath: accident

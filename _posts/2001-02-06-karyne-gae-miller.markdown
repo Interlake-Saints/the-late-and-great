@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Karyne Gae Miller
+sortKey:  Miller, Karyne Gae
 date:   2001-02-06
 categories: class-of-1973
 causeOfDeath: cancer

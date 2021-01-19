@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Annalee Schock
+sortKey:  Schock, Annalee
 date:   2003-08-18
 categories: class-of-1970
 causeOfDeath: brain tumor

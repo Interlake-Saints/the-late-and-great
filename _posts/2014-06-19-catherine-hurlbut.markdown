@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Catherine "Cathie" Hurlbut
+sortKey:  Hurlbut, Catherine "Cathie"
 date:   2014-06-19
 categories: class-of-1974
 ---

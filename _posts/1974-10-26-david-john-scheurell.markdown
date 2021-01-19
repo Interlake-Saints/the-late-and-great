@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  David John Scheurell
+sortKey:  Scheurell, David John
 date:   1974-10-26
 categories: class-of-1973
 causeOfDeath: car accident

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Robert Eugene "Bob" Rutledge
+sortKey:  Rutledge, Robert Eugene "Bob"
 date:   2011-03-14
 categories: class-of-1969
 ---

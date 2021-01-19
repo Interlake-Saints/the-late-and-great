@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Erik Edward Helppie
+sortKey:  Helppie, Erik Edward
 date:   1972-08-01
 categories: class-of-1969
 causeOfDeath: cancer

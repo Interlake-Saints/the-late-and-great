@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Nancy Kay Lane
+sortKey:  Lane, Nancy Kay
 date:   2014-01-01
 categories: class-of-1973
 causeOfDeath: accident complications

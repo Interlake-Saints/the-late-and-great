@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Brian Donald Cassell
+sortKey:  Cassell, Brian Donald
 date:   2017-05-14
 categories: class-of-1973
 causeOfDeath: natural causes

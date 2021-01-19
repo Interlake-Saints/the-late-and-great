@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Peter Alexander MacNair
+sortKey:  MacNair, Peter Alexander
 date:   1977-10-30
 categories: class-of-1974
 causeOfDeath: boating accident

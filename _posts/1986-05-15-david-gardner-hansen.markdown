@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  David Gardner Hansen
+sortKey:  Hansen, David Gardner
 date:   1986-05-15
 categories: class-of-1972
 ---

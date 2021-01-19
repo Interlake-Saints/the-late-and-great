@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Donald Joseph Navarre
+sortKey:  Navarre, Donald Joseph
 date:   2014-01-19
 categories: class-of-1974
 causeOfDeath: lymphoma

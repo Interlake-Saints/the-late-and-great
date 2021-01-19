@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  June Marie Gustafson
+sortKey:  Gustafson, June Marie
 date:   1975-01-01
 categories: class-of-1972
 causeOfDeath: blood poisoning

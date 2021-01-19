@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Royal Penewell
+sortKey:  Penewell, Royal
 date:   2008-07-24
 categories: staff
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Paul A. Cona
+sortKey:  Cona, Paul A.
 date:   1995-10-20
 categories: class-of-1974
 ---

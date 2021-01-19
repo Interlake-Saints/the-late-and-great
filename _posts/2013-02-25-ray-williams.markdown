@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Ray Williams
+sortKey:  Williams, Ray
 date:   2013-02-25
 categories: class-of-1971
 causeOfDeath: heart attack

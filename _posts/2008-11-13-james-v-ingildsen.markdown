@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  James V. Ingildsen
+sortKey:  Ingildsen, James V.
 date:   2008-11-13
 categories: class-of-1974
 ---

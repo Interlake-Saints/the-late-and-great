@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Susan Roberta Cuthbert
+sortKey:  Cuthbert, Susan Roberta
 date:   2011-11-18
 categories: class-of-1974
 causeOfDeath: cancer

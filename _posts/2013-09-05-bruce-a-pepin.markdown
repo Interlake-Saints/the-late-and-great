@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Bruce A. Pepin
+sortKey:  Pepin, Bruce A.
 date:   2013-09-05
 categories: class-of-1973
 causeOfDeath: cancer

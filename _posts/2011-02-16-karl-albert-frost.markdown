@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Karl Albert Frost
+sortKey:  Frost, Karl Albert
 date:   2011-02-16
 categories: class-of-1969
 ---
