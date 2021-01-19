@@ -5,6 +5,7 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h3>{{ page.categories[0] | replace: "-", " " | replace: "class", "Class" | replace: "staff", "Staff" }}</h3>
     <p class="post-meta">
 	  {%- if page.dateUnknown -%}
 	    Unknown
