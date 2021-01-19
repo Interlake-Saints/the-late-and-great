@@ -6,13 +6,13 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
   {{ content }}
 
   {% assign sorted_cats = site.categories | sort %}
   {% for category in sorted_cats %}
     <h2>{{ category[0] | replace: "-", " " | replace: "class", "Class" | replace: "staff", "Staff" }}</h2>
-	{% for post in category[1] %}
+	{% assign sorted_posts = category[1] | sort: "sortKey" %}
+	{% for post in sorted_posts %}
 	    <li>
 	      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 	      <span class="post-meta">{%- if post.dateUnknown -%}Unknown{%- else -%}{{ post.date | date: date_format }}{%- endif -%}</span>
