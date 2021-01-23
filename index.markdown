@@ -1,4 +1,0 @@
----
-layout: spl
----
-{{ site.description }}
