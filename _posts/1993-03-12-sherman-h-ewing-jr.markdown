@@ -4,6 +4,6 @@ title:  Sherman H. Ewing Jr.
 sortKey: Ewing Jr., Sherman H. 
 date:   1993-03-12
 categories: class-of-1977
-causeOfDeath: boating accident
+tags: accident
 ---
 Sherman Ewing, a King County police officer and DARE (Drug Abuse Resistance Education) counselor, died in a boating accident in Seattle on March 12, 1993.

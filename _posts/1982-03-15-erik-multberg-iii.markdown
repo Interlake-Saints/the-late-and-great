@@ -4,6 +4,6 @@ title:  Erik Hultberg III
 sortKey:  Hultberg III, Erik
 date:   1982-03-15
 categories: class-of-1973
-causeOfDeath: drug overdose
+tags: overdose
 ---
 Erik died of a drug overdose on March 15, 1982.  He was 26 years old.

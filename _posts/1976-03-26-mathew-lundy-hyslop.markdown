@@ -4,6 +4,6 @@ title:  Mathew Lundy Hyslop
 sortKey: Hyslop, Mathew Lundy
 date:   1976-03-26
 categories: class-of-1977
-causeOfDeath: car accident
+tags: accident
 ---
 Matthew died in Renton on March 26, 1976.  He was a passenger in a car and he died when the driver got into an accident. Matt was 17 years old.

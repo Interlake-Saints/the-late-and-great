@@ -4,6 +4,6 @@ title:  Cynthia Meade
 sortKey: Meade, Cynthia
 date:   2006-01-01
 categories: class-of-1975
-causeOfDeath: breast cancer
+tags: cancer
 ---
 Cynthia died in Tucson, Arizona of breast cancer at the age of 49.

@@ -4,6 +4,6 @@ title:  Barbara Louise Houk
 sortKey:  Houk, Barbara Louise
 date:   2011-12-04
 categories: class-of-1972
-causeOfDeath: stroke complications
+tags: stroke
 ---
 Barbara, aka Barbara Houk Worthington, passed away on December 4, 2011 from complications of a stroke. She was 57 years old. Barbara's full obituary can be found [here](http://tinyurl.com/mzufj8q).
