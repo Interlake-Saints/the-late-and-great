@@ -137,7 +137,7 @@ defaults:
           label: Posts
   -
     scope:
-      path: tags
+      path: cause
     values:
       breadcrumb:
         -
@@ -145,7 +145,7 @@ defaults:
           url: /
         -
           label: By Cause
-          url: /tabs/tags/
+          url: /by-cause/
   -
     scope:
       path: categories
@@ -156,7 +156,7 @@ defaults:
           url: /
         -
           label: By Class
-          url: /tabs/categories/
+          url: /by-class/
   -
     scope:
       path: ''
