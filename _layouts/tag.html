@@ -2,7 +2,9 @@
 layout: page
 label: By Cause
 ---
-{% assign posts = site.tags[page.id] %}
+{% assign tokens = page.id | split: "/" %}
+{% assign page_id = tokens[2] %}
+{% assign posts = site.tags[page_id] %}
 <div id="page-tag">
   <h1 class="pl-lg-2">
     <i class="fa fa-tag fa-fw text-muted"></i>

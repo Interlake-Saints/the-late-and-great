@@ -109,6 +109,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  cause:
+    output: true
+    sort_by: title
 
 defaults:
   -
@@ -135,28 +138,6 @@ defaults:
       breadcrumb:
         -
           label: Posts
-  -
-    scope:
-      path: cause
-    values:
-      breadcrumb:
-        -
-          label: Home
-          url: /
-        -
-          label: By Cause
-          url: /by-cause/
-  -
-    scope:
-      path: categories
-    values:
-      breadcrumb:
-        -
-          label: Home
-          url: /
-        -
-          label: By Class
-          url: /by-class/
   -
     scope:
       path: ''
@@ -186,7 +167,6 @@ exclude:
   - vendor
   - Gemfile.lock
   - Gemfile
-  - tools
   - docs
   - README.md
   - LICENSE
