@@ -145,7 +145,7 @@ defaults:
           label: Home
           url: /
         -
-          label: Tags
+          label: By Cause
           url: /tabs/tags/
   -
     scope:
@@ -156,7 +156,7 @@ defaults:
           label: Home
           url: /
         -
-          label: Categories
+          label: By Class
           url: /tabs/categories/
   -
     scope:
