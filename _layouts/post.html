@@ -18,7 +18,7 @@ layout: default
       <div class="post-meta text-muted d-flex flex-column">
         <!-- Published date and author -->
         <div>
-          {% include timeago.html date=page.date tooltip=true %}
+          {% unless page.dateUnknown %}{% include timeago.html date=page.date tooltip=true %}{% endunless %}
           by
           <span class="author">
             {{ page.author | default: site.author }}

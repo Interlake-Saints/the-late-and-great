@@ -62,19 +62,21 @@ layout: page
 
     <div class="post-meta text-muted d-flex justify-content-between">
 
-      <div>
-        <!-- posted date -->
-        <i class="far fa-calendar fa-fw"></i>
-        {% include timeago.html date=post.date tooltip=true %}
+	  {% unless post.dateUnknown %}
+		<div>
+			<!-- posted date -->
+			<i class="far fa-calendar fa-fw"></i>
+			{% include timeago.html date=post.date tooltip=true %}
 
-        <!-- page views -->
-        {% if site.google_analytics.pv.enabled %}
-        <i class="far fa-eye fa-fw"></i>
-        <span id="pv_{{-post.title-}}" class="pageviews">
-          <i class="fas fa-spinner fa-spin fa-fw"></i>
-        </span>
-        {% endif %}
-      </div>
+			<!-- page views -->
+			{% if site.google_analytics.pv.enabled %}
+				<i class="far fa-eye fa-fw"></i>
+				<span id="pv_{{-post.title-}}" class="pageviews">
+				<i class="fas fa-spinner fa-spin fa-fw"></i>
+				</span>
+			{% endif %}
+		</div>
+	  {% endunless %}
 
       {% if post.pin %}
       <div class="pin">
