@@ -46,7 +46,7 @@ baseurl: ''
 timezone: America/Los_Angeles
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id: 'G-BWH03MC1HR'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
@@ -88,7 +88,7 @@ avatar: /assets/10609708_672957986115083_7627741849738825230_n.png
 # boolean type, the global switch for ToC in posts.
 toc: true
 
-paginate: 10
+paginate: 25
 
 kramdown:
   syntax_highlighter: rouge
