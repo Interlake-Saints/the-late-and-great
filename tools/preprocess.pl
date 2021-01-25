@@ -32,7 +32,7 @@ foreach my $line (@lines) {
 		print "title:  $name\n";
 		print "date: \n";
 		print "categories: $class\n";
-		print "tabs: $causeOfDeath\n";
+		print "tags: $causeOfDeath\n";
 		print "---\n";
 	} else {
 		#write what follows the front matter
