@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Class of 1975
-id: class-of-1975
 permalink: class-of-1975
 dynamic_title: false
 ---

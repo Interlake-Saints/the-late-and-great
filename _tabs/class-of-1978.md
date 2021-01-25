@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Class of 1970
-permalink: class-of-1970
+title: Class of 1978
+permalink: class-of-1978
 dynamic_title: false
 ---
