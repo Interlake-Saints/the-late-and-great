@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Elizabeth Ann "Betsy" Klammer
-sortKey:  Klammer, Elizabeth Ann "Betsy"
 date:   2005-06-19
 categories: class-of-1974
 ---

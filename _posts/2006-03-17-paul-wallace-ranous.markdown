@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Paul Wallace Ranous
-sortKey:  Ranous, Paul Wallace
 date:   2006-03-17
 categories: class-of-1973
 ---

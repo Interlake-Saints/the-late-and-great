@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Worthington Long Enslow
-sortKey:  Enslow, Worthington Long
 date:   2014-02-10
 categories: class-of-1974
 tags: cerebral-aneurysm

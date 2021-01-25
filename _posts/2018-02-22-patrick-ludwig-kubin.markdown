@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Patrick Ludwig Kubin
-sortKey: Kubin, Patrick Ludwig
 date:   2018-02-22
 categories: class-of-1977
 tags: accident

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Heidi Hunt
-sortKey:  Hunt, Heidi
 date:   2018-10-03
 categories: class-of-1973
 tags: cancer

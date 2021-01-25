@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  John Wendell Peterson
-sortKey:  Peterson, John Wendell
 date:   2011-03-14
 categories: class-of-1969
 ---

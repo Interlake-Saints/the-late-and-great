@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  David Oscar Filsinger
-sortKey: Filsinger, David Oscar
 date:   1998-06-19
 categories: class-of-1974
 ---

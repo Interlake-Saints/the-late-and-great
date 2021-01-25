@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Richard Gene "Rick" Howe
-sortKey: Howe, Richard Gene "Rick"
 date:   2017-10-13
 categories: class-of-1977
 ---

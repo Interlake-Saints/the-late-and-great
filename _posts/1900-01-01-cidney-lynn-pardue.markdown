@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Cidney Lynn Pardue
-sortKey: Pardue, Cidney Lynn
 date:   1900-01-01
 dateUnknown: true
 categories: class-of-1972

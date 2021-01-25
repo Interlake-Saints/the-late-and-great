@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Keith Wissmar
-sortKey: Wissmar, Keith Wissmar
 date:   2017-07-30
 categories: class-of-1976
 tags: cancer

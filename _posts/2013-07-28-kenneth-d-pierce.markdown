@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Kenneth D. Pierce
-sortKey: Pierce, Kenneth D.
 date:   2013-07-28
 categories: class-of-1977
 ---

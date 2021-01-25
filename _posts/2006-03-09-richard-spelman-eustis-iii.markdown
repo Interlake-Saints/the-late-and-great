@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Richard Spelman Eustis III
-sortKey:  Eustis III, Richard Spelman
 date:   2006-03-09
 categories: class-of-1969
 ---

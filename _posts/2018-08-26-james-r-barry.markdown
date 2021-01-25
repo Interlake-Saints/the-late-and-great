@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  James R. "Jim" Barry
-sortKey: Barry, James R. "Jim"
 date:   2018-08-26
 categories: class-of-1977
 ---

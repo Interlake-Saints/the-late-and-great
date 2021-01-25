@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Jacqueline K. "Jackie" Oster
-sortKey: Oster, Jacqueline K. "Jackie"
 date:   1993-01-01
 categories: class-of-1977
 ---

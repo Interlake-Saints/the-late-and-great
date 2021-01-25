@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Scott D. Jordan
-sortKey:  Jordan, Scott D.
 date:   1995-07-09
 categories: class-of-1974
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Jami Ellen Raines
-sortKey: Raines, Jami Ellen
 date:   2008-01-14
 categories: class-of-1976
 tags: cancer

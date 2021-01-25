@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Suzanne P. Figour
-sortKey: Figour, Suzanne P.
 date:   2012-07-27
 categories: class-of-1977
 ---

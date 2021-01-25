@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Janet Marie O'Connell
-sortKey: O'Connell, Janet Marie
 date:   2008-01-03
 categories: class-of-1977
 tags: accident

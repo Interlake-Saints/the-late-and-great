@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Julie Marie Sumner
-sortKey: Sumner, Julie Marie
 date:   1979-03-27
 categories: class-of-1977
 tags: lost-at-sea

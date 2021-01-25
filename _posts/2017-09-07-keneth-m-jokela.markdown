@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Kenneth M. Jokela
-sortKey:  Jokela, Kenneth M.
 date:   2017-09-07
 categories: class-of-1972
 tags: natural-causes

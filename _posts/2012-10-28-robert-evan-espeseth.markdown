@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Robert Evan Espeseth
-sortKey:  Espeseth, Robert Evan
 date:   2012-10-28
 categories: class-of-1972
 ---

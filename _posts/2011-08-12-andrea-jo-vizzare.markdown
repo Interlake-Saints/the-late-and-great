@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Andrea Jo Vizzare
-sortKey:  Vizzare, Andrea Jo
 date:   2011-08-12
 categories: class-of-1973
 ---

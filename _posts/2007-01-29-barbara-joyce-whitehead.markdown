@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Barbara Joyce Whitehead
-sortKey:  Whitehead, Barbara Joyce
 date:   2007-01-29
 categories: class-of-1973
 ---

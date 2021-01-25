@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Gary Edwin Larson
-sortKey:  Larson, Gary Edwin
 date:   2010-07-27
 categories: class-of-1974
 ---

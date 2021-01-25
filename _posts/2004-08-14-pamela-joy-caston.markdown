@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Pamela Joy Caston
-sortKey:  Caston, Pamela Joy
 date:   2004-08-14
 categories: class-of-1974
 ---

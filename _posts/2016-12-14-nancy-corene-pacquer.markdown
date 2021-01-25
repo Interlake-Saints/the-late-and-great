@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Nancy Corene Pacquer
-sortKey:  Pacquer, Nancy Corene
 date:   2016-12-14
 categories: class-of-1971
 tags: cancer

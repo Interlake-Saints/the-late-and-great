@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Vicki Lee Robinson
-sortKey:  Robinson, Vicki Lee
 date:   2006-01-14
 categories: class-of-1970
 tags: cancer

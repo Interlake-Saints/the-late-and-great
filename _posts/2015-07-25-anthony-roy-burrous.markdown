@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Anthony Roy "Tony" Burrous
-sortKey: Burrous, Anthony Roy "Tony"
 date:   2015-07-25
 categories: class-of-1976 staff
 ---

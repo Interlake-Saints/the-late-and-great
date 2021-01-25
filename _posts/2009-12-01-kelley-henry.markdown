@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Kelley Henry
-sortKey: Henry, Kelley
 date:   2009-12-01
 categories: class-of-1976
 tags: house-fire

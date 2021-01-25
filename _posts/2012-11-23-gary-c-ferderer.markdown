@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Gary C. Ferderer
-sortKey:  Ferderer, Gary C.
 date:   2012-11-23
 categories: class-of-1974
 tags: cancer

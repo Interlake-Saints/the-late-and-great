@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Bob Lee Taylor
-sortKey:  Taylor, Bob Lee
 date:   1999-09-09
 categories: class-of-1972
 tags: illness

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  David Stewart Tuck
-sortKey:  Tuck, David Stewart
 date:   2012-06-11
 categories: class-of-1971
 ---

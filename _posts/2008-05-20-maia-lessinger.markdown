@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Maia Lessinger
-sortKey: Lessinger, Maia
 date:   2008-05-20
 categories: class-of-1976
 tags: accident

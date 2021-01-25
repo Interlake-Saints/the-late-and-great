@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Carol J. McGough
-sortKey: McGough, Carol J.
 date:   2004-03-18
 categories: class-of-1977
 tags: cancer

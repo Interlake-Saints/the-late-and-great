@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Thomas Wayne McCandless
-sortKey:  McCandless, Thomas Wayne
 date:   2011-03-16
 categories: class-of-1969
 ---

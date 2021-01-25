@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Jeffrey Glen Hardy
-sortKey:  Hardy, Jeffrey Glen
 date:   2001-01-01
 categories: class-of-1973
 tags: heart-disease

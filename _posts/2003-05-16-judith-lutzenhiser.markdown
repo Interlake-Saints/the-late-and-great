@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Judith "Judy" Lutzenhiser
-sortKey:  Lutzenhiser, Judith "Judy"
 date:   2003-05-16
 categories: class-of-1974
 ---

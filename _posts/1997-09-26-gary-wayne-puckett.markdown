@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Gary Wayne Puckett
-sortKey: Puckett, Gary Wayne
 date:   1997-09-26
 categories: class-of-1977
 ---

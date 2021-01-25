@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Steven Lee Johnson
-sortKey:  Johnson, Steven Lee
 date:   1972-05-28
 categories: class-of-1970
 tags: accident

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Carl Eric Granberg
-sortKey: Granberg, Carl Eric
 date:   2014-01-27
 categories: class-of-1976
 tags: pulmonary-embolism

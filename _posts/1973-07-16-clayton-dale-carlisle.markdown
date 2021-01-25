@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Clayton Dale Carlisle
-sortKey:  Carlisle, Clayton Dale
 date:   1973-07-16
 categories: class-of-1970
 tags: accident

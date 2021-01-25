@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Dara Krissett Barker
-sortKey: Barker, Dara Krissett
 date:   2009-05-24
 categories: class-of-1975
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  John O'Neill
-sortKey:  O'Neill, John
 date:   1980-12-07
 categories: class-of-1974
 ---

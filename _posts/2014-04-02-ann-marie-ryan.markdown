@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Ann Marie Ryan
-sortKey: Ryan, Ann Marie
 date:   2014-04-02
 categories: class-of-1975
 ---

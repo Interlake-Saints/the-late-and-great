@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Mathew Lundy Hyslop
-sortKey: Hyslop, Mathew Lundy
 date:   1976-03-26
 categories: class-of-1977
 tags: accident

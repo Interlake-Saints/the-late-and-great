@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Thomas Grover Haring
-sortKey:  Haring, Thomas Grover
 date:   1993-01-17
 categories: class-of-1972
 tags: cancer

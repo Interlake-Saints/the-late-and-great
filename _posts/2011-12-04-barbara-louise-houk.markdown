@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Barbara Louise Houk
-sortKey:  Houk, Barbara Louise
 date:   2011-12-04
 categories: class-of-1972
 tags: stroke

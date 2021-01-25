@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  John Clendon "Hoss" DeRoulet, Jr.
-sortKey:  DeRoulet, Jr., John Clendon "Hoss"
 date:   1973-07-28
 categories: class-of-1974
 tags: murder

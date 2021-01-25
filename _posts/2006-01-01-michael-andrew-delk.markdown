@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Michael Andrew Delk
-sortKey:  Delk, Michael Andrew
 date:   2006-01-01
 categories: class-of-1972
 tags: heart-disease

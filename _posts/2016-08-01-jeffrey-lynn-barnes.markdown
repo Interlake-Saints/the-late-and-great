@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Jeffrey Lynn Barnes
-sortKey: Barnes, Jeffrey Lynn
 date:   2016-08-01
 categories: class-of-1977
 ---

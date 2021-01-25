@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  James Charles "Jim" Ingles
-sortKey:  Ingles, James Charles "Jim"
 date:   1977-12-11
 categories: class-of-1969
 tags: accident

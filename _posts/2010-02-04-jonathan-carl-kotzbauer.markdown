@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Jonathan Carl Kotzbauer
-sortKey:  Kotzbauer, Jonathan Carl
 date:   2010-02-04
 categories: class-of-1971
 ---

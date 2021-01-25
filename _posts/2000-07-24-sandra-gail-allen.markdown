@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Sandra Gail "Sandy" Allen
-sortKey: Allen, Sandra Gail "Sandy"
 date:   2000-07-24
 categories: class-of-1977
 ---

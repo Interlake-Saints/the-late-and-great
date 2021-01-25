@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Stephen Curtis Griggs
-sortKey:  Griggs, Stephen Curtis
 date:   1974-12-19
 categories: class-of-1970
 ---

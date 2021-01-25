@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Stanley Keith "Stan" Jones
-sortKey: Jones, Stanley Keith "Stan"
 date:   2015-09-12
 categories: class-of-1976
 ---

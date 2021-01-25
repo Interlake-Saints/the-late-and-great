@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Sherman H. Ewing Jr.
-sortKey: Ewing Jr., Sherman H. 
 date:   1993-03-12
 categories: class-of-1977
 tags: accident

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Sarah Joyce Lindeman
-sortKey: Lindeman, Sarah Joyce
 date:   2007-10-21
 categories: class-of-1976
 ---

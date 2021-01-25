@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Ralph Jay Paasch
-sortKey:  Paasch, Ralph Jay
 date:   2002-05-07
 categories: class-of-1970
 ---

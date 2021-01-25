@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  William Kim Kumbera
-sortKey:  Kumbera, William Kim
 date:   1984-12-01
 categories: class-of-1970
 ---

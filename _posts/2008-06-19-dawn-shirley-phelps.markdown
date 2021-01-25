@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Dawn Shirley Phelps
-sortKey: Phelps, Dawn Shirley
 date:   2008-06-19
 categories: class-of-1976
 ---

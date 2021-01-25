@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Karen Ann Hawkins
-sortKey:  Hawkins, Karen Ann
 date:   2011-06-20
 categories: class-of-1970
 ---

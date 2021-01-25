@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Kathleen Lynn "Kathy" Colvin
-sortKey:  Colvin, Kathleen Lynn "Kathy"
 date:   2008-05-07
 categories: class-of-1969
 ---

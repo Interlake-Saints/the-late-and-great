@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Stephen Anthony Hallek
-sortKey: Hallek, Stephen Anthony
 date:   1978-02-15
 categories: class-of-1976
 tags: accident

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Gary Lee Stroeher
-sortKey:  Stroeher, Gary Lee
 date:   1992-06-04
 categories: class-of-1969
 ---

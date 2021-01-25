@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  William Kevin "Bill" Kriner
-sortKey: Kriner, William Kevin "Bill"
 date:   2013-11-30
 categories: class-of-1977
 tags: cancer

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Kathy Ann Watson
-sortKey: Watson, Kathy Ann
 date:   2020-04-13
 categories: class-of-1977
 tags: accident

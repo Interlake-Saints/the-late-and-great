@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Kimberly Ann Ruhl
-sortKey: Ruhl, Kimberly Ann
 date:   2014-02-28
 categories: class-of-1977
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Reed Kushner
-sortKey:  Kushner, Reed
 date:   1989-05-13
 categories: class-of-1972
 ---

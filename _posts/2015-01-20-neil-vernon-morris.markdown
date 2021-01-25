@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Neil Vernon Morris
-sortKey: Morris, Neil Vernon
 date:   2015-01-20
 categories: class-of-1975
 ---

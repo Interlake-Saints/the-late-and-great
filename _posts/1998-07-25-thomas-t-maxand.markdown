@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Thomas T. Maxand
-sortKey:  Maxand, Thomas T.
 date:   1998-07-25
 categories: class-of-1973
 ---

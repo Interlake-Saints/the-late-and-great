@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Mari Anne "Annie" Bartholmey
-sortKey: Bartholmey, Mari Anne "Annie"
 date:   2006-10-28
 categories: class-of-1976
 tags: cancer

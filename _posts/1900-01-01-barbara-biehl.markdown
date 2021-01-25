@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Barbara "Barbie" Biehl
-sortKey: Biehl, Barbara "Barbie"
 date:   1900-01-01
 dateUnknown: true
 categories: class-of-1977

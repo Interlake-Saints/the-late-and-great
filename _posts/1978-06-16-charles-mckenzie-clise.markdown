@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Charles McKenzie Clise
-sortKey:  Clise, Charles McKenzie
 date:   1978-06-16
 categories: class-of-1973
 tags: accident

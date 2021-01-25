@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Alice Marie Brems
-sortKey: Brems, Alice Marie
 date:   1982-11-12
 categories: class-of-1977
 ---
