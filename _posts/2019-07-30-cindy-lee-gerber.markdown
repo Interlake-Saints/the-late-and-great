@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Cindy Lee Gerber
+date: 2019-07-30
+categories: class-of-1978
+tags: surgical-complications
+---
+Cindy graduated from Sammamish in 1978, but she attended Interlake for her sophomore year in 1976. Many would remember her working at The Nooner restaurant in Bellevue, where she was employed for over 24 years. Cindy passed away on July 30, 2019, from complications after major surgery. Her obituary can be found [here](https://tinyurl.com/y6n2y5dj).
