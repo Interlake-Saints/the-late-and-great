@@ -1,0 +1,9 @@
+---
+layout: post
+title: Helen Kay Blakney
+date: 1999-03-30
+categories: staff
+tags: cancer
+---
+Helen was an interpreter for hearing impaired students at both Highland Middle School and Interlake. She died of myeloma on March 30, 1999. She was 57.
+
