@@ -45,11 +45,12 @@ layout: default
 
       <div class="post-content">
 
-        {% if page.image %}
-          <img src="{{ page.image }}" class="preview-img" alt="Preview Image">
-        {% endif %}
 
         {{ content }}
+
+        {% for image in page.images %}
+            <img src="{{ image }}" class="preview-img" alt="{{ page.title }}">
+		{% endfor %}
 
       </div>
 
