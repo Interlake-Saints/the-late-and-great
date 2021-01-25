@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Patrick Davis Beathe
+date: 1997-07-28
+categories: class-of-1985
+---
+
+Patrick lived in Oklahoma and he was a sergeant in the U.S. Army.  He died on July 28, 1997.  He is buried in Addington Cemetery in Addington, Oklahoma.
+
+

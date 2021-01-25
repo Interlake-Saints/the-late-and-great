@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Mark P. Segalla
+date: 1988-04-15
+categories: class-of-1985
+---
+
+According to friends, Mark was really sweet, loved to party and LOVED ZZ Top. He died on April 15, 1988 and is still missed by his closest friends.
+
+

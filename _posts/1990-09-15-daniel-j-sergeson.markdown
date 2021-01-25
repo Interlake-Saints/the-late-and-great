@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Daniel J. Sergeson
+date: 1990-09-15
+categories: class-of-1982
+tags: accident
+---
+
+Daniel died on September 15, 1990, in a plane crash. He was trying to land at Hood River Airport in Oregon when his plane stalled in midair. He and three friends were returning to Seattle from Spokane after attending a wedding. Daniel was 26.
+
+
