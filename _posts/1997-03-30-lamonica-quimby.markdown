@@ -1,0 +1,8 @@
+---
+layout: post
+title:  LaMonica Quimby
+date: 1997-03-30
+categories: class-of-1992
+tags: infection
+---
+LaMonica died of appendicitis on March 30, 1997.

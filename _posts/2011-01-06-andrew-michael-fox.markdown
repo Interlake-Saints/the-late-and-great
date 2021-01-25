@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Andrew Michael Fox
+date: 2011-01-06
+categories: class-of-2003
+---
+Andy was shot by Bellevue police the early morning of Jan 6, 2011 at a Chevron station on Bellevue Way, after officers say he threatened them with a knife. He was 25 years old. Andy's obituary can be read [here](http://tinyurl.com/kape24v).

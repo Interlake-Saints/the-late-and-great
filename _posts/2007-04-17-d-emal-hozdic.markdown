@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Džemal "Jamal" Hozdic
+date: 2007-04-17
+categories: class-of-2007
+tags: accident
+---
+Jamal died on April 17, 2007 from injuries sustained in a motorcycle accident. He was 18 years old.

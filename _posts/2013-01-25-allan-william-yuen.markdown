@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Allan William Yuen
+date: 2013-01-25
+categories: class-of-1992
+tags: stroke
+---
+Allan passed away due to complications from a stroke on January 25, 2013. He was 38 years old. A memorial page in his honor was set up [here](http://tinyurl.com/kx8go8u).

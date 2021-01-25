@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Demond Eugene Page
+date: 2015-04-07
+categories: class-of-1992
+---
+Demond did not graduate with the class of '92, but he bounced in and out of Interlake for a couple of years, and he had many friends in the graduating class who knew him from local youth sports teams. He was also a member of the 1990 IHS football team. Demond passed away in Kent on April 7, 2015.  He was 43 years old.  A short obituary can be found [here](http://tinyurl.com/zgwow58).
