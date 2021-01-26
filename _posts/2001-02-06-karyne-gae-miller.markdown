@@ -4,5 +4,7 @@ title:  Karyne Gae Miller
 date:   2001-02-06
 categories: class-of-1973
 tags: cancer
+images:
+  - /assets/class-of-1973/karyne-g-miller-1.png
 ---
 Karyne died of cancer on February 6, 2001. She was 46 years old. Her obituary can be found [here](http://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=Karyne-Miller&pid=17500521).
