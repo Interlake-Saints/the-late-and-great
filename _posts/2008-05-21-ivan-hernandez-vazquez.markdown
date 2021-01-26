@@ -4,5 +4,6 @@ title:  Ivan Hernandez-Vazquez
 date: 2008-05-21
 categories: class-of-2008
 tags: murder
+images: /assets/class-of-2008/ivan-hernandez-vazquez-1.jpg
 ---
 Ivan was an immigrant from Mexico who came to the United States alone when he was 14 years old. He worked three jobs and studied English at Interlake in an ESL program. He was murdered by an acquaintance on May 21, 2008.  A newspaper story about the incident can be found [here](http://tinyurl.com/l9lys6k).
