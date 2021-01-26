@@ -4,5 +4,6 @@ title:  James M. Faulk
 date:   1970-05-03
 categories: class-of-1971
 tags: accident
+images: /assets/class-of-1971/james-m-faulk-1.png
 ---
 James was killed in a car crash on May 3, 1970, during his junior year of high school.  He was only 16 years old.
