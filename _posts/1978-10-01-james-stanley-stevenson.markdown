@@ -4,5 +4,6 @@ title:  James Stanley "Jim" Stevenson
 date:   1978-10-01
 categories: class-of-1970
 tags: accident
+images: /assets/class-of-1970/james-s-stevenson-1.png
 ---
 Jim died after a motorcycle accident near Redmond in October of 1978.
