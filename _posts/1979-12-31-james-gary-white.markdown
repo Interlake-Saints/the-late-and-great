@@ -3,5 +3,6 @@ layout: post
 title:  James Gary White
 date:   1979-12-31
 categories: class-of-1972
+images: /assets/class-of-1972/james-g-white-1.png
 ---
 Jim passed away in the late '70s
