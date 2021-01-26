@@ -4,5 +4,8 @@ title:  Katherine Linda "Katy" Downham
 date:   2006-01-04
 categories: class-of-1969
 tags: cancer
+images:
+  - /assets/class-of-1969/katherine-l-downham-1.png
+  - /assets/class-of-1969/katherine-l-downham-2.jpg
 ---
 Katy, also known as Katherine Downham Reese, was born in Surrey, England, and was a 1969 Interlake graduate.  She passed away on January 4, 2006 after a courageous battle with cancer. Katy's obituary can be read [here](http://tinyurl.com/nqfxsht)

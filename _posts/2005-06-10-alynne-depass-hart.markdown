@@ -4,5 +4,8 @@ title:  Alynne DePass Hart
 date:   2005-06-10
 categories: class-of-1969
 tags: cancer
+images:
+  - /assets/class-of-1969/alynne-depass-hart-1.png
+  - /assets/class-of-1969/alynne-depass-hart-2.jpg
 ---
 Alynne, aka Alynne DePass Hart Jacques, passed away on June 10, 2005 after a long battle with breast cancer. She was 54.
