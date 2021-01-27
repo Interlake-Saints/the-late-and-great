@@ -4,5 +4,8 @@ title:  Ronald S. Rowbotham
 date: 2009-12-23
 categories: class-of-1979
 tags: heart-disease
+images:
+  - /assets/class-of-1979/ronald-s-rowbotham-1.png
+  - /assets/class-of-1979/ronald-s-rowbotham-2.jpg
 ---
 Ron died of a heart attack in his home on December 23, 2009. He was 49.

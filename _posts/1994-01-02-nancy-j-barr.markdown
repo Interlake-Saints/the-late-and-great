@@ -4,5 +4,6 @@ title:  Nancy J. Barr
 date: 1994-01-02
 categories: class-of-1979
 tags: infection
+images: /assets/class-of-1979/nancy-j-barr-1.png
 ---
 Nancy died from complications of meningitis on January 2, 1994.
