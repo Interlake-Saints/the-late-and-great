@@ -3,7 +3,7 @@ layout: post
 title:  Eric Martin Galanti
 date: 2018-04-15
 categories: class-of-1994
-tags: natural-causes
+tags: respiratory-failure
 images:
   - /assets/class-of-1994/eric-m-galanti-1.jpg
   - /assets/class-of-1994/eric-m-galanti-2.jpg

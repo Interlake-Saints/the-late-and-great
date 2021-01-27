@@ -3,6 +3,7 @@ layout: post
 title: Dennis Garrity
 date: 2012-02-07
 categories: staff
+tags: illness
 images:
   - /assets/staff/dennis-garrity-1.png
 ---

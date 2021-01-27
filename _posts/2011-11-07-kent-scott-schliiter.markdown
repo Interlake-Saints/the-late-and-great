@@ -3,6 +3,7 @@ layout: post
 title:  Kent Scott Schliiter
 date: 2011-11-07
 categories: class-of-1987
+tags: illness
 images:
   - /assets/class-of-1987/kent-s-schliiter-1.png
   - /assets/class-of-1987/kent-s-schliiter-2.jpg

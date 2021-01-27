@@ -6,5 +6,3 @@ categories: class-of-1979
 tags: infection
 ---
 Nancy died from complications of meningitis on January 2, 1994.
-
-

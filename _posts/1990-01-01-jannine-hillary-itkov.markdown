@@ -6,7 +6,4 @@ dateUnknown: true
 categories: class-of-1987
 tags: accident
 ---
-
 Jannine died in a head-on car crash in Arizona in the early 90's.
-
-

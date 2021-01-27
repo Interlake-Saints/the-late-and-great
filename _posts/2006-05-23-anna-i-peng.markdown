@@ -6,5 +6,3 @@ categories: class-of-1988
 images: /assets/class-of-1988/anna-i-peng-1.png
 ---
 Anna died on May 23, 2006.
-
-

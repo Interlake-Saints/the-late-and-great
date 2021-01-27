@@ -6,7 +6,4 @@ dateUnknown: true
 categories: class-of-1983
 tags: accident
 ---
-
 Tom died in a skiing accident.
-
-
