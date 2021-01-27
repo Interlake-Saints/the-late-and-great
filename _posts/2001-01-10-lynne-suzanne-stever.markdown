@@ -3,6 +3,6 @@ layout: post
 title:  Lynne Suzanne Stever
 date: 2001-01-10
 categories: class-of-1981
-tags: 
+images: /assets/class-of-1981/lynne-s-stever-1.png 
 ---
 Lynne passed away on January 10, 2001. She was 38 years old.
