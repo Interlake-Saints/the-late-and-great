@@ -144,7 +144,7 @@ defaults:
       type: tabs             # see `site.collections`
     values:
       layout: page
-      dynamic_title: true    # Hide title in mobile screens.
+      dynamic_title: false    # Hide title in mobile screens.
       breadcrumb:
         -
           label: Home
