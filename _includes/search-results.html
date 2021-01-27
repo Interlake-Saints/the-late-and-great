@@ -1,10 +1,3 @@
-<!--
-  The Search results
-  v2.0
-  https://github.com/cotes2020/jekyll-theme-chirpy
-  © 2017-2019 Cotes Chung
-  MIT License
--->
 <div id="search-result-wrapper" class="d-flex justify-content-center unloaded">
   <div class="col-12 col-xl-11 post-content">
     <div id="search-hints">
@@ -13,7 +6,7 @@
       {% include trending-tags.html %}
 
       {% for tag in trending_tags %}
-        {% capture url %}/tags/{{ tag | slugify | url_encode }}/{% endcapture %}
+        {% capture url %}/cause/{{ tag | slugify | url_encode }}/{% endcapture %}
         <a class="post-tag" href="{{ url | relative_url }}">{{ tag | replace: '-', ' ' }}</a>
       {% endfor %}
 
