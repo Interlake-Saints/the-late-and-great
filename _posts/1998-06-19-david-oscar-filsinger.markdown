@@ -3,5 +3,6 @@ layout: post
 title:  David Oscar Filsinger
 date:   1998-06-19
 categories: class-of-1974
+images: /assets/class-of-1974/david-o-filsinger-1.png
 ---
 Dave passed away on June 19, 1998. He was 42 years old. His obituary can be found [here](http://tinyurl.com/nlprucw).
