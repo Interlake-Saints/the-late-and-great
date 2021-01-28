@@ -29,6 +29,9 @@ layout: page
     {% assign posts = posts | push: default[i] %}
   {% endfor %}
 {% endif %}
+{% if paginator.page == 1 %}
+  {{ content }}
+{% endif %}
 <div id="post-list">
   {% for post in posts %}
     <div class="post-preview">
