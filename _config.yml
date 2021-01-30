@@ -170,3 +170,4 @@ exclude:
   - docs
   - README.md
   - LICENSE
+  - Rakefile
