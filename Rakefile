@@ -16,6 +16,6 @@ task :clean do
 end
 
 desc "Start up the site"
-task :go do
+task go: %w[clean] do
   sh "bundle exec jekyll serve --livereload"
 end
