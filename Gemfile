@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# gem "jekyll", ">= 4.1.0", "< 5.0"
+# if the build starts failing or development and production are inconsistent check https://pages.github.com/versions/
 gem "github-pages", "~> 210", group: :jekyll_plugins
 gem "webrick"
 
