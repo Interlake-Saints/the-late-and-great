@@ -1,12 +1,12 @@
 task :default => :test
 
 desc "Run tests"
-task test: %w[clean build] do
-  sh "bundle exec htmlproofer --log-level :debug ./_site &> links.log"
+task test: %w[build] do
+  sh "bundle exec htmlproofer --log-level :warn ./_site &> links.log"
 end
 
 desc "Build the site"
-task :build do
+task build: %w[clean] do
   sh "bundle exec jekyll build --drafts"
 end
 
