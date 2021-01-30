@@ -19,7 +19,7 @@ comments: true
       <div class="post-content">
         {{ content }}
         {% for image in page.images %}
-            <img src="{{ image }}" class="preview-img" alt="{{ page.title }}">
+            <img src="{{ image }}" class="preview-img" alt="{{ page.title | escape }}">
 			<br>
 		{% endfor %}
       </div>
