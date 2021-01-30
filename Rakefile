@@ -12,7 +12,7 @@ end
 
 desc "Clean up"
 task :clean do
-  sh "rm -rf ./_site links.log"
+  sh "rm -rf ./_site ./links.log ./.jekyll-cache ./.jekyll-metadata"
 end
 
 desc "Start up the site"
