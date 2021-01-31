@@ -4,5 +4,6 @@ title:  Stephen Anthony Hallek
 date:   1978-02-15
 categories: class-of-1976
 tags: accident
+images: /assets/class-of-1976/stephen-a-hallek-1.png
 ---
 Steve was involved in a car accident on Sunday, February 12, 1978.  He was a passenger in a vehicle that hit a patch of ice on 204th Avenue Northeast, and spun out of control and into a tree.  He died in Overlake Hospital three days later, on February 15, 1978.  He was only 19 years old.

@@ -4,5 +4,8 @@ title:  Linda Faye Hunter
 date:   1998-01-01
 categories: class-of-1976
 tags: diabetes
+images:
+  - /assets/class-of-1976/linda-f-hunter-1.png
+  - /assets/class-of-1976/linda-f-hunter-2.png
 ---
 Linda, aka Linda F. Guidry, passed away in Seattle in 1998.

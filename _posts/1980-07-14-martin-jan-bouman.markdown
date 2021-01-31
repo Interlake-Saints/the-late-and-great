@@ -4,5 +4,8 @@ title:  Martin Jan Bouman
 date:   1980-07-14
 categories: class-of-1976
 tags: accident
+images:
+  - /assets/class-of-1976/martin-j-bouman-1.png
+  - /assets/class-of-1976/martin-j-bouman-2.png
 ---
 Martin died in a late night car accident near the Puyallup River Bridge on July 14, 1980.  He was headed northbound on Interstate 5 when he was hit by two cars, one of which was a drunk driver going the wrong way.  Martin was only 22 years old.
