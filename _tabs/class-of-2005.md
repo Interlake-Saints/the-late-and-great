@@ -5,5 +5,5 @@ permalink: class-of-2005
 breadcrumb:
   -
     label: Classes of 2000s
-    url: /classes-of-2000s/
+    url: /classes-of-2000s
 ---
