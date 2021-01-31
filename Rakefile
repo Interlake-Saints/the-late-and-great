@@ -1,8 +1,9 @@
-task :default => :test
+require 'html-proofer'
 
 desc "Run tests"
 task test: %w[build] do
-  sh "bundle exec htmlproofer --log-level :warn ./_site &> links.log"
+  options = { :assume_extension => true, :log_level => 'error' }
+  HTMLProofer.check_directory("./_site", options).run
 end
 
 desc "Build the site"
@@ -12,7 +13,7 @@ end
 
 desc "Clean up"
 task :clean do
-  sh "rm -rf ./_site ./links.log ./.jekyll-cache ./.jekyll-metadata"
+  sh "rm -rf ./_site ./.jekyll-cache ./.jekyll-metadata"
 end
 
 desc "Start up the site"
