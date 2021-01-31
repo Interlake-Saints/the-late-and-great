@@ -7,4 +7,4 @@ tags: cancer
 images:
   - /assets/staff/joseph-n-underwood-1.jpg
 ---
-Joesph was a counselor at Interlake in the 1970's. He died after a tough battle with cancer on September 5, 2004. His full obituary can be found [here](http://tinyurl.com/kvndkaa).
+Joseph was a counselor at Interlake in the 1970's. He died after a tough battle with cancer on September 5, 2004.

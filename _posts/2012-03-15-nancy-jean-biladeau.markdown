@@ -8,4 +8,4 @@ images:
   - /assets/class-of-1984/nancy-j-biladeau-1.png
   - /assets/class-of-1984/nancy-j-biladeau-2.jpg
 ---
-For nearly 22 years, Nancy worked as a steward at the Hyatt Regency in Bellevue, and would take daily trips by bus to the library and the mall. Tragically, she died on March 15, 2012 when the driver of her bus accidentally hit her as he was pulling away from the curb. She was 47. A video tribute to Nancy's life can be found [here](http://safeshare.tv/w/djdeKzsvWE). Her obituary can be found [here](http://tinyurl.com/ohpdpnb).
+For nearly 22 years, Nancy worked as a steward at the Hyatt Regency in Bellevue, and would take daily trips by bus to the library and the mall. Tragically, she died on March 15, 2012 when the driver of her bus accidentally hit her as he was pulling away from the curb. She was 47. A video tribute to Nancy's life can be found [here](http://safeshare.tv/w/djdeKzsvWE).
