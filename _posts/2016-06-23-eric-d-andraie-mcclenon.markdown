@@ -7,4 +7,4 @@ images:
   - /assets/class-of-1986/eric-d-mcclenon-1.png
   - /assets/class-of-1986/eric-d-mcclenon-2.jpg
 ---
-Eric died unexpectedly on June 23, 2016 at his home in Everett, WA.  [Here](http://tinyurl.com/gtj9bo7) is his full obituary.
+Eric died unexpectedly on June 23, 2016 at his home in Everett, WA.

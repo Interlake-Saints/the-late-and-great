@@ -4,5 +4,8 @@ title:  Kathy Ann Watson
 date:   2020-04-13
 categories: class-of-1977
 tags: accident
+obituary: https://www.sigsfuneralservices.com/obituary/Kathy-Askew
 ---
-Kathy, aka Kathy Watson Askew, loved her family and her friends dearly and she made everyone feel special when they were with her. She enjoyed new adventures, being on the go, and spending time in nature. She also enjoyed skiing, riding motorcycles, reading, making pies, spending time with friends, and a good glass of wine. She was a follower of Jesus, loved the Lord, and attended church at Cedar Park Church in Bothell. Sadly, she passed away on Monday, April 13, 2020 in Stanwood, WA, as the result of a tragic motorcycle accident. She was 61 years old. Kathy's full obituary can be found [here](https://tinyurl.com/y8zua6au).
+Kathy, aka Kathy Watson Askew, loved her family and her friends dearly and she made everyone feel special when they were with her. She enjoyed new adventures, being on the go, and spending time in nature. She also enjoyed skiing, riding motorcycles, reading, making pies, spending time with friends, and a good glass of wine. She was a follower of Jesus, loved the Lord, and attended church at Cedar Park Church in Bothell. Sadly, she passed away on Monday, April 13, 2020 in Stanwood, WA, as the result of a tragic motorcycle accident. She was 61 years old.
+
+Kathy's full obituary can be found [here](https://www.sigsfuneralservices.com/obituary/Kathy-Askew).

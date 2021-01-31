@@ -6,5 +6,8 @@ categories: class-of-1975
 images:
   - /assets/class-of-1975/anne-m-ryan-1.png
   - /assets/class-of-1975/anne-m-ryan-2.jpg
+obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=ann-m-ryan&pid=170871715
 ---
-Ann served as the assistant Attorney General for the State of Washington. She died at her home in Lacey, WA on April 2, 2014. She was 55 years old. Ann's full obituary can be found [here](http://tinyurl.com/mse6yel).
+Ann served as the assistant Attorney General for the State of Washington. She died at her home in Lacey, WA on April 2, 2014. She was 55 years old.
+
+Ann's full obituary can be found [here](https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=ann-m-ryan&pid=170871715).

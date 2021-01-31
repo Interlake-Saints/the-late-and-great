@@ -3,5 +3,8 @@ layout: post
 title:  Dawn Shirley Phelps
 date:   2008-06-19
 categories: class-of-1976
+obituary: https://www.mem.com/Biography/2499462/8223501/8223504?title=Biography
 ---
-Dawn passed away on June 19, 2008 in Austin, TX after a brief and sudden illness. Her obituary can be read [here](http://tinyurl.com/k2uf9hd).
+Dawn passed away on June 19, 2008 in Austin, TX after a brief and sudden illness.
+
+Her obituary can be read [here](https://www.mem.com/Biography/2499462/8223501/8223504?title=Biography).

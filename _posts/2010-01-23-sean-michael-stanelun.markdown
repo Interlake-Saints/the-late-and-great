@@ -7,5 +7,8 @@ tags: surgical-complications infection
 images:
   - /assets/class-of-1979/sean-m-stanelun-1.png
   - /assets/class-of-1979/sean-m-stanelun-2.jpg
+obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sean-michael-stanelun&pid=139433699
 ---
-Sean died January 23, 2010, due to complications following pancreatic surgery and necrotizing fasciitis. His obituary was printed [here](http://tinyurl.com/ka9m3km).
+Sean died January 23, 2010, due to complications following pancreatic surgery and necrotizing fasciitis.
+
+His obituary was printed [here](https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sean-michael-stanelun&pid=139433699).

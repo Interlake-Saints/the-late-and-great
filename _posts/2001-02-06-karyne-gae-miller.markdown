@@ -6,5 +6,8 @@ categories: class-of-1973
 tags: cancer
 images:
   - /assets/class-of-1973/karyne-g-miller-1.png
+obituary: http://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=Karyne-Miller&pid=17500521
 ---
-Karyne died of cancer on February 6, 2001. She was 46 years old. Her obituary can be found [here](http://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=Karyne-Miller&pid=17500521).
+Karyne died of cancer on February 6, 2001. She was 46 years old.
+
+Her obituary can be found [here](http://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=Karyne-Miller&pid=17500521).

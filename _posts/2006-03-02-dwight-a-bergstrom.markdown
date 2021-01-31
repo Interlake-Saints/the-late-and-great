@@ -7,5 +7,8 @@ tags: cancer
 images:
   - /assets/class-of-1975/dwight-a-bergstrom-1.png
   - /assets/class-of-1975/dwight-a-bergstrom-2.png
+obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Dwight-Bergstrom&pid=16999938
 ---
-Dwight died on March 2, 2006 after a long battle with cancer. His obituary can be found [here](http://tinyurl.com/qhbh4zd).
+Dwight died on March 2, 2006 after a long battle with cancer.
+
+His obituary can be found [here](https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Dwight-Bergstrom&pid=16999938).

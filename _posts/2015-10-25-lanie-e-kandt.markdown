@@ -6,5 +6,8 @@ categories: class-of-1990
 images:
   - /assets/class-of-1990/lanie-e-kandt-1.png
   - /assets/class-of-1990/lanie-e-kandt-2.jpg
+obituary: https://www.penbaypilot.com/article/lanie-k-crawford-obituary/61510
 ---
-Lanie, aka Lanie Kandt Crawford, worked at Hope Health Family Practice in Camden, Maine as a clinical assistant, where she was much loved by patients and staff. She died unexpectedly at her home in Camden on October 25th, 2015. She was 43 years old. Lanie's full obituary can be found [here](http://tinyurl.com/odj8rhd).
+Lanie, aka Lanie Kandt Crawford, worked at Hope Health Family Practice in Camden, Maine as a clinical assistant, where she was much loved by patients and staff. She died unexpectedly at her home in Camden on October 25th, 2015. She was 43 years old.
+
+Lanie's full obituary can be found [here](https://www.penbaypilot.com/article/lanie-k-crawford-obituary/61510).

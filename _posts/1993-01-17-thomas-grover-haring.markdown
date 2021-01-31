@@ -5,5 +5,8 @@ date:   1993-01-17
 categories: class-of-1972
 tags: cancer
 images: /assets/class-of-1972/thomas-g-haring-1.png
+obituary: http://texts.cdlib.org/view?docId=hb0h4n99rb&doc.view=frames&chunk.id=div00027&toc.depth=1&toc.id
 ---
-Tom was an acclaimed professor of education (special education) at UC Santa Barbara. He died of a malignant brain tumor on January 17, 1993. He was 39 years old. In his honor, The Thomas Haring Doctoral Fellowship was established to fund students interested in the study of persons with severe disabilities, the field of research to which he dedicated his short yet productive life. Tom's obituary can be read [here](http://tinyurl.com/lyz6kdr).
+Tom was an acclaimed professor of education (special education) at UC Santa Barbara. He died of a malignant brain tumor on January 17, 1993. He was 39 years old. In his honor, The Thomas Haring Doctoral Fellowship was established to fund students interested in the study of persons with severe disabilities, the field of research to which he dedicated his short yet productive life.
+
+Tom's obituary can be read [here](http://texts.cdlib.org/view?docId=hb0h4n99rb&doc.view=frames&chunk.id=div00027&toc.depth=1&toc.id).
