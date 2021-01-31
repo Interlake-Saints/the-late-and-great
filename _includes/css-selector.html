@@ -7,7 +7,7 @@
 -->
 
 
-{% if page.layout == 'category' or page.layout == 'tag' %}
+{% if page.layout == 'category' or page.layout == 'tag' or page.layout == 'classes' %}
   {% assign style = 'category-tag' %}
 {% else %}
   {% assign style =  page.layout %}

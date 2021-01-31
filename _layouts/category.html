@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-{% assign page_id = page.id | remove: "/" %}
+{% assign page_id = page.url | remove: "/" %}
 {% assign posts = site.categories[page_id] %}
 <div id="page-category">
   <h1 class="pl-lg-2">

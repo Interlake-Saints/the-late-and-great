@@ -1,0 +1,19 @@
+---
+layout: page
+---
+<div id="page-category">
+  <h1 class="pl-lg-2">
+    <i class="far fa-folder-open fa-fw text-muted"></i>
+    {{ page.title }}
+  </h1>
+  <ul class="post-content pl-0">
+    {% for category in page.categories %}
+	  {% assign death_count = site.categories[category].size %}
+      <li class="d-flex justify-content-between pl-md-3 pr-md-3">
+		<a href="/{{ category }}/">{{ category | replace: "-", " " | replace: "class", "Class" }}</a>
+		<span class="dash flex-grow-1"></span>
+		<span class="text-muted small">{% if death_count > 0 %}{{ death_count }}{% else %}0{% endif %}</span>
+	  </li>
+    {% endfor %}
+  </ul>
+</div>

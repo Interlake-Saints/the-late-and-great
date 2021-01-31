@@ -9,7 +9,7 @@
 # --------------------------
 title: Interlake High School Memorial Wall
 
-tagline: Dedicated to our classmates
+tagline: Dedicated to graduates and staff
 
 description: >-                        # used by seo meta and the atom feed
   Dedicated to all the IHS graduates and staff who have passed away throughout the years.
@@ -124,7 +124,7 @@ defaults:
       toc: true         # Display TOC column in posts.
       breadcrumb:
         -
-          label: Posts
+          label: Home
           url: /
   -
     scope:
@@ -137,18 +137,7 @@ defaults:
     values:
       breadcrumb:
         -
-          label: Posts
-  -
-    scope:
-      path: ''
-      type: tabs             # see `site.collections`
-    values:
-      layout: page
-      dynamic_title: false    # Hide title in mobile screens.
-      breadcrumb:
-        -
           label: Home
-          url: /
 
 sass:
   sass_dir: /assets/css
