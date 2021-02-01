@@ -7,7 +7,6 @@ tags: cancer
 images:
   - /assets/class-of-1973/sally-l-swenson-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sally-linnea-wikoff-swenson&pid=175963321
+gender: female
 ---
 Sally, aka Sally Linnea Wikoff, died peacefully at her home in Seattle with her family beside her on September 24, 2015.  She was 60 years old.  Sally had been courageously fighting a recurrence of breast cancer since 2013.
-
-Her full obituary can be found [here](https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sally-linnea-wikoff-swenson&pid=175963321).

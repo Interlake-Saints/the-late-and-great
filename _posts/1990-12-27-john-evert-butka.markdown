@@ -8,5 +8,6 @@ images:
   - /assets/class-of-1975/john-e-butka-1.png
   - /assets/class-of-1975/john-e-butka-2.png
   - /assets/class-of-1975/john-e-butka-3.jpg
+gender: male
 ---
 Jack died in a motorcycle accident in Everett on December 27, 1990. He was 34 years old.

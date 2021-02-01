@@ -6,5 +6,6 @@ dateUnknown: true
 categories: staff
 images:
   - /assets/staff/david-h-keys-1.png
+gender: male
 ---
 David Keys was a reading assistant at Interlake in the early 70's.  He passed away in the early 80's.

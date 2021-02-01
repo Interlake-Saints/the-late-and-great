@@ -4,5 +4,6 @@ title:  Amy E. Huff
 date: 2010-10-15
 categories: class-of-1996 class-of-1997
 images: /assets/class-of-1997/amy-e-huff-1.jpg 
+gender: female
 ---
 Amy, who was in the class of '97 but graduated in '96, was a trauma nurse overseas for our soldiers. She died unexpectedly on October 15, 2010. She was 31 years old.

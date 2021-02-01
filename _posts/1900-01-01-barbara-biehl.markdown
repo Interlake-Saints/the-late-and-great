@@ -6,5 +6,6 @@ dateUnknown: true
 categories: class-of-1977
 tags: homicide
 images: /assets/class-of-1977/barbara-biehl-1.png
+gender: female
 ---
 Barbie, aka Barbara Biehl Bates, died during a domestic violence incident. She was murdered while attempting to stop a man from beating up his wife.

@@ -4,5 +4,6 @@ title:  William Kim Kumbera
 date:   1984-12-01
 categories: class-of-1970
 images: /assets/class-of-1970/william-k-kumbera-1.png
+gender: male
 ---
 William passed away in December of 1984

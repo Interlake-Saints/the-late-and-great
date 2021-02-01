@@ -6,5 +6,6 @@ dateUnknown: true
 categories: class-of-1972
 tags: cancer
 images: /assets/class-of-1972/cidney-l-pardue-1.png
+gender: female
 ---
 Cid passed away after a battle with ovarian cancer.

@@ -7,5 +7,6 @@ tags: diabetes
 images:
   - /assets/class-of-1976/linda-f-hunter-1.png
   - /assets/class-of-1976/linda-f-hunter-2.png
+gender: female
 ---
 Linda, aka Linda F. Guidry, passed away in Seattle in 1998.

@@ -6,5 +6,6 @@ categories: class-of-1984
 tags: heart-disease
 images:
   - /assets/class-of-1984/peter-kalasountas-1.png
+gender: male
 ---
 Pete died of a heart attack in Bellevue on February 18, 2001.

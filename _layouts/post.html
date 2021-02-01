@@ -18,10 +18,19 @@ comments: true
       </div> <!-- .post-meta -->
       <div class="post-content">
         {{ content }}
+        {% if page.obituary %}
+          {% assign pronoun =  'Their' %}
+          {% if page.gender == 'male' %}
+            {% assign pronoun =  'His' %}
+          {% elsif page.gender == 'female' %}
+            {% assign pronoun =  'Her' %}
+          {% endif %}
+          <p>{{ pronoun }} obituary can be found <a href="{{ page.obituary }}">here</a>.</p>
+        {% endif %}
         {% for image in page.images %}
-            <img src="{{ image }}" class="preview-img" alt="{{ page.title | escape }}">
-			<br>
-		{% endfor %}
+          <img src="{{ image }}" class="preview-img" alt="{{ page.title | escape }}">
+          <br>
+        {% endfor %}
       </div>
       <div class="post-tail-wrapper text-muted">
         <!-- categories -->

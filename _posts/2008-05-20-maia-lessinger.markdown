@@ -6,6 +6,7 @@ categories: class-of-1976
 tags: accident
 images:
   - /assets/class-of-1976/maia-lessinger-1.png
+gender: female
 ---
 Maia, aka Maia Haykin, was riding her bike in Bellingham's Boulevard Park on May 20, 2008 when she was hit by an Amtrak train. She died instantly. She was 49.
 

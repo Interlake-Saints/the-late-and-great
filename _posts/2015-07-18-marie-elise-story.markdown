@@ -7,5 +7,6 @@ tags: cancer
 images:
   - /assets/class-of-1992/marie-e-story-1.jpg
   - /assets/class-of-1992/marie-e-story-2.jpg
+gender: female
 ---
 Marie, aka Marie Story Feldman, passed away on July 18, 2015, after a long and brave battle with metastasized breast cancer.

@@ -7,5 +7,6 @@ tags: respiratory-failure
 images:
   - /assets/class-of-1976/dino-c-puzzo-1.png
   - /assets/class-of-1976/dino-c-puzzo-2.png
+gender: male
 ---
 Dino passed away in his sleep of respiratory failure on October 29, 2007. He had fallen asleep in a chair without his CPAP machine. Dino was 49.

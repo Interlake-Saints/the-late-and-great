@@ -6,5 +6,6 @@ categories: class-of-1986
 images:
   - /assets/class-of-1986/jennifer-l-augustine-1.jpg
   - /assets/class-of-1986/jennifer-l-augustine-2.png
+gender: female
 ---
 Jennifer passed away on August 22, 2012 in Oroville, CA.  She was 44 years old.

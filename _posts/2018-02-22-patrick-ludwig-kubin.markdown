@@ -4,7 +4,6 @@ title:  Patrick Ludwig Kubin
 date:   2018-02-22
 categories: class-of-1977
 tags: accident
-obituary: https://tdn.com/lifestyles/announcements/obituaries/patrick-l-kubin/article_cac16ec5-b0a1-5ee1-97bc-491b791cddc0.html
 images:
   - /assets/class-of-1977/patrick-l-kubin-1.jpg
   - /assets/class-of-1977/patrick-l-kubin-2.png

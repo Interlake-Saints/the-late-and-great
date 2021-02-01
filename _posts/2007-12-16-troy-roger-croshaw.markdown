@@ -7,5 +7,6 @@ tags: cancer
 images:
   - /assets/class-of-1979/troy-r-croshaw-1.png
   - /assets/class-of-1979/troy-r-croshaw-2.jpg
+gender: male
 ---
 Troy passed away December 16, 2007 after a courageous battle with kidney cancer. He was 46.

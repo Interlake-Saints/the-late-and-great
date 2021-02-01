@@ -7,5 +7,6 @@ tags: accident
 images:
   - /assets/class-of-1974/lorie-a-rasmussen-1.png
   - /assets/class-of-1974/lorie-a-rasmussen-2.jpg
+gender: female
 ---
 Lorie died in a canoe accident on May 9, 2002, while training for the Ski to Sea race. She was living in Bellingham with her husband Mark and daughter Emma at the time. If anyone has any stories, memories or pictures of Lorie they would like to share please email [Rick Rasmussen](mailto:theresarick@comcast.net).

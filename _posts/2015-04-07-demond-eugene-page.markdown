@@ -7,7 +7,6 @@ images:
   - /assets/class-of-1992/demond-e-page-1.jpg
   - /assets/class-of-1992/demond-e-page-2.jpg
 obituary: https://cascadememorial.com/obituary/136385/Demond-Page/#obituary
+gender: male
 ---
 Demond did not graduate with the class of '92, but he bounced in and out of Interlake for a couple of years, and he had many friends in the graduating class who knew him from local youth sports teams. He was also a member of the 1990 IHS football team. Demond passed away in Kent on April 7, 2015.  He was 43 years old.
-
-A short obituary can be found [here](https://cascadememorial.com/obituary/136385/Demond-Page/#obituary).

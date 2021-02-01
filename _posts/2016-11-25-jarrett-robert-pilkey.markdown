@@ -7,5 +7,6 @@ tags: heart-disease
 images:
   - /assets/class-of-1999/jarrett-robert-pilkey-1.jpg
   - /assets/class-of-1999/jarrett-robert-pilkey-2.jpg
+gender: male
 ---
 Jarrett passed away on November 25, 2016.  He was hiking at Granite Falls with his friends the day after Thanksgiving when he had a sudden and unexpected heart attack.  He was only 36 years old.  A [memorial page](http://www.forevermissed.com/jarrett-pilkey/) was set up in Jarrett's honor.

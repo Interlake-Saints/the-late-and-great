@@ -7,5 +7,6 @@ tags: heart-disease
 images:
   - /assets/class-of-1996/granger-quen-chuk-lam-1.jpg
   - /assets/class-of-1996/granger-quen-chuk-lam-2.jpg
+gender: male
 ---
 Granger became a competetive bodybuilder after high school.  He died of cardiac arrest on July 28, 2009.  He was 30 years old.  A memorial page was set up for him [here](http://www.grangerlam.com/).

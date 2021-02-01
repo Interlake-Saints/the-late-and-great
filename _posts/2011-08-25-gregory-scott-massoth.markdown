@@ -7,5 +7,6 @@ tags: natural-causes
 images:
   - /assets/class-of-1982/gregory-scott-massoth-1.jpg
   - /assets/class-of-1982/gregory-scott-massoth-2.jpg
+gender: male
 ---
 Greg died of natural causes at his home in Idaho on August 25, 2011. He was 47 years old.

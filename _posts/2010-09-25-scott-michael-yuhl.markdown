@@ -8,6 +8,7 @@ images:
   - /assets/class-of-1979/scott-m-yuhl-1.png
   - /assets/class-of-1979/scott-m-yuhl-2.jpg
   - /assets/class-of-1979/scott-m-yuhl-3.jpg
+gender: male
 ---
 Scott, a superintendent at Skaar Construction, died suddenly on Sept. 25, 2010 of natural causes. He was 49.
 

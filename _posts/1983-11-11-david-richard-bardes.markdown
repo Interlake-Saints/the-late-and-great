@@ -6,5 +6,6 @@ categories: class-of-1977
 tags:  cancer
 images:
   - /assets/class-of-1977/david-r-bardes-1.png
+gender: male
 ---
 David died of complications from lung cancer on November 11, 1983.  He was 24 years old.

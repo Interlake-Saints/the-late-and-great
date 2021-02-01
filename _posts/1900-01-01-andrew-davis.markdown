@@ -5,4 +5,5 @@ date: 1900-01-01
 dateUnknown: true
 categories: class-of-2001
 images: /assets/class-of-2001/andrew-davis-1.jpg
+gender: male
 ---

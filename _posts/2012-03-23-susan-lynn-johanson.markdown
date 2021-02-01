@@ -8,5 +8,6 @@ images:
   - /assets/class-of-1979/susan-l-johanson-1.png
   - /assets/class-of-1979/susan-l-johanson-2.jpg
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=157082637
+gender: female
 ---
-Susan passed away on March 23, 2012, after a courageous battle with cancer. A memorial to her can be found [here](https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=157082637).
+Susan passed away on March 23, 2012, after a courageous battle with cancer.

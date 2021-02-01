@@ -6,5 +6,6 @@ dateUnknown: true
 categories: class-of-1980
 tags: accident
 images: /assets/class-of-1980/eric-t-krech-1.jpg
+gender: male
 ---
 Eric died in an accident in January of 2006. 

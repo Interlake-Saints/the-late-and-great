@@ -5,4 +5,5 @@ date: 1900-01-01
 dateUnknown: true
 categories: class-of-1985
 images: /assets/class-of-1985/ann-rhay-1.png
+gender: female
 ---

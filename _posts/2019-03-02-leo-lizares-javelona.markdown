@@ -8,5 +8,6 @@ images:
   - /assets/class-of-1992/leo-l-javelona-1.jpg
   - /assets/class-of-1992/leo-l-javelona-2.jpg
   - /assets/class-of-1992/leo-l-javelona-3.jpg
+gender: male
 ---
 Leo was only 5'2", but he was a star basketball player at Interlake despite his size. He was even featured on a King 5 news report in the spring of 1992. Leo worked as a manager at Costco for many years before being diagnosed with colon cancer in December of 2018. Sadly, he passed away on March 2, 2019.

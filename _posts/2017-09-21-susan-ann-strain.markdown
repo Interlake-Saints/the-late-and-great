@@ -7,5 +7,6 @@ tags: infection
 images:
   - /assets/class-of-1971/susan-a-strain-1.png
   - /assets/class-of-1971/susan-a-strain-2.jpg
+gender: female
 ---
 Susan, aka Sue Lancaster, was battling a virus when she passed away unexpectedly on September 21, 2017.
