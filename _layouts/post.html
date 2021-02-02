@@ -64,7 +64,9 @@ comments: true
             by the author.
           </div>
           {% endif %}
-          {% include post-sharing.html %}
+          {% unless site.disqus.comments and page.comments %}
+            {% include post-sharing.html %}
+          {% endunless %}
         </div><!-- .post-tail-bottom -->
       </div><!-- div.post-tail -->
     </div> <!-- .post -->
