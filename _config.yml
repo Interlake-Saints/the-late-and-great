@@ -92,9 +92,9 @@ social:
     - https://www.facebook.com/mariolanza
 tagline: Dedicated to graduates and staff
 theme_mode: dark
+timezone: America/Los_Angeles
 title: Interlake High School Memorial Wall
 url: 'https://interlake-saints.github.io'
-timezone: America/Los_Angeles
 toc: true
 twitter:
   username: MarioJLanza
