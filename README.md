@@ -12,3 +12,5 @@ Entries are in _posts.  Each field means as follows:
 * categories: Either the class in the form of "class-of-1974" or "staff". Can contain multiple values in cases where the person was both staff and student.
 * tags: The causes of death.  Use the tags in _cause.
 * images: A list of URLs to images.  Ideally local images such as "/assets/241166_1771058511999_6511222_o.jpg"
+
+The current build status is [![Netlify Status](https://api.netlify.com/api/v1/badges/99da697e-e799-4653-860a-835d4e2dbacb/deploy-status)](https://app.netlify.com/sites/nostalgic-mestorf-f3c08f/deploys).
