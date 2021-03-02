@@ -14,3 +14,5 @@ Entries are in _posts.  Each field means as follows:
 * images: A list of URLs to images.  Ideally local images such as "/assets/241166_1771058511999_6511222_o.jpg"
 
 The current build status is [![Netlify Status](https://api.netlify.com/api/v1/badges/99da697e-e799-4653-860a-835d4e2dbacb/deploy-status)](https://app.netlify.com/sites/nostalgic-mestorf-f3c08f/deploys).
+
+The site has dependencies on Segment.com for analytics, Disqus for comments, and Netlify for hosting and DNS. calef maintains the access credentials for these resources.
