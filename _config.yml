@@ -70,6 +70,7 @@ kramdown:
       start_line: 1
 paginate: 25
 permalink: /:categories/:title/
+repository: Interlake-Saints/interlake-saints.github.io
 sass:
   sass_dir: /assets/css
   style: compressed
