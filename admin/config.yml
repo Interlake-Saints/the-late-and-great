@@ -31,6 +31,11 @@ collections:
         widget: 'boolean'
         required: false
         hint: 'Mark true if the exact date is not known.'
+      - label: 'Author'
+        name: 'author'
+        widget: 'string'
+        required: false
+        hint: 'Defaults to Mario Lanza if left blank.'
       - label: 'Categories'
         name: 'categories'
         widget: 'select'
