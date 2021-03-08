@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Anthony B. "Tony" Fox
+title: Anthony B. "Tony" Fox
 date: 2006-01-12
 categories: class-of-1992
 images: /assets/class-of-1992/anthony-b-fox-1.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Amy J. Mallon
+title: Amy J. Mallon
 date: 1984-12-11
 categories: class-of-1982
 tags: cystic-fibrosis
