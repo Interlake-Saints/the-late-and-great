@@ -4,7 +4,7 @@ title:  Julie Marie Sumner
 sortKey: Sumner, Julie
 date:   1979-03-27
 categories: class-of-1977
-tags: accident
+tags: accident drowning
 images:
   - /assets/class-of-1977/julie-m-sumner-1.png
   - /assets/class-of-1977/julie-m-sumner-2.png

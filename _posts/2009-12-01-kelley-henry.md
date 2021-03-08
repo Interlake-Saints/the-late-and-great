@@ -4,7 +4,7 @@ title:  Kelley Henry
 sortKey: Henry, Kelley
 date:   2009-12-01
 categories: class-of-1976
-tags: house-fire
+tags: accident
 images:
   - /assets/class-of-1976/kelley-henry-1.png
   - /assets/class-of-1976/kelley-henry-2.png

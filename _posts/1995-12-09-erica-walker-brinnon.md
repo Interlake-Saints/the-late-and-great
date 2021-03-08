@@ -4,7 +4,7 @@ title:  Erica Walker Brinnon
 sortKey: Brinnon, Erica
 date: 1995-12-09
 categories: class-of-1996
-tags: accident
+tags: accident traffic
 images:
   - /assets/class-of-1996/erica-w-brinnon-1.jpg
   - /assets/class-of-1996/erica-w-brinnon-2.jpg

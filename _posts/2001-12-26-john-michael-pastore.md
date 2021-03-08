@@ -4,7 +4,7 @@ title:  John Michael Pastore
 sortKey: Pastore, John
 date: 2001-12-26
 categories: class-of-2002
-tags: heart-disease
+tags: cardiovascular-disease
 images: /assets/class-of-2002/john-michael-pastore-1.jpg
 gender: male
 ---

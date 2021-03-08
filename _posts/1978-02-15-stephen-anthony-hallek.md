@@ -4,7 +4,7 @@ title:  Stephen Anthony Hallek
 sortKey: Hallek, Stephen
 date:   1978-02-15
 categories: class-of-1976
-tags: accident
+tags: accident traffic
 images:
   - /assets/class-of-1976/stephen-a-hallek-1.png
 gender: male

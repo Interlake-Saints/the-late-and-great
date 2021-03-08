@@ -4,7 +4,7 @@ title:  Melissa Garber
 sortKey: Garber, Melissa
 date: 1995-03-22
 categories: class-of-1986
-tags: accident
+tags: accident traffic
 images:
   - /assets/class-of-1986/melissa-garber-1.png
   - /assets/class-of-1986/melissa-garber-2.jpg

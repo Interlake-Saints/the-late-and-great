@@ -4,7 +4,7 @@ title:  Ronald S. Rowbotham
 sortKey: Rowbotham, Ronald
 date: 2009-12-23
 categories: class-of-1979
-tags: heart-disease
+tags: cardiovascular-disease
 images:
   - /assets/class-of-1979/ronald-s-rowbotham-1.png
   - /assets/class-of-1979/ronald-s-rowbotham-2.jpg

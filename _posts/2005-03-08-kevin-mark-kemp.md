@@ -4,7 +4,7 @@ title:  Kevin Mark Kemp
 sortKey: Kemp, Kevin
 date:   2005-03-08
 categories: class-of-1976
-tags: aortic-rupture
+tags: cardiovascular-disease
 obituary: https://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=Kevin-Mark-Kemp&pid=3275058
 images:
   - /assets/class-of-1976/kevin-m-kemp-1.png

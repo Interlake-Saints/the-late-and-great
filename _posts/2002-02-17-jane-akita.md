@@ -4,7 +4,7 @@ title: Jane Akita
 sortKey: Akita, Jane
 date: 2002-02-17
 categories: staff
-tags: cerebral-aneurysm
+tags: stroke
 images: /assets/staff/jane-akita-1.png
 gender: female
 ---

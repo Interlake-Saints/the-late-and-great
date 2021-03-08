@@ -4,7 +4,7 @@ title:  Vivek Reddy Kanmatha
 sortKey: Kanmatha, Vivek
 date: 1996-08-10
 categories: class-of-1996
-tags: accident
+tags: accident traffic
 images: /assets/class-of-1996/vivek-r-kanmatha-1.jpg
 gender: male
 ---

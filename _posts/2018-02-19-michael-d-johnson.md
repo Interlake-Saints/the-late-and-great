@@ -4,7 +4,6 @@ title:  Michael D. Johnson
 sortKey: Johnson, Michael
 date:   2018-02-19
 categories: class-of-1977
-tags: illness
 obituary: https://www.wenatcheeworld.com/news/2018/mar/06/michael-d-johnson-1/
 images: /assets/class-of-1977/michael-d-johnson-1.jpg
 gender: male

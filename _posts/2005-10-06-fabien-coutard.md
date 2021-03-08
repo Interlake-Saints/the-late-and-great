@@ -4,7 +4,7 @@ title:  Fabien Coutard
 sortKey: Coutard, Fabien
 date: 2005-10-06
 categories: class-of-2001
-tags: accident
+tags: accident traffic
 images: /assets/class-of-2001/fabien-coutard-1.jpg
 gender: male
 ---

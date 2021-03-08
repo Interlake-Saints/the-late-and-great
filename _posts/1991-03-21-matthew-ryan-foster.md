@@ -4,7 +4,7 @@ title:  Matthew Ryan Foster
 sortKey: Foster, Matthew
 date: 1991-03-21
 categories: class-of-1990
-tags: accident
+tags: accident traffic
 images: /assets/class-of-1990/matthew-r-foster-1.png
 gender: male
 ---

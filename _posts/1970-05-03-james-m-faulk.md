@@ -4,7 +4,7 @@ title:  James M. Faulk
 sortKey: Faulk, James
 date:   1970-05-03
 categories: class-of-1971
-tags: accident
+tags: accident traffic
 images: /assets/class-of-1971/james-m-faulk-1.png
 gender: male
 ---

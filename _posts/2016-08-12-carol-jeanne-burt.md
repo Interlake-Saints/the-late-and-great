@@ -4,7 +4,6 @@ title:  Carol Jeanne Burt
 sortKey: Burt, Carol
 date:   2016-08-12
 categories: class-of-1973
-tags: illness
 images:
   - /assets/class-of-1973/carol-j-burt-1.png
   - /assets/class-of-1973/carol-j-burt-2.jpg

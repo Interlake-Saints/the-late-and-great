@@ -4,7 +4,7 @@ title:  Charles McKenzie Clise
 sortKey: Clise, Charles
 date:   1978-06-16
 categories: class-of-1973
-tags: accident
+tags: accident traffic
 images:
   - /assets/class-of-1973/charles-m-clise-1.png
   - /assets/class-of-1973/charles-m-clise-2.png

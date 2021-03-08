@@ -4,7 +4,7 @@ title:  Michael Clarence Calhoun
 sortKey: Calhoun, Michael
 date: 2018-03-12
 categories: class-of-1985
-tags: heart-disease
+tags: cardiovascular-disease
 images:
   - /assets/class-of-1985/michael-clarence-calhoun-1.jpg
   - /assets/class-of-1985/michael-clarence-calhoun-2.png

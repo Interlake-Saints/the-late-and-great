@@ -4,7 +4,6 @@ title:  Deanna R. Germann
 sortKey: Germann, Deanna
 date: 2006-09-23
 categories: class-of-1983
-tags: natural-causes
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Deanna-Germann&pid=19374601
 gender: female
 ---

@@ -4,7 +4,7 @@ title:  Worthington Long Enslow
 sortKey: Enslow, Worthington
 date:   2014-02-10
 categories: class-of-1974
-tags: cerebral-aneurysm heart-disease
+tags: stroke cardiovascular-disease
 images: /assets/class-of-1974/worthington-l-enslow-1.jpg
 gender: male
 ---

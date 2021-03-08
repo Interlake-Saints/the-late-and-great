@@ -4,7 +4,7 @@ title: John Clendon "Hoss" DeRoulet, Jr.
 sortKey: DeRoulet, John
 date: 1973-07-28
 categories: class-of-1974
-tags: homicide
+tags: homicide firearms
 images:
   - /assets/class-of-1974/john-c-deroulet-jr-1.png
   - /assets/class-of-1974/john-c-deroulet-jr-2.png

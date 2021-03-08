@@ -4,7 +4,7 @@ title:  Jarrett Robert Pilkey
 sortKey: Pilkey, Jarrett
 date: 2016-11-25
 categories: class-of-1999
-tags: heart-disease
+tags: cardiovascular-disease
 images:
   - /assets/class-of-1999/jarrett-robert-pilkey-1.jpg
   - /assets/class-of-1999/jarrett-robert-pilkey-2.jpg

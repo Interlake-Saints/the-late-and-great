@@ -4,7 +4,7 @@ title:  Mathew Lundy Hyslop
 sortKey: Hyslop, Mathew
 date:   1976-03-26
 categories: class-of-1977
-tags: accident
+tags: accident traffic
 images:
   - /assets/class-of-1977/mathew-l-hyslop-1.png
 gender: male

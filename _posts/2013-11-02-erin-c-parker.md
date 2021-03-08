@@ -4,7 +4,7 @@ title:  Erin C. Parker
 sortKey: Parker, Erin
 date: 2013-11-02
 categories: class-of-1988
-tags: heart-disease
+tags: cardiovascular-disease
 images:
   - /assets/class-of-1988/erin-c-parker-1.png
   - /assets/class-of-1988/erin-c-parker-2.jpg

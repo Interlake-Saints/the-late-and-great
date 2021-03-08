@@ -5,7 +5,7 @@ sortKey: Nelson, Susie
 date: 1996-01-01
 dateUnknown: true
 categories: class-of-1983
-tags: accident
+tags: accident traffic
 images: /assets/class-of-1983/susie-nelson-1.png
 gender: female
 ---

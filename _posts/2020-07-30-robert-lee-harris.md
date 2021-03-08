@@ -4,7 +4,7 @@ title:  Robert Lee Harris
 sortKey: Harris, Robert
 date: 2020-07-30
 categories: class-of-1985
-tags: heart-disease
+tags: cardiovascular-disease
 images:
   - /assets/class-of-1985/robert-lee-harris-1.png
   - /assets/class-of-1985/robert-lee-harris-2.jpg

@@ -4,7 +4,7 @@ title:  Loren C. "Larry" James
 sortKey: James, Loren
 date:   2009-02-12
 categories: class-of-1974
-tags: heart-disease
+tags: cardiovascular-disease
 images: /assets/class-of-1974/loren-c-james-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Loren-James&pid=124417477
 gender: male

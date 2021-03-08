@@ -4,7 +4,7 @@ title:  Nadine L. Pieters
 sortKey: Pieters, Nadine
 date:   1987-11-01
 categories: class-of-1977
-tags: accident
+tags: traffic homicide
 images: /assets/class-of-1977/nadine-l-pieters-1.png
 gender: female
 ---

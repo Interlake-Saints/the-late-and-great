@@ -4,7 +4,7 @@ title:  Margaret A. "Peggy" Synner
 sortKey: Synner, Margaret
 date: 1980-02-06
 categories: class-of-1979
-tags: house-fire
+tags: accident
 images:
   - /assets/class-of-1979/margaret-a-synner-1.png
 gender: female

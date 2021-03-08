@@ -4,7 +4,7 @@ title:  John Evert "Jack" Butka
 sortKey: Butka, John
 date:   1990-12-27
 categories: class-of-1975
-tags: accident
+tags: accident traffic
 images:
   - /assets/class-of-1975/john-e-butka-1.png
   - /assets/class-of-1975/john-e-butka-2.png

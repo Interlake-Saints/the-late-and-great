@@ -4,7 +4,7 @@ title:  Granger Quen Chuk Lam
 sortKey: Lam, Granger
 date: 2009-07-28
 categories: class-of-1996
-tags: heart-disease
+tags: cardiovascular-disease
 images:
   - /assets/class-of-1996/granger-quen-chuk-lam-1.jpg
   - /assets/class-of-1996/granger-quen-chuk-lam-2.jpg

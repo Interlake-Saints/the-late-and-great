@@ -4,7 +4,7 @@ title:  Pavel Paulishin
 sortKey: Paulishin, Pavel
 date: 2000-01-17
 categories: class-of-1997
-tags: accident
+tags: accident traffic
 images: /assets/class-of-1997/pavel-paulishin-1.jpg
 gender: male
 ---
