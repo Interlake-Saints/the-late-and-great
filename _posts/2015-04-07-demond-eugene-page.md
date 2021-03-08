@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Demond Eugene Page
+sortKey: Page, Demond
 date: 2015-04-07
 categories: class-of-1992
 images:

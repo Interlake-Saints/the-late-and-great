@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Patrick James Stark
+sortKey: Stark, Patrick
 date: 2017-04-17
 categories: class-of-1986
 images:

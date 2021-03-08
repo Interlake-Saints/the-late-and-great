@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Diane Friedenbach
+sortKey: Friedenbach, Diane
 date: 2020-06-25
 categories: class-of-1988
 tags: cancer

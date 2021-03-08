@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Richard C. "Dick" Warner
+sortKey: Warner, Richard
 date: 1976-04-12
 categories: staff
 tags: accident

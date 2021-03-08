@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Kathleen Lynn "Kathy" Colvin
+sortKey: Colvin, Kathleen
 date:   2008-05-07
 categories: class-of-1969
 tags: multiple-sclerosis

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Dwight A. Bergstrom
+sortKey: Bergstrom, Dwight
 date:   2006-03-02
 categories: class-of-1975
 tags: cancer

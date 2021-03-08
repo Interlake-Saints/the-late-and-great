@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Michael Minter Smith
+sortKey: Smith, Michael
 date: 2010-06-10
 categories: staff
 images: /assets/staff/michael-m-smith-1.jpg

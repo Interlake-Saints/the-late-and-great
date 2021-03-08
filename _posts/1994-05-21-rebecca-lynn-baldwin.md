@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Rebecca Lynn "Becky" Baldwin
+sortKey: Baldwin, Rebecca
 date:   1994-05-21
 categories: class-of-1973
 images:

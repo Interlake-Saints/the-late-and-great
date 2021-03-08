@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Dennis Patrick Dalton
+sortKey: Dalton, Dennis
 date: 1983-09-23
 categories: class-of-1980
 gender: male

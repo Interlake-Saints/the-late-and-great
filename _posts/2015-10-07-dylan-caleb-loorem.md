@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Dylan "Tank" Caleb Loorem
+sortKey: Loorem, Dylan
 date: 2015-10-07
 categories: class-of-1999
 tags: heart-disease

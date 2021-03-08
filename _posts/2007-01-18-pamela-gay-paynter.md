@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Pamela Gay Paynter
+sortKey: Paynter, Pamela
 date: 2007-01-18
 categories: class-of-1978
 tags: cancer

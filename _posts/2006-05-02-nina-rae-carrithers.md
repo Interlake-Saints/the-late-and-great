@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Nina Rae Carrithers
+sortKey: Carrithers, Nina
 date: 2006-05-02
 categories: class-of-1988
 tags: illness

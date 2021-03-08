@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Robert "Bob" William Steadman
+sortKey: Steadman, Robert
 date: 2012-08-19
 categories: staff
 tags: cancer

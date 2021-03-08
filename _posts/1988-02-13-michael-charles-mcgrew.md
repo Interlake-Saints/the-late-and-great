@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Michael Charles McGrew
+sortKey: McGrew, Michael
 date: 1988-02-13
 categories: class-of-1979
 images:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Michael D. Johnson
+sortKey: Johnson, Michael
 date:   2018-02-19
 categories: class-of-1977
 tags: illness

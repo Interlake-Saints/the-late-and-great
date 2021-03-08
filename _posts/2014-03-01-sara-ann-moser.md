@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sara Ann Moser
+sortKey: Moser, Sara
 date: 2014-03-01
 categories: staff
 images:

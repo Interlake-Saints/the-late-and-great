@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Brian Yoshio Kusakabe
+sortKey: Kusakabe, Brian
 date: 2002-11-07
 categories: class-of-1978
 tags: cancer

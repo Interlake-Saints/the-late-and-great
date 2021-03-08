@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Michael Allan Garber
+sortKey: Garber, Michael
 date: 2003-02-23
 categories: class-of-1985
 images: /assets/class-of-1985/michael-allan-garber-1.png

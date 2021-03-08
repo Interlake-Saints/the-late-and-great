@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Karie Jean Jones
+sortKey: Jones, Karie
 date: 2008-03-16
 categories: class-of-1980
 tags: infection

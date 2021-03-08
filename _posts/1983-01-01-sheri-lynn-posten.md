@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Sheri Lynn Posten
+sortKey: Posten, Sheri
 date: 1983-01-01
 dateUnknown: true
 categories: class-of-1978

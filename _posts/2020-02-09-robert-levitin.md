@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Robert "Bob" Levitin
+sortKey: Levitin, Robert
 date: 2020-02-09
 categories: staff
 images:

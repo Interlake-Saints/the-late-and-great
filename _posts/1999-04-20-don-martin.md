@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Don Martin
+sortKey: Martin, Don
 date: 1999-04-20
 categories: staff
 tags: heart-disease

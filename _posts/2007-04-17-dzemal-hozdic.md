@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Džemal "Jamal" Hozdic
+sortKey: Hozdic, Džemal
 date: 2007-04-17
 categories: class-of-2007
 tags: accident

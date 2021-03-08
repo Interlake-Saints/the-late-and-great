@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Troy L. Tuor
+sortKey: Tuor, Troy
 date: 2004-01-29
 categories: class-of-1988
 images:

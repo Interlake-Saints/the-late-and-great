@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Henry John Kuehn
+sortKey: Kuehn, Henry
 date: 2017-03-08
 categories: staff
 images:

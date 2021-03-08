@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Jenifer F. Moore
+sortKey: Moore, Jenifer
 date: 1900-01-01
 dateUnknown: true
 categories: class-of-1978

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jean "Tina" Gerard
+sortKey: Gerard, Jean
 date: 2009-10-06
 categories: staff
 tags: cancer

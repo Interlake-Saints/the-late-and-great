@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Kimberly Ann Ruhl
+sortKey: Ruhl, Kimberly
 date:   2014-02-28
 categories: class-of-1977
 obituary: https://www.legacy.com/obituaries/greenvilleonline/obituary.aspx?page=lifestory&pid=170006363

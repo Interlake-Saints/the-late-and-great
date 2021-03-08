@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  John Kendall "Jack" Morgan
+sortKey: Morgan, John
 date: 1991-02-27
 categories: class-of-1981
 tags: killed-in-action

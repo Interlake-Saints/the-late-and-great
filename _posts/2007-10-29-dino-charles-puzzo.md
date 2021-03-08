@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Dino Charles Puzzo
+sortKey: Puzzo, Dino
 date:   2007-10-29
 categories: class-of-1976
 tags: respiratory-failure

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Melissa Garber
+sortKey: Garber, Melissa
 date: 1995-03-22
 categories: class-of-1986
 tags: accident

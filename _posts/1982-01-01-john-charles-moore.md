@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  John Charles Moore
+sortKey: Moore, John
 date: 1982-01-01
 dateUnknown: true
 categories: class-of-1982

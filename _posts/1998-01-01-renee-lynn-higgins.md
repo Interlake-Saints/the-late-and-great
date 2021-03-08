@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Renee Lynn Higgins
+sortKey: Higgins, Renee
 date: 1998-01-01
 dateUnknown: true
 categories: class-of-1980

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Betty Jean Lassman
+sortKey: Lassman, Betty
 date: 2013-12-12
 categories: staff
 images: /assets/staff/betty-j-lassman-1.png

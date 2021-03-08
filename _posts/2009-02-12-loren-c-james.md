@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Loren C. "Larry" James
+sortKey: James, Loren
 date:   2009-02-12
 categories: class-of-1974
 tags: heart-disease

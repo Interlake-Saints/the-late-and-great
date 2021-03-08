@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Matthew Ryan Foster
+sortKey: Foster, Matthew
 date: 1991-03-21
 categories: class-of-1990
 tags: accident

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Paxton Smith Jr.
+sortKey: Smith, Paxton
 date: 1981-07-01
 dateUnknown: true
 categories: staff

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Patrick "Andy" Tumulty
+sortKey: Tumulty, Patrick
 date: 2000-05-28
 categories: class-of-1980
 tags: als

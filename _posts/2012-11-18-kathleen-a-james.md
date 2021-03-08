@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Kathleen A. "Kathy" James
+sortKey: James, Kathleen
 date: 2012-11-18
 categories: class-of-1978
 images:

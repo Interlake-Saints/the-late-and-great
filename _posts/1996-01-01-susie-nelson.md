@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Susie Nelson
+sortKey: Nelson, Susie
 date: 1996-01-01
 dateUnknown: true
 categories: class-of-1983

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Michael R. Synner
+sortKey: Synner, Michael
 date: 2007-10-20
 categories: class-of-1981
 gender: male

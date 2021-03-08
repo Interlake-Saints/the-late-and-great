@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Roger William Ringstad
+sortKey: Ringstad, Roger
 date: 2014-09-05
 categories: staff
 images:

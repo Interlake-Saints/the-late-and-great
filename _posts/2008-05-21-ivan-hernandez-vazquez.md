@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Ivan Hernandez-Vazquez
+sortKey: Hernandez-Vazquez, Ivan
 date: 2008-05-21
 categories: class-of-2008
 tags: homicide

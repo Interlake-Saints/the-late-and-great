@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Niko Suokko
+sortKey: Suokko, Niko
 date: 2018-02-25
 categories: class-of-2018
 tags: accident

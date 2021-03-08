@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Erica Walker Brinnon
+sortKey: Brinnon, Erica
 date: 1995-12-09
 categories: class-of-1996
 tags: accident

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Lynn Gagnon
+sortKey: Gagnon, Lynn
 date:   2008-06-25
 categories: class-of-1976
 tags: cancer

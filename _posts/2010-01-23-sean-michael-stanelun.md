@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Sean Michael Stanelun
+sortKey: Stanelun, Sean
 date: 2010-01-23
 categories: class-of-1979
 tags: surgical-complications infection

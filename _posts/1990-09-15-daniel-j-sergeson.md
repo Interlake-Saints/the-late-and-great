@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Daniel J. Sergeson
+sortKey: Sergeson, Daniel
 date: 1990-09-15
 categories: class-of-1982
 tags: accident

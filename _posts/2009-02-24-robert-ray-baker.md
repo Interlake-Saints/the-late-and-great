@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Robert Ray "Bob" Baker
+sortKey: Baker, Robert
 date: 2009-02-24
 categories: staff
 images:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Robert Lee Harris
+sortKey: Harris, Robert
 date: 2020-07-30
 categories: class-of-1985
 tags: heart-disease

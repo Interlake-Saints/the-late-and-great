@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Tina Mostashari
+sortKey: Mostashari, Tina
 date: 1994-01-23
 categories: class-of-1991
 tags: homicide

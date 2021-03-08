@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Troy Gregory Arsenian
+sortKey: Arsenian, Troy
 date: 2012-12-31
 categories: class-of-1983
 images:

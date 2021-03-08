@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Elisabeth Ann "Liz" Moser
+sortKey: Moser, Elisabeth
 date:   2015-03-25
 categories: class-of-1973
 tags: cancer

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Worthington Long Enslow
+sortKey: Enslow, Worthington
 date:   2014-02-10
 categories: class-of-1974
 tags: cerebral-aneurysm heart-disease

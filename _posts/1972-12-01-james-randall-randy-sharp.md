@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  James Randall "Randy" Sharp
+sortKey: Sharp, James
 date:   1972-12-01
 categories: class-of-1969
 images:

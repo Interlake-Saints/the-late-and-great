@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Carol Jeanne Burt
+sortKey: Burt, Carol
 date:   2016-08-12
 categories: class-of-1973
 tags: illness

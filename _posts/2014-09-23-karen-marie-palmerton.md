@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Karen Marie Palmerton
+sortKey: Palmerton, Karen
 date: 2014-09-23
 categories: class-of-1982
 tags: surgical-complications

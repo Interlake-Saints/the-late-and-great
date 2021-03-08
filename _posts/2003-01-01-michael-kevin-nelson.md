@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Michael Kevin Nelson
+sortKey: Nelson, Michael
 date: 2003-01-01
 dateUnknown: true
 categories: class-of-1979

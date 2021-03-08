@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Kenneth A. Frost
+sortKey: Frost, Kenneth
 date: 2015-08-16
 categories: class-of-1980
 images:

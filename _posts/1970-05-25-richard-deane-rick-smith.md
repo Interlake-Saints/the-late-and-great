@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Richard Deane "Rick" Smith
+sortKey: Smith, Richard
 date:   1970-05-25
 categories: class-of-1969
 tags: killed-in-action vietnam-war

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ralph D. Richardson
+sortKey: Richardson, Ralph
 date: 2014-11-01
 categories: staff
 images:

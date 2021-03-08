@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Susan "Sue" A. Blake
+sortKey: Blake, Susan
 date: 2018-01-11
 categories: class-of-1978
 images: /assets/class-of-1978/susan-a-blake-1.png

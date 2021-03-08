@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Josephine "Josie" Agoado
+sortKey: Agoado, Josephine
 date: 2015-06-14
 categories: staff
 images:

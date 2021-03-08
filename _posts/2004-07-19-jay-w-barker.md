@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Jay W. Barker
+sortKey: Barker, Jay
 date:   2004-07-19
 categories: class-of-1977
 images:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Elizabeth Anne Bartell
+sortKey: Bartell, Elizabeth
 date: 2015-09-29
 categories: class-of-1982
 tags: cancer

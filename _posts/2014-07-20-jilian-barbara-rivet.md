@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Jilian Barbara Rivet
+sortKey: Rivet, Jilian
 date: 2014-07-20
 categories: class-of-1981
 tags: illness

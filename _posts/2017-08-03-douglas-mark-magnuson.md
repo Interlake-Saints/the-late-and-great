@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Douglas Mark Magnuson
+sortKey: Magnuson, Douglas
 date:   2017-08-03
 categories: class-of-1975
 tags: cancer

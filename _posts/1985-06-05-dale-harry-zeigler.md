@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Dale Harry Zeigler
+sortKey: Zeigler, Dale
 date: 1985-06-05
 categories: class-of-1979
 tags: accident

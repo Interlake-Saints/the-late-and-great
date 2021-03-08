@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Markus James "Mark" Wells
+sortKey: Wells, Markus
 date: 2018-01-07
 categories: class-of-2000
 images: /assets/class-of-2000/markus-j-wells-1.jpg

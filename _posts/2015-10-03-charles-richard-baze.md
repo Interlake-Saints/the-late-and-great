@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Charles Richard "Richie" Baze
+sortKey: Baze, Charles
 date: 2015-10-03
 categories: class-of-1998
 images:

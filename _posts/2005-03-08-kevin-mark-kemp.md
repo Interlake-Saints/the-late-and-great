@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Kevin Mark Kemp
+sortKey: Kemp, Kevin
 date:   2005-03-08
 categories: class-of-1976
 tags: aortic-rupture

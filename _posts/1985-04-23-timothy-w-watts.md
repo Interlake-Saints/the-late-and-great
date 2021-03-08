@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Timothy W. Watts
+sortKey: Watts, Timothy
 date: 1985-04-23
 categories: class-of-1984
 tags: cancer

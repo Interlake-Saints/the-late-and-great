@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  John McCormick Reifel
+sortKey: Reifel, John
 date: 2010-09-16
 categories: class-of-1985
 images: /assets/class-of-1985/john-mccormick-reifel-1.jpg

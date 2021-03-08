@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Louise Calvert
+sortKey: Calvert, Louise
 date: 2009-12-18
 categories: staff
 tags: cancer

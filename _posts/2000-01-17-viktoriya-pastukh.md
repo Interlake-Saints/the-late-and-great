@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Viktoriya Pastukh
+sortKey: Pastukh, Viktoriya
 date: 2000-01-17
 categories: class-of-1998
 tags: accident

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Greta Jill Geffe
+sortKey: Geffe, Greta
 date: 2014-12-16
 categories: class-of-1979
 tags: cancer

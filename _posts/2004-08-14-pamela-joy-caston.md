@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Pamela Joy Caston
+sortKey: Caston, Pamela
 date:   2004-08-14
 categories: class-of-1974
 images: /assets/class-of-1974/pamela-j-caston-1.png

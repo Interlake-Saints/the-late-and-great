@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Monica Gotz
+sortKey: Gotz, Monica
 date: 2005-11-14
 categories: class-of-1979
 tags: cancer

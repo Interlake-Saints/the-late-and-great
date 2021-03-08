@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Janet Sutherland
+sortKey: Sutherland, Janet
 date:   2011-05-09
 categories: staff
 images: 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Robert Michael "Bob" Mooney
+sortKey: Mooney, Robert
 date: 2019-09-20
 categories: class-of-1979
 tags: cancer

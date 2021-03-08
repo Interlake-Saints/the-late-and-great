@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Alena Maria Sorm
+sortKey: Sorm, Alena
 date: 2011-09-12
 categories: class-of-1982
 images:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Denise Anderiene Dalton
+sortKey: Dalton, Denise
 date: 2014-09-27
 categories: class-of-1987
 tags: cancer

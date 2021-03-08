@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Michael Minter
+sortKey: Minter, Michael
 date: 1991-03-16
 categories: staff
 gender: male

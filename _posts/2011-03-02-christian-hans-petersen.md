@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Christian "Chris" Hans Petersen
+sortKey: Petersen, Christian
 date: 2011-03-02
 categories: class-of-1981
 tags: cancer

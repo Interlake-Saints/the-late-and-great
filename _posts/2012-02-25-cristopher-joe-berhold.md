@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Cristopher Joe Berhold
+sortKey: Berhold, Cristopher
 date:   2012-02-25
 categories: class-of-1976
 images: /assets/class-of-1976/chris-j-berhold-1.png

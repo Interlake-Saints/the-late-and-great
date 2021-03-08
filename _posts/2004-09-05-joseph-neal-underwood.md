@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Joseph Neal Underwood
+sortKey: Underwood, Joseph
 date: 2004-09-05
 categories: staff
 tags: cancer

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mary Park Christie
+sortKey: Christie, Mary
 date: 2015-09-29
 categories: staff
 gender: female

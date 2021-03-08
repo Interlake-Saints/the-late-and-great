@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Kevin Pellow
+sortKey: Pellow, Kevin
 date: 2009-11-11
 categories: class-of-1988
 images: /assets/class-of-1988/kevin-pellow-1.jpg

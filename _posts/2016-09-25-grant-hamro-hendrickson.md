@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Grant Hamro Hendrickson
+sortKey: Hendrickson, Grant
 date: 2016-09-25
 categories: staff
 images:

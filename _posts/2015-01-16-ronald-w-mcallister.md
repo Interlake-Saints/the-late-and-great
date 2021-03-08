@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ronald W. McAllister
+sortKey: McAllister, Ronald
 date: 2015-01-16
 categories: staff
 images:

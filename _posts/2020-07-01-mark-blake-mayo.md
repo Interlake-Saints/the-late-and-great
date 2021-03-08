@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Mark Blake Mayo
+sortKey: Mayo, Mark
 date: 2020-07-01
 categories: class-of-1982
 images:

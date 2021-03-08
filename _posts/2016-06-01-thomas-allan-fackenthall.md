@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thomas Allan Fackenthall
+sortKey: Fackenthall, Thomas
 date: 2016-06-01
 categories: staff
 images:

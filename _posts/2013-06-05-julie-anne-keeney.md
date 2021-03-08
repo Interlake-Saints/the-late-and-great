@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Julie Anne Keeney
+sortKey: Keeney, Julie
 date: 2013-06-05
 categories: staff
 images: /assets/staff/julie-a-keeney-1.jpg

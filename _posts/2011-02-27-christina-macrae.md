@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Christina "Tina" MacRae
+sortKey: MacRae, Christina
 date: 2011-02-27
 categories: staff
 images: /assets/staff/christina-macrae-1.jpg

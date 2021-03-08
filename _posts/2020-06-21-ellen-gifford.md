@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Ellen Gifford
+sortKey: Gifford, Ellen
 date:   2020-06-21
 categories: class-of-1973
 tags: dementia cancer

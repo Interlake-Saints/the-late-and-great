@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Eric Preston
+sortKey: Preston, Eric
 date: 2016-07-01
 dateUnknown: true
 categories: class-of-2001

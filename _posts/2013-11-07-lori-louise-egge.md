@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Lori Louise Egge
+sortKey: Egge, Lori
 date: 2013-11-07
 categories: class-of-1978
 tags: cancer

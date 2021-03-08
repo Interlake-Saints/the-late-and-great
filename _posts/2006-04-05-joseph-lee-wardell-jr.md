@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Joseph Lee Wardell Jr.
+sortKey: Wardell, Joseph
 date:   2006-04-05
 categories: class-of-1971
 tags: cancer

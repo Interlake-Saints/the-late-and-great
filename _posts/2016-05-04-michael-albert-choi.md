@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Michael Albert Choi
+sortKey: Choi, Michael
 date: 2016-05-04
 categories: class-of-2010
 images: /assets/class-of-2010/michael-a-choi-1.jpg

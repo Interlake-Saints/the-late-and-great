@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Gregory Scott Massoth
+sortKey: Massoth, Gregory
 date: 2011-08-25
 categories: class-of-1982
 tags: natural-causes

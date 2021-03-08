@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Mark Schreiner Callahan
+sortKey: Callahan, Mark
 date:   1989-01-12
 categories: class-of-1972
 images: /assets/class-of-1972/mark-s-callahan-1.png

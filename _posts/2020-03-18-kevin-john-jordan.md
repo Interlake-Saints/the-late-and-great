@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Kevin John Jordan
+sortKey: Jordan, Kevin
 date: 2020-03-18
 categories: class-of-1981
 obituary: https://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=kevin-jordan&pid=195912510

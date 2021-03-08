@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Bradley James Burns
+sortKey: Burns, Bradley
 date: 2003-12-19
 categories: class-of-1981
 tags: accident

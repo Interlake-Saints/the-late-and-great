@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Michael John Zimney Jr.
+sortKey: Zimney, Michael
 date: 2009-04-02
 categories: class-of-2011
 tags: pulmonary-embolism

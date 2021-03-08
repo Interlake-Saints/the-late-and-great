@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Sally Kaye Hooper
+sortKey: Hooper, Sally
 date:   2011-01-31
 categories: staff
 author: Paul Hyatt

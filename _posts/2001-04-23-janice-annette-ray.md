@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Janice Annette Ray
+sortKey: Ray, Janice
 date: 2001-04-23
 categories: class-of-1980
 tags: illness

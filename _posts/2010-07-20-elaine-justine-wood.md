@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Elaine Justine Wood
+sortKey: Wood, Elaine
 date:   2010-07-20
 categories: class-of-1972
 tags: cancer

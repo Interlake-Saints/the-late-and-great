@@ -1,6 +1,7 @@
 ---
 layout: post
 title: James Anthony Taylor
+sortKey: Taylor, James
 date: 1999-07-16
 categories: staff
 tags: heart-disease

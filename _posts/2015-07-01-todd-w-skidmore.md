@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Todd W. Skidmore
+sortKey: Skidmore, Todd
 date: 2015-07-01
 categories: class-of-1985
 tags: heart-disease

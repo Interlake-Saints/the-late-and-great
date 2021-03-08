@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Elizabeth "Liz" Coke
+sortKey: Coke, Elizabeth
 date: 2018-10-31
 dateUnknown: true
 categories: class-of-1984

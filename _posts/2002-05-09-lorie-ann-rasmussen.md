@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Lorie Ann Rasmussen
+sortKey: Rasmussen, Lorie
 date:   2002-05-09
 categories: class-of-1974
 tags: accident

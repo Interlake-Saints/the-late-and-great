@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Patrick Joel "Pat" Morton
+sortKey: Morton, Patrick
 date: 2015-02-11
 categories: class-of-1988
 images:

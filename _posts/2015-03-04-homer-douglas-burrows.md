@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Homer Douglas "Doug" Burrous
+sortKey: Burrous, Homer
 date:   2015-03-04
 categories: class-of-1975
 images:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Britt Jacqueline Green
+sortKey: Green, Britt
 date: 2010-01-01
 categories: class-of-1978
 tags: cancer

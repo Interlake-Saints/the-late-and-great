@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Melissa Ann "Missy" Dalgarn
+sortKey: Dalgarn, Melissa
 date:   2019-07-12
 categories: class-of-1971
 images:

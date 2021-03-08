@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Joseph D. Napenias
+sortKey: Napenias, Joseph
 date: 2005-12-29
 categories: class-of-2003
 tags: accident

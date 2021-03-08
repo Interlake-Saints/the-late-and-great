@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Lorianne Williams
+sortKey: Williams, Lorianne
 date: 1981-04-03
 categories: class-of-1980
 tags: accident

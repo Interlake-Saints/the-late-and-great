@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  James R. "Jim" Barry
+sortKey: Barry, James
 date:   2018-08-26
 categories: class-of-1977
 obituary: http://www.sitnews.us/0918News/090718/Obituary/090718_jim_barry.html

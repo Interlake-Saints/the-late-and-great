@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jane Sommers
+sortKey: Sommers, Jane
 date: 2008-10-19
 categories: staff
 images:

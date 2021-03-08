@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Craig W. Salathe
+sortKey: Salathe, Craig
 date:   2020-01-22
 categories: class-of-1975
 tags: surgical-complications

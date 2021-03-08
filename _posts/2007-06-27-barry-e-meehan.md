@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Barry E. Meehan
+sortKey: Meehan, Barry
 date: 2007-06-27
 categories: class-of-1982
 tags: accident

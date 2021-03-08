@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Merton Delos Proctor, Jr.
+sortKey: Proctor, Merton
 date: 1982-06-29
 categories: class-of-1979
 tags: accident

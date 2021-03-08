@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dennis Garrity
+sortKey: Garrity, Dennis
 date: 2012-02-07
 categories: staff
 tags: illness

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  John Frederick Stoddard
+sortKey: Stoddard, John
 date:   2005-08-15
 categories: class-of-1974
 images:

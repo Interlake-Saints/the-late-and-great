@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Tammy Henry-Perez
+sortKey: Henry-Perez, Tammy
 date:   2010-08-12
 categories: class-of-1975
 tags: cancer

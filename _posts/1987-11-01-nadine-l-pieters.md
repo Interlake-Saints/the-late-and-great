@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Nadine L. Pieters
+sortKey: Pieters, Nadine
 date:   1987-11-01
 categories: class-of-1977
 tags: accident

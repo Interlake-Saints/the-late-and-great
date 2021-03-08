@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Robert E. "Bob" Pickering
+sortKey: Pickering, Robert
 date: 2012-09-15
 categories: staff
 images:

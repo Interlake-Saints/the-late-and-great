@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Geri Lynn Siegrist
+sortKey: Siegrist, Geri
 date:   2017-11-06
 categories: class-of-1970
 tags: natural-causes

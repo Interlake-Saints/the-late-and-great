@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Romas Casimir Palas
+sortKey: Palas, Romas
 date: 1983-05-07
 categories: class-of-1983
 tags: accident

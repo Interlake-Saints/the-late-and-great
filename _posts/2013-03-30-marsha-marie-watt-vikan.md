@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Marsha Marie Watt-Vikan
+sortKey: Watt-Vikan, Marsha
 date:   2013-03-30
 categories: class-of-1973
 tags: cancer

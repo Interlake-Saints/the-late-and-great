@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Edward B. Arthur, Jr.
+sortKey: Arthur, Edward
 date:   1979-08-01
 categories: class-of-1974
 tags: accident

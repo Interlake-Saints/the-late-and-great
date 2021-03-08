@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Eric D’Andraie McClenon
+sortKey: McClenon, Eric
 date: 2016-06-23
 categories: class-of-1986
 images:

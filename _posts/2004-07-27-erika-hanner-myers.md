@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Erika Hanner Myers
+sortKey: Myers, Erika
 date: 2004-07-27
 categories: class-of-2001
 tags: accident

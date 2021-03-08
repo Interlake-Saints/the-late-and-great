@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Mary Therese "Teri" Butorac
+sortKey: Butorac, Mary
 date:   2016-05-28
 categories: class-of-1972
 tags: cancer

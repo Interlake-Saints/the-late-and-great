@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Daniel W. Twito
+sortKey: Twito, Daniel
 date: 2008-03-09
 categories: class-of-1988
 tags: surgical-complications

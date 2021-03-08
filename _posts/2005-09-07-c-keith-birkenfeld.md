@@ -1,6 +1,7 @@
 ---
 layout: post
 title: C. Keith Birkenfeld
+sortKey: Birkenfeld, Keith
 date: 2005-09-07
 categories: staff
 tags: surgical-complications

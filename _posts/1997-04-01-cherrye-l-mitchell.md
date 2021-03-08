@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cherrye L. Mitchell
+sortKey: Mitchell, Cherrye
 date: 1997-04-01
 categories: staff
 tags: cancer

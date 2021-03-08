@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rosemarie E. Groeger
+sortKey: Groeger, Rosemarie
 date: 1991-09-04
 categories: staff
 images:

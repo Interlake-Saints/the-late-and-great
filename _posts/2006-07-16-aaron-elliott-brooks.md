@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Aaron Elliott Brooks
+sortKey: Brooks, Aaron
 date: 2006-07-16
 categories: class-of-1980
 tags: homicide

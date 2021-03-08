@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Susan Lynn Johanson
+sortKey: Johanson, Susan
 date: 2012-03-23
 categories: class-of-1979
 tags: cancer

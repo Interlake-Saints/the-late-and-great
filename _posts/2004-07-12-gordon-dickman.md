@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gordon Dickman
+sortKey: Dickman, Gordon
 date: 2004-07-12
 categories: staff
 tags: cancer

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Carol Sue Case
+sortKey: Case, Carol
 date:   2002-11-12
 categories: class-of-1977
 images:

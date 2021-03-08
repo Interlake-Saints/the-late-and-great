@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  James Stanley "Jim" Stevenson
+sortKey: Stevenson, James
 date:   1978-10-01
 categories: class-of-1970
 tags: accident

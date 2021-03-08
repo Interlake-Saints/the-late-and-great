@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Sandra Gail "Sandy" Allen
+sortKey: Allen, Sandra
 date:   2000-07-24
 categories: class-of-1977
 obituary: https://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=sandra-gail-maris-allen&pid=144251715

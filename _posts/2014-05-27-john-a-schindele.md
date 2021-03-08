@@ -1,6 +1,7 @@
 ---
 layout: post
 title: John A. Schindele
+sortKey: Schindele, John
 date: 2014-05-27
 categories: staff
 images:

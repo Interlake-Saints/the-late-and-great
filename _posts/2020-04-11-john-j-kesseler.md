@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  John J. Kesseler
+sortKey: Kesseler, John
 date: 2020-04-11
 categories: class-of-1978
 tags: cancer

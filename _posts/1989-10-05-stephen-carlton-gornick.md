@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Stephen Carlton Gornick
+sortKey: Gornick, Stephen
 date: 1989-10-05
 categories: class-of-1982
 images: /assets/class-of-1982/stephen-carlton-gornick-1.png

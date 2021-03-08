@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Helen Kay Blakney
+sortKey: Blakney, Helen
 date: 1999-03-30
 categories: staff
 tags: cancer

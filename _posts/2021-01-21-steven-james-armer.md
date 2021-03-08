@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Steven James Armer
+sortKey: Armer, Steven
 date: 2021-01-21
 categories: class-of-1972
 images:

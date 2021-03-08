@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  S. Christopher Eslinger
+sortKey: Eslinger, Christopher
 date: 2005-07-09
 categories: class-of-1979
 tags: accident

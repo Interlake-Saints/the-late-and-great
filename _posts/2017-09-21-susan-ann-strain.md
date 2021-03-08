@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Susan Ann Strain
+sortKey: Strain, Susan
 date:   2017-09-21
 categories: class-of-1971
 tags: infection

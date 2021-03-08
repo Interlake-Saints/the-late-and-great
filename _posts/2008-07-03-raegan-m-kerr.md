@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Raegan M. Kerr
+sortKey: Kerr, Raegan
 date: 2008-07-03
 categories: class-of-1983
 images:

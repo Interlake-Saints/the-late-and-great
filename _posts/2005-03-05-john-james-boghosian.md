@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  John James Boghosian
+sortKey: Boghosian, John
 date: 2005-03-05
 categories: class-of-1979
 images: /assets/class-of-1979/john-j-boghosian-1.png
