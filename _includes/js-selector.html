@@ -14,7 +14,6 @@
   <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 {% endif %}
 
-{% if jekyll.environment == 'production' %}
   <!-- PWA -->
   <script defer src="{{ '/app.js' | relative_url }}"></script>
 
@@ -25,5 +24,3 @@
   analytics.page("{{ page.layout }}","{{ page.id }}");
   }}();
 </script>
-
-{% endif %}
