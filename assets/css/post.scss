@@ -48,14 +48,6 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
   }
 }
 
-.post-content {
-  .preview-img {
-    margin-top: 0;
-    margin-bottom: 2.5rem;
-    @include align-center;
-  }
-}
-
 .post-tail-wrapper {
   margin-top: 6rem;
   border-bottom: 1px double var(--main-border-color);

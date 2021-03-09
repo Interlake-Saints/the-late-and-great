@@ -28,8 +28,9 @@ comments: true
           <p>{{ pronoun }} obituary can be found <a href="{{ page.obituary }}">here</a>.</p>
         {% endif %}
         {% for image in page.images %}
-          <img src="{{ image }}" class="preview-img" alt="{{ page.title | escape }}">
-          <br>
+          <div class="text-center">
+            <img src="{{ image }}" class="rounded" alt="{{ page.title | escape }}" style="height: 250px;">
+          </div>
         {% endfor %}
       </div>
       <div class="post-tail-wrapper text-muted">
