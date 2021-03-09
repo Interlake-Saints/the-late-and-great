@@ -4,7 +4,7 @@ title: Jennifer Brooks Johnstone
 sortKey: Johnstone, Jennifer
 date: 2010-10-16
 categories: class-of-1992
-tags: null
+tags: accident
 images:
   - /assets/class-of-1992/jennifer-b-johnstone-1.png
   - /assets/class-of-1992/jennifer-b-johnstone-2.jpg
