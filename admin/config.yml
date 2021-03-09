@@ -43,7 +43,7 @@ collections:
       - label: 'Cause of Death'
         name: 'tags'
         widget: 'select'
-        options: ['accident','aids','als','cancer','cardiovascular-disease','chronic-lower-respiratory-diseases','cystic-fibrosis','dementia','diabetes','drowning','firearms','homicide','infection','killed-in-action','liver-failure','multiple-sclerosis','muscular-dystrophy','overdose','stroke','suicide','surgical-complications','traffic']
+        options: ['accident','aids','als','cancer','cardiovascular-disease','cystic-fibrosis','dementia','diabetes','drowning','firearms','homicide','infection','killed-in-action','liver-failure','multiple-sclerosis','muscular-dystrophy','overdose','respiratory-diseases','stroke','suicide','surgical-complications','traffic']
         required: false
       - label: 'Images'
         name: 'images'
