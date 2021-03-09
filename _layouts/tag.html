@@ -11,6 +11,7 @@ label: By Cause
     {{ page.title }}
     <span class="lead text-muted pl-2">{{ posts | size }}</span>
   </h1>
+  {{ content }}
   <ul class="post-content pl-0">
     {% for post in posts %}
     <li class="d-flex justify-content-between pl-md-3 pr-md-3">
