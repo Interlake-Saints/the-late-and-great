@@ -15,4 +15,13 @@ Entries are in _posts.  Each field means as follows:
 
 The current build status is [![Netlify Status](https://api.netlify.com/api/v1/badges/99da697e-e799-4653-860a-835d4e2dbacb/deploy-status)](https://app.netlify.com/sites/nostalgic-mestorf-f3c08f/deploys).
 
-The site has dependencies on Segment.com for analytics, Disqus for comments, and Netlify for hosting and DNS. calef maintains the access credentials for these resources.
+The site has the following dependencies:
+* Segment.com for third party integrations
+* Google Analytics for analytics
+* Amazon S3 for logs
+* Disqus for comments
+* Netlify CMS for content management
+* Netlify for hosting
+* Netlify for DNS
+
+calef maintains the access credentials for these resources.
