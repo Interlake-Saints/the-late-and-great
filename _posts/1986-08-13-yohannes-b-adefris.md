@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Yohannes B. Adefris
+title: Yohannes B. Adefris
 sortKey: Adefris, Yohannes
 date: 1986-08-13
 categories: class-of-1985

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Marny S. Bayes
+title: Marny S. Bayes
 sortKey: Bayes, Marny
 date: 2006-12-03
 categories: class-of-1983

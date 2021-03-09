@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jason Michael Grove
+title: Jason Michael Grove
 sortKey: Grove, Jason
 date: 2012-08-19
 categories: class-of-1995

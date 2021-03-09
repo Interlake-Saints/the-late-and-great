@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  William Ferguson
+title: William Ferguson
 sortKey: Ferguson, William
 date: 1900-01-01
 dateUnknown: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Erin Danielle Medeck
+title: Erin Danielle Medeck
 sortKey: Medeck, Erin
 date: 2010-07-12
 categories: class-of-1989

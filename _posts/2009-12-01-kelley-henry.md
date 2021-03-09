@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Kelley Henry
+title: Kelley Henry
 sortKey: Henry, Kelley
-date:   2009-12-01
+date: 2009-12-01
 categories: class-of-1976
 tags: accident
 images:

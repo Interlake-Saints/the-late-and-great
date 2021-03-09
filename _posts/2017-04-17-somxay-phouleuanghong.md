@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Somxay Phouleuanghong
+title: Somxay Phouleuanghong
 sortKey: Phouleuanghong, Somxay
 date: 2017-04-17
 categories: class-of-1994

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Catherine "Cathie" Hurlbut
+title: Catherine "Cathie" Hurlbut
 sortKey: Hurlbut, Catherine
-date:   2014-06-19
+date: 2014-06-19
 categories: class-of-1974
-images: /assets/class-of-1974/catherine-hurlbut-1.png
+images:
+  - /assets/class-of-1974/catherine-hurlbut-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=171714070
 gender: female
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tim Taylor
+title: Tim Taylor
 sortKey: Taylor, Tim
 date: 1900-01-01
 dateUnknown: true

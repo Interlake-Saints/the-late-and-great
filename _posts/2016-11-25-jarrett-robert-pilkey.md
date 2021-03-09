@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jarrett Robert Pilkey
+title: Jarrett Robert Pilkey
 sortKey: Pilkey, Jarrett
 date: 2016-11-25
 categories: class-of-1999

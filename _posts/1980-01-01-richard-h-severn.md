@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Richard H. Severn
+title: Richard H. Severn
 sortKey: Severn, Richard
-date:   1980-01-01
+date: 1980-01-01
 dateUnknown: true
 categories: class-of-1975
 tags: accident

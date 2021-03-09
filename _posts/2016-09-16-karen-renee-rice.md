@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Karen Renee Rice
+title: Karen Renee Rice
 sortKey: Rice, Karen
 date: 2016-09-16
 categories: class-of-1983

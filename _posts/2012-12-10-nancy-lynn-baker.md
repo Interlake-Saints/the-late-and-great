@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Nancy Lynn Baker
+title: Nancy Lynn Baker
 sortKey: Baker, Nancy
 date: 2012-12-10
 categories: class-of-1980

@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Travis Armstrong Leva
+title: Travis Armstrong Leva
 sortKey: Leva, Travis
 date: 2012-06-18
 categories: class-of-1997
 tags: cardiovascular-disease
-images: /assets/class-of-1997/travis-a-leva-1.jpg
+images:
+  - /assets/class-of-1997/travis-a-leva-1.jpg
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=travis-armstrong-leva&pid=158213974
 gender: male
 ---

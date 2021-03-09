@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Laurelee Laplante
+title: Laurelee Laplante
 sortKey: Laplante, Laurelee
 date: 2020-02-15
 categories: class-of-1996

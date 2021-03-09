@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pamela Dawn Moore
+title: Pamela Dawn Moore
 sortKey: Moore, Pamela
 date: 1979-04-02
 categories: class-of-1980

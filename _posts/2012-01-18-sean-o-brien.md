@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Sean O'Brien
+title: Sean O'Brien
 sortKey: O'Brien, Sean
-date:   2012-01-18
+date: 2012-01-18
 categories: class-of-1976
 tags: cardiovascular-disease
 images:

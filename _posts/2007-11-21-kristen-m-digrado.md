@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kristen M. DiGrado
+title: Kristen M. DiGrado
 sortKey: DiGrado, Kristen
 date: 2007-11-21
 categories: class-of-1989

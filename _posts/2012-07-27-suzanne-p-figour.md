@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Suzanne P. Figour
+title: Suzanne P. Figour
 sortKey: Figour, Suzanne
-date:   2012-07-27
+date: 2012-07-27
 categories: class-of-1977
 obituary: https://ravallirepublic.com/news/local/obituaries/article_00405e8c-db75-11e1-82be-001a4bcf887a.html
 images:

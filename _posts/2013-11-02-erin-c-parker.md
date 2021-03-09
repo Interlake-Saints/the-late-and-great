@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Erin C. Parker
+title: Erin C. Parker
 sortKey: Parker, Erin
 date: 2013-11-02
 categories: class-of-1988

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Debra Evelyn "Debi" Davis
+title: Debra Evelyn "Debi" Davis
 sortKey: Davis, Debra
-date:   2016-12-14
+date: 2016-12-14
 categories: class-of-1972
 tags: multiple-sclerosis
 images:

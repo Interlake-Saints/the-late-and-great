@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Michael Albert Choi
+title: Michael Albert Choi
 sortKey: Choi, Michael
 date: 2016-05-04
 categories: class-of-2010
-images: /assets/class-of-2010/michael-a-choi-1.jpg
+images:
+  - /assets/class-of-2010/michael-a-choi-1.jpg
 obituary: http://www.lensingfuneral.tributecenteronline.com/obituaries/obituary-listings?obId=892077#/obituaryInfo
 gender: male
 ---

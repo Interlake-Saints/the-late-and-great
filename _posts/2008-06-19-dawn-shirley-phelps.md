@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Dawn Shirley Phelps
+title: Dawn Shirley Phelps
 sortKey: Phelps, Dawn
-date:   2008-06-19
+date: 2008-06-19
 categories: class-of-1976
 obituary: https://www.mem.com/Biography/2499462/8223501/8223504?title=Biography
 images:

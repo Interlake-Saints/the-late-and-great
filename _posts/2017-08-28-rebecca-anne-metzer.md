@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Rebecca Anne "Becky" Metzer
+title: Rebecca Anne "Becky" Metzer
 sortKey: Metzer, Rebecca
-date:   2017-08-28
+date: 2017-08-28
 categories: class-of-1974
 tags: dementia
 images:

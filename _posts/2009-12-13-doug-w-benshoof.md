@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Doug W. Benshoof
+title: Doug W. Benshoof
 sortKey: Benshoof, Doug
 date: 2009-12-13
 categories: class-of-1984

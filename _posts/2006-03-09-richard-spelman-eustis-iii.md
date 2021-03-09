@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Richard Spelman Eustis III
+title: Richard Spelman Eustis III
 sortKey: Eustis, Richard
-date:   2006-03-09
+date: 2006-03-09
 categories: class-of-1969
 images:
   - /assets/class-of-1969/richard-s-eustis-iii-1.png

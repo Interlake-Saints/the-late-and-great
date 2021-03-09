@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kurt Allen Carlson
+title: Kurt Allen Carlson
 sortKey: Carlson, Kurt
 date: 2017-08-14
 categories: class-of-1993

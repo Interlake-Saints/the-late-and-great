@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Thomas "Tom" Patrick Mahoney
+title: Thomas "Tom" Patrick Mahoney
 sortKey: Mahoney, Thomas
 date: 2019-03-10
 categories: class-of-1982

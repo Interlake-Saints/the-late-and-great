@@ -4,7 +4,8 @@ title: Betty Jean Lassman
 sortKey: Lassman, Betty
 date: 2013-12-12
 categories: staff
-images: /assets/staff/betty-j-lassman-1.png
+images:
+  - /assets/staff/betty-j-lassman-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=168738037
 gender: female
 ---

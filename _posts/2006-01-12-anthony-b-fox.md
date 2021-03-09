@@ -4,7 +4,8 @@ title: Anthony B. "Tony" Fox
 sortKey: Fox, Anthony
 date: 2006-01-12
 categories: class-of-1992
-images: /assets/class-of-1992/anthony-b-fox-1.png
+images:
+  - /assets/class-of-1992/anthony-b-fox-1.png
 tags: stroke
 gender: male
 ---

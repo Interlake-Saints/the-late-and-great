@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tuomas Ilmari Männistö
+title: Tuomas Ilmari Männistö
 sortKey: Männistö, Tuomas
 date: 2016-08-17
 categories: class-of-2019

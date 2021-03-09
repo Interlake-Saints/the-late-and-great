@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Shelley Barraugh
+title: Shelley Barraugh
 sortKey: Barraugh, Shelley
 date: 2016-05-12
 categories: class-of-1985

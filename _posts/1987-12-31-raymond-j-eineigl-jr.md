@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Raymond J. "Pete" Eineigl, Jr.
+title: Raymond J. "Pete" Eineigl, Jr.
 sortKey: Eineigl, Raymond
 date: 1987-12-31
 dateUnknown: true

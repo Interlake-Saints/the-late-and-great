@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lanie E. Kandt
+title: Lanie E. Kandt
 sortKey: Kandt, Lanie
 date: 2015-10-25
 categories: class-of-1990

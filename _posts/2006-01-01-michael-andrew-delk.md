@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Michael Andrew Delk
+title: Michael Andrew Delk
 sortKey: Delk, Michael
-date:   2006-01-01
+date: 2006-01-01
 categories: class-of-1972
 tags: cardiovascular-disease
 images:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Janis Ann "Jan" England
+title: Janis Ann "Jan" England
 sortKey: England, Janis
 date: 2012-01-02
 categories: class-of-1980

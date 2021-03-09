@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Elizabeth Anne Bartell
+title: Elizabeth Anne Bartell
 sortKey: Bartell, Elizabeth
 date: 2015-09-29
 categories: class-of-1982
 tags: cancer
-images: /assets/class-of-1982/elizabeth-anne-bartell-1.png
+images:
+  - /assets/class-of-1982/elizabeth-anne-bartell-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=176079345
 gender: female
 ---

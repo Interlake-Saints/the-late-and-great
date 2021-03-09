@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Nancy Joanne Womeldorff
+title: Nancy Joanne Womeldorff
 sortKey: Womeldorff, Nancy
 date: 2002-12-05
 categories: class-of-1980
-images: /assets/class-of-1980/nancy-j-womeldorff-1.png
+images:
+  - /assets/class-of-1980/nancy-j-womeldorff-1.png
 tags: cancer
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Nancy-Robb&pid=646808
 gender: female

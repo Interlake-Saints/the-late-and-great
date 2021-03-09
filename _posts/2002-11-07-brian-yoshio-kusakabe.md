@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Brian Yoshio Kusakabe
+title: Brian Yoshio Kusakabe
 sortKey: Kusakabe, Brian
 date: 2002-11-07
 categories: class-of-1978
 tags: cancer
-images: /assets/class-of-1978/brian-y-kusakabe-1.png
+images:
+  - /assets/class-of-1978/brian-y-kusakabe-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=590943
 gender: male
 ---

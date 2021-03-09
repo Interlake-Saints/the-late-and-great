@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Stephen Gerald Gimness
+title: Stephen Gerald Gimness
 sortKey: Gimness, Stephen
 date: 2015-12-13
 categories: class-of-1983

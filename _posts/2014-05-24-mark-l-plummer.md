@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Mark L. Plummer
+title: Mark L. Plummer
 sortKey: Plummer, Mark
-date:   2014-05-24
+date: 2014-05-24
 categories: class-of-1972
 tags: cancer
 images:

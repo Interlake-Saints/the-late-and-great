@@ -4,7 +4,6 @@ title: Elaine Justine Wood
 sortKey: Wood, Elaine
 date: 2010-07-20
 categories: class-of-1972
-tags: null
 images:
   - /assets/class-of-1972/elaine-j-wood-1.png
   - /assets/class-of-1972/elaine-j-wood-2.jpg

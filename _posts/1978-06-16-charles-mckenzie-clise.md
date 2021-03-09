@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Charles McKenzie Clise
+title: Charles McKenzie Clise
 sortKey: Clise, Charles
-date:   1978-06-16
+date: 1978-06-16
 categories: class-of-1973
 tags: accident traffic
 images:

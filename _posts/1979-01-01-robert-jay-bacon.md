@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Robert Jay Bacon
+title: Robert Jay Bacon
 sortKey: Bacon, Robert
-date:   1979-01-01
+date: 1979-01-01
 categories: class-of-1972
 tags: accident traffic
 images:

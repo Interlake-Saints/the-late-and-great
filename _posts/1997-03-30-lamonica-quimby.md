@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  LaMonica Quimby
+title: LaMonica Quimby
 sortKey: Quimby, LaMonica
 date: 1997-03-30
 categories: class-of-1992

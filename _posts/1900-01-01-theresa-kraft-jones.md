@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Theresa "Terri" Kraft Jones
+title: Theresa "Terri" Kraft Jones
 sortKey: Jones, Theresa
-date:   1900-01-01
+date: 1900-01-01
 dateUnknown: true
 categories: class-of-1976
 images:

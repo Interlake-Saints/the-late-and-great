@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Stephanie Clare Tomkins
+title: Stephanie Clare Tomkins
 sortKey: Tomkins, Stephanie
 date: 2014-10-31
 categories: class-of-1988
 tags: surgical-complications
-images: /assets/class-of-1988/stephanie-c-tomkins-1.jpg
+images:
+  - /assets/class-of-1988/stephanie-c-tomkins-1.jpg
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=173368263
 gender: female
 ---

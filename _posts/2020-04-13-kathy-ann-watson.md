@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Kathy Ann Watson
+title: Kathy Ann Watson
 sortKey: Watson, Kathy
-date:   2020-04-13
+date: 2020-04-13
 categories: class-of-1977
 tags: accident traffic
 obituary: https://www.sigsfuneralservices.com/obituary/Kathy-Askew

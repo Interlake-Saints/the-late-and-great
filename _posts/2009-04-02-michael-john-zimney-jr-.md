@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Michael John Zimney Jr.
+title: Michael John Zimney Jr.
 sortKey: Zimney, Michael
 date: 2009-04-02
 categories: class-of-2011
 tags: cardiovascular-disease
-images: /assets/class-of-2011/michael-j-zimney-jr-1.jpg
+images:
+  - /assets/class-of-2011/michael-j-zimney-jr-1.jpg
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Michael-Zimney&pid=125831478
 gender: male
 ---

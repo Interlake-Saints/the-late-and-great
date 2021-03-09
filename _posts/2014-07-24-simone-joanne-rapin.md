@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Simone Joanne Rapin
+title: Simone Joanne Rapin
 sortKey: Rapin, Simone
 date: 2014-07-24
 categories: class-of-1978
 tags: cancer
-images: /assets/class-of-1978/simone-j-rapin-1.jpg
+images:
+  - /assets/class-of-1978/simone-j-rapin-1.jpg
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=simone-joanne-rystad&pid=171947132
 gender: female
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  June Marie Gustafson
+title: June Marie Gustafson
 sortKey: Gustafson, June
-date:   1975-01-01
+date: 1975-01-01
 categories: class-of-1972
 tags: infection
 images:

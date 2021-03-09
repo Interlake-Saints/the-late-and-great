@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Eric Martin Galanti
+title: Eric Martin Galanti
 sortKey: Galanti, Eric
 date: 2018-04-15
 categories: class-of-1994

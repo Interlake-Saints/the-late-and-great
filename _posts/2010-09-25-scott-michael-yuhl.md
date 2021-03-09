@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Scott Michael Yuhl
+title: Scott Michael Yuhl
 sortKey: Yuhl, Scott
 date: 2010-09-25
 categories: class-of-1979

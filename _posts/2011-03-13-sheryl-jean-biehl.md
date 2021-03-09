@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Sheryl "Sheri" Jean Biehl
+title: Sheryl "Sheri" Jean Biehl
 sortKey: Biehl, Sheryl
 date: 2011-03-13
 categories: class-of-1983
 tags: liver-failure
-images: /assets/class-of-1983/sheryl-j-biehl-1.jpg
+images:
+  - /assets/class-of-1983/sheryl-j-biehl-1.jpg
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sheri-pardi&pid=149382897
 gender: female
 ---

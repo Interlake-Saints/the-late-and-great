@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Gary Mitchell Beckwith
+title: Gary Mitchell Beckwith
 sortKey: Beckwith, Gary
-date:   1900-01-01
+date: 1900-01-01
 dateUnknown: true
 categories: class-of-1974
 images:

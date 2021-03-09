@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Frederick Elmo "Freddie" Perazzo
+title: Frederick Elmo "Freddie" Perazzo
 sortKey: Perazzo, Frederick
 date: 2016-02-12
 categories: class-of-1980

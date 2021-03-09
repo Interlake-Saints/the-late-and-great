@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tamara "Tami" Lynn Cohen
+title: Tamara "Tami" Lynn Cohen
 sortKey: Cohen, Tamara
 date: 2018-05-12
 categories: class-of-1983

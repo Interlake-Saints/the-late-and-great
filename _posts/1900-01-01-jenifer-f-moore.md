@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jenifer F. Moore
+title: Jenifer F. Moore
 sortKey: Moore, Jenifer
 date: 1900-01-01
 dateUnknown: true

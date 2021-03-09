@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tammy Lynn Schmidt
+title: Tammy Lynn Schmidt
 sortKey: Schmidt, Tammy
 date: 2015-11-27
 categories: class-of-1983

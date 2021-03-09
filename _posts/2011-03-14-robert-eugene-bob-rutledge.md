@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Robert Eugene "Bob" Rutledge
+title: Robert Eugene "Bob" Rutledge
 sortKey: Rutledge, Robert
-date:   2011-03-14
+date: 2011-03-14
 categories: class-of-1969
 images:
   - /assets/class-of-1969/robert-e-rutledge-1.jpg

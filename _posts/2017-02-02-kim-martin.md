@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kim Martin
+title: Kim Martin
 sortKey: Martin, Kim
 date: 2017-02-02
 categories: class-of-1980

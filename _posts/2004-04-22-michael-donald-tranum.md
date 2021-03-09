@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Michael Donald Tranum
+title: Michael Donald Tranum
 sortKey: Tranum, Michael
 date: 2004-04-22
 categories: class-of-1982

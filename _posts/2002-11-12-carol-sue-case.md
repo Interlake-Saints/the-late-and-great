@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Carol Sue Case
+title: Carol Sue Case
 sortKey: Case, Carol
-date:   2002-11-12
+date: 2002-11-12
 categories: class-of-1977
 images:
   - /assets/class-of-1977/carol-s-case-1.png

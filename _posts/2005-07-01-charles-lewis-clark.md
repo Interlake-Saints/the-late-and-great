@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Charles Lewis Clark
+title: Charles Lewis Clark
 sortKey: Clark, Charles
 date: 2005-07-01
 categories: class-of-1980

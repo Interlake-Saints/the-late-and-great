@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Barbara G. Mullan
+title: Barbara G. Mullan
 sortKey: Mullan, Barbara
 date: 1900-01-01
 dateUnknown: true

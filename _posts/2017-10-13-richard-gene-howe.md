@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Richard Gene "Rick" Howe
+title: Richard Gene "Rick" Howe
 sortKey: Howe, Richard
-date:   2017-10-13
+date: 2017-10-13
 categories: class-of-1977
 obituary: https://www.yahnandson.com/obituaries/obituary-listings?obId=2631979
 images:

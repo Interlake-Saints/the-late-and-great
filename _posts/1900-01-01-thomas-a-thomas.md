@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Thomas A. Thomas
+title: Thomas A. Thomas
 sortKey: Thomas, Thomas
 date: 1900-01-01
 dateUnknown: true

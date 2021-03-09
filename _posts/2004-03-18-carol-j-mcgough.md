@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Carol J. McGough
+title: Carol J. McGough
 sortKey: McGough, Carol
-date:   2004-03-18
+date: 2004-03-18
 categories: class-of-1977
 tags: cancer
 images:

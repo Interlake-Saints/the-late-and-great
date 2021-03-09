@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Cidney Lynn Pardue
+title: Cidney Lynn Pardue
 sortKey: Pardue, Cidney
-date:   1900-01-01
+date: 1900-01-01
 dateUnknown: true
 categories: class-of-1972
 tags: cancer

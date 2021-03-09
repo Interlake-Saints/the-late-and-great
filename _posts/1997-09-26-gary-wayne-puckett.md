@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Gary Wayne Puckett
+title: Gary Wayne Puckett
 sortKey: Puckett, Gary
-date:   1997-09-26
+date: 1997-09-26
 categories: class-of-1977
 tags: suicide
 gender: male

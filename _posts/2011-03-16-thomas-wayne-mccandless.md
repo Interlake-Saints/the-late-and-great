@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Thomas Wayne McCandless
+title: Thomas Wayne McCandless
 sortKey: McCandless, Thomas
-date:   2011-03-16
+date: 2011-03-16
 categories: class-of-1969
 images:
   - /assets/class-of-1969/thomas-w-mccandless-1.png

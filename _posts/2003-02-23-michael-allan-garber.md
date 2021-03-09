@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Michael Allan Garber
+title: Michael Allan Garber
 sortKey: Garber, Michael
 date: 2003-02-23
 categories: class-of-1985
-images: /assets/class-of-1985/michael-allan-garber-1.png
+images:
+  - /assets/class-of-1985/michael-allan-garber-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=823767
 gender: male
 ---

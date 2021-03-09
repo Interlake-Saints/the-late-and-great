@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Elizabeth Anne "Betsy" Dean
+title: Elizabeth Anne "Betsy" Dean
 sortKey: Dean, Elizabeth
-date:   2011-09-07
+date: 2011-09-07
 categories: class-of-1974
 tags: cancer
 images:

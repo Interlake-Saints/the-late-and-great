@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Pamela Gay Paynter
+title: Pamela Gay Paynter
 sortKey: Paynter, Pamela
 date: 2007-01-18
 categories: class-of-1978
 tags: cancer
-images: /assets/class-of-1978/pamela-g-paynter-1.png
+images:
+  - /assets/class-of-1978/pamela-g-paynter-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Pamela-Reynolds&pid=86149818
 gender: female
 ---

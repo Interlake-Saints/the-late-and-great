@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Christian Arthur "Art" Vikari
+title: Christian Arthur "Art" Vikari
 sortKey: Vikari, Christian
 date: 2011-08-31
 categories: class-of-1981

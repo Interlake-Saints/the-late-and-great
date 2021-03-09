@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Michael P. Williams
+title: Michael P. Williams
 sortKey: Williams, Michael
 date: 1900-01-01
 dateUnknown: true

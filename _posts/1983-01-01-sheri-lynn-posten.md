@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sheri Lynn Posten
+title: Sheri Lynn Posten
 sortKey: Posten, Sheri
 date: 1983-01-01
 dateUnknown: true

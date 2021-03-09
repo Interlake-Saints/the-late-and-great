@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Katherine D. McEniry
+title: Katherine D. McEniry
 sortKey: McEniry, Katherine
 date: 1980-11-01
 dateUnknown: true

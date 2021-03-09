@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jannine Hillary Itkov
+title: Jannine Hillary Itkov
 sortKey: Itkov, Jannine
 date: 1900-01-01
 dateUnknown: true

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Alynne DePass Hart
+title: Alynne DePass Hart
 sortKey: Hart, Alynne
-date:   2005-06-10
+date: 2005-06-10
 categories: class-of-1969
 tags: cancer
 images:

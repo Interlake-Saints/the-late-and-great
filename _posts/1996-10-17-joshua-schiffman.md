@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Joshua Schiffman
+title: Joshua Schiffman
 sortKey: Schiffman, Joshua
 date: 1996-10-17
 categories: class-of-2000

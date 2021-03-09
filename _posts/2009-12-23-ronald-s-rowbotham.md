@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ronald S. Rowbotham
+title: Ronald S. Rowbotham
 sortKey: Rowbotham, Ronald
 date: 2009-12-23
 categories: class-of-1979

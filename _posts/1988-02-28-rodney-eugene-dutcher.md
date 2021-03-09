@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Rodney Eugene Dutcher
+title: Rodney Eugene Dutcher
 sortKey: Dutcher, Rodney
 date: 1988-02-28
 categories: class-of-1986 class-of-1987

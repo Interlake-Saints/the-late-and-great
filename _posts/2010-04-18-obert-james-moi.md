@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Obert James "Jim" Moi
+title: Obert James "Jim" Moi
 sortKey: Moi, Obert
-date:   2010-04-18
+date: 2010-04-18
 categories: class-of-1973
 tags: accident
 images:

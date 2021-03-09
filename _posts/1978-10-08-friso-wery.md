@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Friso Wery
+title: Friso Wery
 sortKey: Wery, Friso
 date: 1978-10-08
 categories: class-of-1979

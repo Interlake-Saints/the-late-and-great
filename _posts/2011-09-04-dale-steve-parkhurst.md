@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Dale Steve Parkhurst
+title: Dale Steve Parkhurst
 sortKey: Parkhurst, Dale
-date:   2011-09-04
+date: 2011-09-04
 categories: class-of-1972
 images:
   - /assets/class-of-1972/dale-s-parkhurst-1.png

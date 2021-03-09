@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Granger Quen Chuk Lam
+title: Granger Quen Chuk Lam
 sortKey: Lam, Granger
 date: 2009-07-28
 categories: class-of-1996

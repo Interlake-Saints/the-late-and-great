@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Richard William Bickar
+title: Richard William Bickar
 sortKey: Bickar, Richard
 date: 2016-10-02
 categories: class-of-1991

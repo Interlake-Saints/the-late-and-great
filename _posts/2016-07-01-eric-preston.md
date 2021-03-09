@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Eric Preston
+title: Eric Preston
 sortKey: Preston, Eric
 date: 2016-07-01
 dateUnknown: true

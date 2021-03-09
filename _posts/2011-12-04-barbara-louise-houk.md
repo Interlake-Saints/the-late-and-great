@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Barbara Louise Houk
+title: Barbara Louise Houk
 sortKey: Houk, Barbara
-date:   2011-12-04
+date: 2011-12-04
 categories: class-of-1972
 tags: stroke
 images:

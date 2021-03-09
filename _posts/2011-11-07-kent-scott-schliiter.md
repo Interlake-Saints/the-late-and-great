@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kent Scott Schliiter
+title: Kent Scott Schliiter
 sortKey: Schliiter, Kent
 date: 2011-11-07
 categories: class-of-1987

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tina Marie Dawson
+title: Tina Marie Dawson
 sortKey: Dawson, Tina
 date: 2013-12-27
 categories: class-of-1983

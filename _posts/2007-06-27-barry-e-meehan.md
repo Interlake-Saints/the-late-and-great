@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Barry E. Meehan
+title: Barry E. Meehan
 sortKey: Meehan, Barry
 date: 2007-06-27
 categories: class-of-1982
 tags: accident
-images: /assets/class-of-1982/barry-e-meehan-1.png
+images:
+  - /assets/class-of-1982/barry-e-meehan-1.png
 obituary: https://www.findagrave.com/memorial/98293351/barry-e-meehan
 gender: male
 ---

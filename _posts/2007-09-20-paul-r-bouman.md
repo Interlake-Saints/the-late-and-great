@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Paul R. Bouman
+title: Paul R. Bouman
 sortKey: Bouman, Paul
 date: 2007-09-20
 categories: class-of-1983

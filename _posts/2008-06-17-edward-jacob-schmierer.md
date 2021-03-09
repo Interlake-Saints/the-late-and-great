@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Edward Jacob "Jay" Schmierer
+title: Edward Jacob "Jay" Schmierer
 sortKey: Schmierer, Edward
 date: 2008-06-17
 categories: class-of-1978
 tags: cardiovascular-disease
-images: /assets/class-of-1978/edward-j-schmierer-1.jpg
+images:
+  - /assets/class-of-1978/edward-j-schmierer-1.jpg
 obituary: https://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=Edward-Schmierer&pid=112072352
 gender: male
 ---

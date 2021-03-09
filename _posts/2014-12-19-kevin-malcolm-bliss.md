@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Kevin Malcolm Bliss
+title: Kevin Malcolm Bliss
 sortKey: Bliss, Kevin
-date:   2014-12-19
+date: 2014-12-19
 categories: class-of-1974
 images:
   - /assets/class-of-1974/kevin-m-bliss-1.png

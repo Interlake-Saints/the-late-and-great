@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  James Zachow
+title: James Zachow
 sortKey: Zachow, James
-date:   2003-06-21
+date: 2003-06-21
 categories: staff
-images: /assets/staff/james-zachow-1.png
+images:
+  - /assets/staff/james-zachow-1.png
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=james-franklin-zachow&pid=1109773
 ---

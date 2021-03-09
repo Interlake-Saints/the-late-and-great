@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Terry Nelson Riley
+title: Terry Nelson Riley
 sortKey: Riley, Terry
 date: 1997-08-18
 categories: class-of-1985
 tags: cardiovascular-disease
-images: /assets/class-of-1985/terry-nelson-riley-1.png
+images:
+  - /assets/class-of-1985/terry-nelson-riley-1.png
 gender: male
 obituary: https://archive.seattletimes.com/archive/?date=19980714&slug=2761064
 ---

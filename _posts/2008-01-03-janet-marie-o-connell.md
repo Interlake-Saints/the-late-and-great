@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Janet Marie O'Connell
+title: Janet Marie O'Connell
 sortKey: O'Connell, Janet
-date:   2008-01-03
+date: 2008-01-03
 categories: class-of-1977
 tags: accident
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Janet-OConnell&pid=100971422

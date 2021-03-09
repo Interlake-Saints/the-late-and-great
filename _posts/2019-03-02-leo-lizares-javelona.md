@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Leo Lizares Javelona
+title: Leo Lizares Javelona
 sortKey: Javelona, Leo
 date: 2019-03-02
 categories: class-of-1992

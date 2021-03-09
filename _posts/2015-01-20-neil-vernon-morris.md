@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Neil Vernon Morris
+title: Neil Vernon Morris
 sortKey: Morris, Neil
-date:   2015-01-20
+date: 2015-01-20
 categories: class-of-1975
 images:
   - /assets/class-of-1975/neil-v-morris-1.png

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Karl Albert Frost
+title: Karl Albert Frost
 sortKey: Frost, Karl
-date:   2011-02-16
+date: 2011-02-16
 categories: class-of-1969
-images: /assets/class-of-1969/karl-a-frost-1.png
+images:
+  - /assets/class-of-1969/karl-a-frost-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=karl-a-frost&pid=149076998
 gender: male
 ---

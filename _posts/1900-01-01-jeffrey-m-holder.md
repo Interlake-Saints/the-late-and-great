@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jeffrey M. Holder
+title: Jeffrey M. Holder
 sortKey: Holder, Jeffrey
 date: 1900-01-01
 dateUnknown: true

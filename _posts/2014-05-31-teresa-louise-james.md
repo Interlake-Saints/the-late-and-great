@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Teresa Louise "Terri" James
+title: Teresa Louise "Terri" James
 sortKey: James, Teresa
-date:   2014-05-31
+date: 2014-05-31
 categories: class-of-1976
 images:
   - /assets/class-of-1976/teresa-l-james-1.png

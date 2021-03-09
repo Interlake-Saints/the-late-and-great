@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Darrell Robert Rasmussen
+title: Darrell Robert Rasmussen
 sortKey: Rasmussen, Darrell
-date:   2015-10-30
+date: 2015-10-30
 categories: staff
 images:
   - /assets/staff/darrell-r-rasmussen-1.png

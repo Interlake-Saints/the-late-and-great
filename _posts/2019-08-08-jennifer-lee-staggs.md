@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jennifer Lee Staggs
+title: Jennifer Lee Staggs
 sortKey: Staggs, Jennifer
 date: 2019-08-08
 categories: class-of-1989

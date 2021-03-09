@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Maura Lucille Bartell
+title: Maura Lucille Bartell
 sortKey: Bartell, Maura
 date: 1998-04-09
 categories: class-of-1985

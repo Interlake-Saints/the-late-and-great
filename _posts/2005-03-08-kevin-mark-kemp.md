@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Kevin Mark Kemp
+title: Kevin Mark Kemp
 sortKey: Kemp, Kevin
-date:   2005-03-08
+date: 2005-03-08
 categories: class-of-1976
 tags: cardiovascular-disease
 obituary: https://www.legacy.com/obituaries/mercurynews/obituary.aspx?n=Kevin-Mark-Kemp&pid=3275058

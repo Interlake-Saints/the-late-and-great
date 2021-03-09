@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jean Paul Stonebraker
+title: Jean Paul Stonebraker
 sortKey: Stonebraker, Jean
 date: 2017-05-07
 categories: class-of-1993

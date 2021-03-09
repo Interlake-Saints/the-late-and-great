@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Alice Marie Brems
+title: Alice Marie Brems
 sortKey: Brems, Alice
-date:   1982-11-12
+date: 1982-11-12
 categories: class-of-1977
 images:
   - /assets/class-of-1977/alice-m-brems-1.png

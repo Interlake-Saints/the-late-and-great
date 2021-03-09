@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kirk William Edison
+title: Kirk William Edison
 sortKey: Edison, Kirk
 date: 1978-07-23
 categories: class-of-1980

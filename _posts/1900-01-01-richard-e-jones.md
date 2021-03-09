@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Richard E. Jones
+title: Richard E. Jones
 sortKey: Jones, Richard
 date: 1900-01-01
 dateUnknown: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Daniel Ira Klein
+title: Daniel Ira Klein
 sortKey: Klein, Daniel
 date: 1993-10-21
 categories: class-of-1985

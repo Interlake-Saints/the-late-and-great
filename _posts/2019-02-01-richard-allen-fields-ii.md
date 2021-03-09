@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Richard Allen Fields II
+title: Richard Allen Fields II
 sortKey: Fields, Richard
 date: 2019-02-01
 categories: class-of-2000

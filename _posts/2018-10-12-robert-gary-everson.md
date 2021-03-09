@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Robert Gary "Gary" Everson
+title: Robert Gary "Gary" Everson
 sortKey: Everson, Robert
-date:   2018-10-12
+date: 2018-10-12
 categories: class-of-1974
 tags: cancer
 images:

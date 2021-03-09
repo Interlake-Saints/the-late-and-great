@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Carolyn Keith McIntyre
+title: Carolyn Keith McIntyre
 sortKey: McIntyre, Carolyn
-date:   2018-11-20
+date: 2018-11-20
 categories: class-of-1971
 tags: cancer
 images:

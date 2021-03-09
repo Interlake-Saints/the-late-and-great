@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Dana Anglea
+title: Dana Anglea
 sortKey: Anglea, Dana
 date: 2013-06-12
 categories: class-of-1990

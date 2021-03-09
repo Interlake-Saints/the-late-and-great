@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Robert Samuel Berman
+title: Robert Samuel Berman
 sortKey: Berman, Robert
 date: 2017-11-09
 categories: class-of-1981

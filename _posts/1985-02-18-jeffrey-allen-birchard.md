@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jeffrey Allen Birchard
+title: Jeffrey Allen Birchard
 sortKey: Birchard, Jeffrey
 date: 1985-02-18
 categories: class-of-1985

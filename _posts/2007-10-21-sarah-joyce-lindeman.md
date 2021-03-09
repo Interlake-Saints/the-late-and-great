@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Sarah Joyce Lindeman
+title: Sarah Joyce Lindeman
 sortKey: Lindeman, Sarah
-date:   2007-10-21
+date: 2007-10-21
 categories: class-of-1976
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Sarah-Lindeman&pid=98783677
 images:

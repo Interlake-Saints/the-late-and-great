@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Michelle Rae Lee
+title: Michelle Rae Lee
 sortKey: Lee, Michelle
 date: 2020-02-16
 categories: class-of-1987

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Andrew Michael Fox
+title: Andrew Michael Fox
 sortKey: Fox, Andrew
 date: 2011-01-06
 categories: class-of-2003

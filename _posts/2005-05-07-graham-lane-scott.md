@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Graham Lane "Gray" Scott
+title: Graham Lane "Gray" Scott
 sortKey: Scott, Graham
-date:   2005-05-07
+date: 2005-05-07
 categories: class-of-1975
 tags: cardiovascular-disease
 images:

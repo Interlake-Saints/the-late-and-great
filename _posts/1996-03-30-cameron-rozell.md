@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cameron Rozell
+title: Cameron Rozell
 sortKey: Rozell, Cameron
 date: 1996-03-30
 categories: class-of-1993

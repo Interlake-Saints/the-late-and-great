@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Karen Marie Larson
+title: Karen Marie Larson
 sortKey: Larson, Karen
-date:   2020-01-04
+date: 2020-01-04
 categories: class-of-1969
 images:
   - /assets/class-of-1969/karen-m-larson-1.png

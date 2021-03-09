@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jason Danial Olson
+title: Jason Danial Olson
 sortKey: Olson, Jason
 date: 2015-09-01
 categories: class-of-1991

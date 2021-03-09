@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Ryan William Turman
+title: Ryan William Turman
 sortKey: Turman, Ryan
 date: 2020-06-12
 categories: class-of-2012
-images: /assets/class-of-2012/ryan-william-turman-1.jpg
+images:
+  - /assets/class-of-2012/ryan-william-turman-1.jpg
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/ryan-turman-9218923
 gender: male
 ---

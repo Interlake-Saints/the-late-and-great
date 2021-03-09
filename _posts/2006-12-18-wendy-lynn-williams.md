@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Wendy Lynn Williams
+title: Wendy Lynn Williams
 sortKey: Williams, Wendy
 date: 2006-12-18
 categories: class-of-1984

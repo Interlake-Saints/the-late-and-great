@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Lesley Naomi Mosler
+title: Lesley Naomi Mosler
 sortKey: Mosler, Lesley
 date: 2004-06-09
 categories: class-of-1987

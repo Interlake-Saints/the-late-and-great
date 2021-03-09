@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Bradley James De Rouchey
+title: Bradley James De Rouchey
 sortKey: De Rouchey, Bradley
-date:   2012-01-14
+date: 2012-01-14
 categories: class-of-1973
 images:
   - /assets/class-of-1973/bradley-j-de-rouchey-1.png

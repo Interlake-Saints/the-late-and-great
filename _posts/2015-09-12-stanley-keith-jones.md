@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Stanley Keith "Stan" Jones
+title: Stanley Keith "Stan" Jones
 sortKey: Jones, Stanley
-date:   2015-09-12
+date: 2015-09-12
 categories: class-of-1976
 images:
   - /assets/class-of-1976/stanley-k-jones-1.png

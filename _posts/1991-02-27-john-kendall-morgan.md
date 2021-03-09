@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  John Kendall "Jack" Morgan
+title: John Kendall "Jack" Morgan
 sortKey: Morgan, John
 date: 1991-02-27
 categories: class-of-1981
 tags: killed-in-action
-images: /assets/class-of-1981/john-k-morgan-1.jpg
+images:
+  - /assets/class-of-1981/john-k-morgan-1.jpg
 obituary: https://archive.seattletimes.com/archive/?date=19910313&slug=1271422
 gender: male
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Dara Krissett Barker
+title: Dara Krissett Barker
 sortKey: Barker, Dara
-date:   2009-05-24
+date: 2009-05-24
 categories: class-of-1975
 images:
   - /assets/class-of-1975/dara-k-barker-1.png

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Martin Jan Bouman
+title: Martin Jan Bouman
 sortKey: Bouman, Martin
-date:   1980-07-14
+date: 1980-07-14
 categories: class-of-1976
 tags: accident traffic
 images:

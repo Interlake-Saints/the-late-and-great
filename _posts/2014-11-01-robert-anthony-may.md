@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Robert Anthony "Rob" May
+title: Robert Anthony "Rob" May
 sortKey: May, Robert
 date: 2014-11-01
 categories: class-of-1988

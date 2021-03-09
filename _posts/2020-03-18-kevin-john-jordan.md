@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kevin John Jordan
+title: Kevin John Jordan
 sortKey: Jordan, Kevin
 date: 2020-03-18
 categories: class-of-1981
