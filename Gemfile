@@ -1,7 +1,11 @@
 source "https://rubygems.org"
 
+# if the build starts failing or development and production are inconsistent check https://pages.github.com/versions/
+gem "webrick"
+
+# plugins
 group :jekyll_plugins do
-  gem "jekyll"
+  gem "github-pages"
   gem "jekyll-paginate"
   gem "jekyll-redirect-from"
   gem "jekyll-seo-tag"
