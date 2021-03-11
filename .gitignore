@@ -3,3 +3,6 @@ _site/
 .DS_Store
 .jekyll-metadata
 links.log
+
+# Local Netlify folder
+.netlify
