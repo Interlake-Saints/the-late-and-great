@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yami Medran
+title: Yamilet "Yami" Medran
 sortKey: Medran, Yami
 date: 2016-06-20
 categories: class-of-2018
