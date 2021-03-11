@@ -1,4 +1,4 @@
-# Interlake-Saints
+# ihsmemorial.org
 site to notify those of us who attended Interlake High School of the classmates we've lost
 
 This site is written with jekyll. For more on jekyll see https://jekyllrb.com/docs/.
