@@ -8,7 +8,7 @@ end
 
 desc "Build the site"
 task build: %w[clean] do
-  sh "bundle exec jekyll build --drafts"
+  sh "JEKYLL_ENV=production bundle exec jekyll build --drafts"
 end
 
 desc "Clean up"
