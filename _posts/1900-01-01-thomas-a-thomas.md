@@ -10,4 +10,4 @@ images:
   - /assets/class-of-1983/thomas-a-thomas-1.png
 gender: male
 ---
-Tom died in a skiing accident.
+Tom died in a skiing accident in the mid 80's.
