@@ -1,19 +1,18 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-# if the build starts failing or development and production are inconsistent check https://pages.github.com/versions/
-gem "webrick"
-
-# plugins
 group :jekyll_plugins do
-  gem "github-pages"
-  gem "jekyll-paginate"
-  gem "jekyll-redirect-from"
-  gem "jekyll-seo-tag"
-  gem "jekyll-sitemap"
+  gem "jekyll", "~> 4.1"
+  gem "jekyll-paginate", "~> 1.1"
+  gem "jekyll-redirect-from", "~> 0.16"
+  gem "jekyll-seo-tag", "~> 2.7"
+  gem "jekyll-archives", "~> 2.2"
+  gem "jekyll-sitemap", "~> 1.4"
 end
 
 group :test do
-  gem "html-proofer"
+  gem "html-proofer", "~> 3.18"
   gem "rake"
 end
 
