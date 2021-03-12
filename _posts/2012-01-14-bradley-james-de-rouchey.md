@@ -7,7 +7,7 @@ categories: class-of-1973
 images:
   - /assets/class-of-1973/bradley-j-de-rouchey-1.png
   - /assets/class-of-1973/bradley-j-de-rouchey-2.jpg
-obituary: http://whidbeymemorial.frontrunnerpro.com/book-of-memories/1118868/Bradley-De-Rouchey/obituary.php
 gender: male
+obituary: http://whidbeymemorial.frontrunnerpro.com/book-of-memories/1118868/Bradley-De-Rouchey/obituary.php
 ---
-Brad passed away in Oak Harbor on January 14th, 2012. He was 57 years old.
+Brad was known as a gifted drummer while in high school. He passed away in Oak Harbor on January 14th, 2012. He was 57 years old.
