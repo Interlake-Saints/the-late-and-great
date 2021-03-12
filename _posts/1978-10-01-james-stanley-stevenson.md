@@ -9,4 +9,4 @@ images:
   - /assets/class-of-1970/james-s-stevenson-1.png
 gender: male
 ---
-Jim died after a motorcycle accident near Redmond in October of 1978.
+At Interlake, Jim was the captain of the undefeated Kingco champion golf team. He died after a motorcycle accident near Redmond in October of 1978.
