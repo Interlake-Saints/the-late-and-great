@@ -8,4 +8,6 @@ images:
   - /assets/class-of-1974/david-r-mcgough-1.png
 gender: male
 ---
-David died on July 31, 2002. He was 46. His obituary is available [here](https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=david-raymond-mcgough&pid=428029&fhid=2403).
+David died on July 31, 2002. He was 46 years old. His obituary is available [here](https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=david-raymond-mcgough&pid=428029&fhid=2403).
+
+Sadly, David is not the only member of his family listed on the IHS Memorial Wall. His mother, Betty, is listed under "Staff", and his sister, Carol, is listed under the Class of 1977.
