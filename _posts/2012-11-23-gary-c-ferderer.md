@@ -10,4 +10,4 @@ images:
 obituary: https://www.wenatcheeworld.com/tributes/obituaries/gary-c-ferderer/article_a2a1e67a-4ea1-566b-b8d0-f901ba0e14dd.html
 gender: male
 ---
-Gary died of pancreatic cancer on November 23, 2012.
+Gary only attended Interlake for his sophomore year, before his family moved to Montana in 1972. But he still had many friends in the area. Sadly, he died of pancreatic cancer on November 23, 2012.
