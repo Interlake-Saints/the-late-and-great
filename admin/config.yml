@@ -18,6 +18,7 @@ collections:
       - label: 'Title'
         name: 'title'
         widget: 'string'
+        hint: 'Name edits cannot be made through the CMS.'
       - label: 'Sort Key'
         name: 'sortKey'
         widget: 'string'
@@ -38,8 +39,8 @@ collections:
         hint: 'Defaults to Mario Lanza if left blank.'
       - label: 'Categories'
         name: 'categories'
-        widget: 'select'
-        options: ['class-of-1969', 'class-of-1970', 'class-of-1971', 'class-of-1972', 'class-of-1973', 'class-of-1974', 'class-of-1975', 'class-of-1976', 'class-of-1977', 'class-of-1978', 'class-of-1979', 'class-of-1980', 'class-of-1981', 'class-of-1982', 'class-of-1983', 'class-of-1984', 'class-of-1985', 'class-of-1986', 'class-of-1987', 'class-of-1988', 'class-of-1989', 'class-of-1990', 'class-of-1991', 'class-of-1992', 'class-of-1993', 'class-of-1994', 'class-of-1995', 'class-of-1996', 'class-of-1997', 'class-of-1998', 'class-of-1999', 'class-of-2000', 'class-of-2001', 'class-of-2002', 'class-of-2003', 'class-of-2004', 'class-of-2005', 'class-of-2006', 'class-of-2007', 'class-of-2008', 'class-of-2009', 'class-of-2010', 'class-of-2011', 'class-of-2012', 'class-of-2013', 'class-of-2014', 'class-of-2015', 'class-of-2016', 'class-of-2017', 'class-of-2018', 'class-of-2019']
+        widget: 'string'
+        hint: 'Example: class-of-1992 staff. New classes cannot be created through the CMS.'
       - label: 'Cause of Death'
         name: 'tags'
         widget: 'select'
