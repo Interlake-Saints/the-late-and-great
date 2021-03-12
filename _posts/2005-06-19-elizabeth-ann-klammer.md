@@ -8,4 +8,4 @@ images:
   - /assets/class-of-1974/elizabeth-a-klammer-1.png
 gender: female
 ---
-Betsy passed away June 19, 2005, at home surrounded by her family.  She was 49.
+Betsy passed away on June 19, 2005, at home, surrounded by her family.  She was 49.
