@@ -8,4 +8,4 @@ images:
   - /assets/class-of-1975/john-e-mccabe-1.png
 gender: male
 ---
-John died in Bellevue on June 21, 1975.
+John died in Bellevue on June 21, 1975. Although nearly fifty years later, the circumstances behind his death are still unclear. See the comments below for an explanation.
