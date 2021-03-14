@@ -11,6 +11,6 @@ images:
 gender: female
 obituary: https://webapp1.meaningfulfunerals.net/?action=obituaries.obit_view&o_id=3058310&fh_id=11360
 ---
-Cass was murdered by an acquaintance in Chico, California on March 16, 2015.  She was 55 years old.
+Cass had an exciting and illustrious life, where at various times she worked as an investigative journalist, a radio broadcaster, an inventor, an equestrienne, and an artist. But she fell on hard times in her later years. Sadly, she died in Chico, California on March 16, 2015, when she was murdered by an acquaintance. She was 55 years old. In response to her death, her family pushed for changes to California penal law, which are now designed to protect the lives of women and children from habitual violent offenders. These changes to the law were known as Cass's Law.
 
 Sadly, Cass is not the only member of her family on the IHS Memorial Wall. Her younger brother, [Kurt Edison](https://ihsmemorial.org/class-of-1980/kirk-william-edison/), is listed under the Class of 1980.
