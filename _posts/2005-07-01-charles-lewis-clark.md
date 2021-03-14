@@ -10,4 +10,8 @@ images:
 gender: male
 obituary: https://www.legacy.com/obituaries/kingcountyjournal/obituary.aspx?n=charles-lewis-clark-chuck&pid=14472183
 ---
-Charles graduated from Interlake High School in the Hearing and Neurologically Impaired Program. He died suddenly at home from heart disease on July 1, 2005.
+When Charles was three months old, he was hospitalized with a high fever, which resulted in brain damage. Because of this, he took special education classes at Highland Junior High, and later at Interlake. Although he technically graduated from Overlake, he spent a good amount of time at Interlake in the Hearing and Neurologically Impaired Program.
+
+In spite of his neurological impairment, Charles received an AA degree at Bellevue Community College. He then worked at Denny's on Mercer Island for nine years until it closed. He loved and was well loved by employers and fellow workers at the Secret Garden Tea Room in Factoria. It was his employer's concern and compassion that led to finding Charles at home after he died. 
+
+Charles died suddenly at home from heart disease on July 1, 2005.
