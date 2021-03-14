@@ -11,3 +11,5 @@ images:
 gender: female
 ---
 Barbie, aka Barbara Biehl Bates, died during a domestic violence incident. She was murdered while attempting to stop a man from beating up his wife.
+
+Sadly, her sister, [Sheri](https://ihsmemorial.org/class-of-1983/sheryl-jean-biehl/), is also listed on the IHS Memorial Page. Shari is listed under the class of 1983.
