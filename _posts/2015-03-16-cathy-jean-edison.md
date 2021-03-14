@@ -15,4 +15,4 @@ Cass had an exciting and illustrious life, where at various times she worked as 
 
 In response to her death, her family formed a non-profit organization called Cass's Law, which is designed to protect the lives of women and children from habitual violent offenders.
 
-Tragically, Cass is not the only member of her family on the IHS Memorial Wall. Her younger brother, [Kurt Edison](https://ihsmemorial.org/class-of-1980/kirk-william-edison/), is also listed here, under the Class of 1980.
+Tragically, Cass is not the only member of her family on the IHS Memorial Wall. Her younger brother, [Kirk Edison](https://ihsmemorial.org/class-of-1980/kirk-william-edison/), is also listed here, under the Class of 1980.
