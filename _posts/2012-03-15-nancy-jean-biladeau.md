@@ -9,6 +9,7 @@ images:
   - /assets/class-of-1984/nancy-j-biladeau-1.png
   - /assets/class-of-1984/nancy-j-biladeau-2.jpg
 gender: female
+obituary: https://www.findagrave.com/memorial/135894782/nancy-jean-biladeau
 ---
 Nancy graduated from Interlake through the special needs program in June of 1984. Shortly after graduation, she volunteered at a variety of work opportunities created for adults with disabilities. Also at that time she began a long time hobby with Bellevue School District’s Special Education Ski School, where she was in her glory winning medals galore at the Special Olympics.
 
