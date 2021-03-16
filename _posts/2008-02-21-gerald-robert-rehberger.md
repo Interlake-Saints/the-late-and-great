@@ -8,7 +8,7 @@ tags: accident traffic
 images:
   - /assets/class-of-1985/gerald-robert-rehberger-1.png
   - /assets/class-of-1985/gerald-robert-rehberger-2.jpg
-obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Gerald-Rehberger&pid=104697538
 gender: male
+obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Gerald-Rehberger&pid=104697538
 ---
-Jerry passed away on February 21, 2008 while riding his motorcycle in Ft. Pierce, Florida when a driver turned left across his path.
+Jerry Rehberger, an outgoing adventurous man of good will, died February 21, 2008, in Ft. Pierce, Florida. Jerry died instantly when a driver turned left across his path on highway US 1. Jerry was 41 years old.
