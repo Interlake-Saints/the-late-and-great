@@ -9,5 +9,6 @@ images:
   - /assets/class-of-1992/jennifer-b-johnstone-1.png
   - /assets/class-of-1992/jennifer-b-johnstone-2.jpg
 gender: female
+obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=146259898&fbclid
 ---
 Jennifer died unexpectedly in Scottsdale, AZ on October 16, 2010. She was 36 years old.
