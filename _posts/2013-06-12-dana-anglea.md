@@ -9,6 +9,6 @@ images:
   - /assets/class-of-1990/dana-anglea-2.png
 gender: female
 ---
-Dana, aka Dana Anglea Rankin, passed away in Indiana on June 12, 2013, due to complications from a gastric bypass surgery she'd had over 10 years ago. 
+Dana, aka Dana Anglea Rankin, passed away in Indiana on June 12, 2013, due to complications from a gastric bypass surgery she'd had over ten years ago. 
 
 A memorial video dedicated to Dana's life can be found [here](http://www.youtube.com/watch?v=KyDWCv65wMo).
