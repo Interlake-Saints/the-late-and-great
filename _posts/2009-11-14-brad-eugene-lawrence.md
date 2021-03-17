@@ -3,7 +3,8 @@ layout: post
 title: Brad Eugene Lawrence
 sortKey: Lawrence, Brad
 date: 2009-11-14
-categories: class-of-1978
+categories:
+  - class-of-1978
 images:
   - /assets/class-of-1978/brad-e-lawrence-1.png
   - /assets/class-of-1978/brad-e-lawrence-2.png

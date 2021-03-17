@@ -3,7 +3,8 @@ layout: post
 title: John Wendell Peterson
 sortKey: Peterson, John
 date: 2011-03-14
-categories: class-of-1969
+categories:
+  - class-of-1969
 images:
   - /assets/class-of-1969/john-w-peterson-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=John-Peterson&pid=149679176

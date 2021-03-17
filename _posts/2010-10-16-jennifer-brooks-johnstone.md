@@ -3,7 +3,8 @@ layout: post
 title: Jennifer Brooks Johnstone
 sortKey: Johnstone, Jennifer
 date: 2010-10-16
-categories: class-of-1992
+categories:
+  - class-of-1992
 tags:
   - accident
   - overdose

@@ -3,7 +3,8 @@ layout: post
 title: Alan Robert Senff
 sortKey: Senff, Alan
 date: 1994-11-23
-categories: class-of-1976
+categories:
+  - class-of-1976
 images:
   - /assets/class-of-1976/alan-r-senff-1.png
 gender: male

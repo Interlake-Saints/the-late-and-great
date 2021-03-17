@@ -3,7 +3,8 @@ layout: post
 title: Michael Clarence Calhoun
 sortKey: Calhoun, Michael
 date: 2018-03-12
-categories: class-of-1985
+categories:
+  - class-of-1985
 tags:
   - cardiovascular-disease
 images:

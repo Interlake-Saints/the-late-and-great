@@ -3,7 +3,8 @@ layout: post
 title: Randall William "Randy" Bayes
 sortKey: Bayes, Randall
 date: 2005-06-17
-categories: class-of-1986
+categories:
+  - class-of-1986
 tags:
   - accident
   - traffic

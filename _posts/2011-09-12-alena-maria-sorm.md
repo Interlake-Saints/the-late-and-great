@@ -3,7 +3,8 @@ layout: post
 title: Alena Maria Sorm
 sortKey: Sorm, Alena
 date: 2011-09-12
-categories: class-of-1982
+categories:
+  - class-of-1982
 images:
   - /assets/class-of-1982/alena-maria-sorm-1.jpg
   - /assets/class-of-1982/alena-maria-sorm-2.png

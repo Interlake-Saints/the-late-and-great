@@ -3,7 +3,8 @@ layout: post
 title: William H. "Bill" Taussig Jr.
 sortKey: Taussig, William
 date: 1996-12-08
-categories: class-of-1980
+categories:
+  - class-of-1980
 tags:
   - cancer
 images:

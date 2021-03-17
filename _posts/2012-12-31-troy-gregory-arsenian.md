@@ -3,7 +3,8 @@ layout: post
 title: Troy Gregory Arsenian
 sortKey: Arsenian, Troy
 date: 2012-12-31
-categories: class-of-1983
+categories:
+  - class-of-1983
 images:
   - /assets/class-of-1983/troy-g-arsenian-1.png
   - /assets/class-of-1983/troy-g-arsenian-2.jpg

@@ -3,7 +3,8 @@ layout: post
 title: Royal Penewell
 sortKey: Penewell, Royal
 date: 2008-07-24
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/royal-e-penewell-1.png
   - /assets/staff/royal-e-penewell-2.png

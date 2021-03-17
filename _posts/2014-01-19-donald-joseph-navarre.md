@@ -3,7 +3,8 @@ layout: post
 title: Donald Joseph Navarre
 sortKey: Navarre, Donald
 date: 2014-01-19
-categories: class-of-1974
+categories:
+  - class-of-1974
 tags:
   - cancer
 images:

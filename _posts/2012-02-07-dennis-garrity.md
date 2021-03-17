@@ -3,7 +3,8 @@ layout: post
 title: Dennis Garrity
 sortKey: Garrity, Dennis
 date: 2012-02-07
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/dennis-garrity-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=dennis-garrity&pid=155813968

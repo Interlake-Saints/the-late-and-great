@@ -3,7 +3,8 @@ layout: post
 title: Gary C. Ferderer
 sortKey: Ferderer, Gary
 date: 2012-11-23
-categories: class-of-1974
+categories:
+  - class-of-1974
 tags:
   - cancer
 images:

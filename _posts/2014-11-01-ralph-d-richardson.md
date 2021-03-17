@@ -3,7 +3,8 @@ layout: post
 title: Ralph D. Richardson
 sortKey: Richardson, Ralph
 date: 2014-11-01
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/ralph-d-richardson-1.jpg
   - /assets/staff/ralph-d-richardson-2.jpg

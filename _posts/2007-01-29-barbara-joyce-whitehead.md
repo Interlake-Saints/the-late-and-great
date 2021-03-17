@@ -3,7 +3,8 @@ layout: post
 title: Barbara Joyce Whitehead
 sortKey: Whitehead, Barbara
 date: 2007-01-29
-categories: class-of-1973
+categories:
+  - class-of-1973
 images:
   - /assets/class-of-1973/barbara-j-whitehead-1.png
 obituary: https://www.yahnandson.com/obituaries/obituary-listings?obId=101080#/obituaryInfo

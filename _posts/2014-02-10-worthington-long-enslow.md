@@ -3,7 +3,9 @@ layout: post
 title: Worthington Long Enslow
 sortKey: Enslow, Worthington
 date: 2014-02-10
-categories: class-of-1973 class-of-1974
+categories:
+  - class-of-1973
+  - class-of-1974
 tags:
   - stroke
   - cardiovascular-disease

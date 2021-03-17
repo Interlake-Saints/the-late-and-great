@@ -3,7 +3,8 @@ layout: post
 title: Robert Samuel Berman
 sortKey: Berman, Robert
 date: 2017-11-09
-categories: class-of-1981
+categories:
+  - class-of-1981
 images:
   - /assets/class-of-1981/robert-s-berman-1.jpg
   - /assets/class-of-1981/robert-s-berman-2.png

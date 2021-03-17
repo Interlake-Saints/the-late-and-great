@@ -3,7 +3,8 @@ layout: post
 title: Jennifer Lea Augustine
 sortKey: Augustine, Jennifer
 date: 2012-08-22
-categories: class-of-1986
+categories:
+  - class-of-1986
 images:
   - /assets/class-of-1986/jennifer-l-augustine-1.jpg
   - /assets/class-of-1986/jennifer-l-augustine-2.png

@@ -3,7 +3,8 @@ layout: post
 title: Nell Anne Cain
 sortKey: Cain, Nell
 date: 2000-03-24
-categories: class-of-1970
+categories:
+  - class-of-1970
 tags:
   - cancer
 images:

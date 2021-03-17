@@ -3,7 +3,8 @@ layout: post
 title: Pavel Paulishin
 sortKey: Paulishin, Pavel
 date: 2000-01-17
-categories: class-of-1997
+categories:
+  - class-of-1997
 tags:
   - accident
   - traffic

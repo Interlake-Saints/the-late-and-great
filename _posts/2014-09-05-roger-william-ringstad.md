@@ -3,7 +3,8 @@ layout: post
 title: Roger William Ringstad
 sortKey: Ringstad, Roger
 date: 2014-09-05
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/roger-ringstad-1.png
   - /assets/staff/roger-ringstad-2.jpg

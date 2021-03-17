@@ -3,7 +3,8 @@ layout: post
 title: David W. Fite
 sortKey: Fite, David
 date: 1999-01-13
-categories: class-of-1975
+categories:
+  - class-of-1975
 tags:
   - accident
 images:

@@ -4,7 +4,8 @@ title: Elizabeth "Liz" Coke
 sortKey: Coke, Elizabeth
 date: 2018-10-31
 dateUnknown: true
-categories: class-of-1984
+categories:
+  - class-of-1984
 gender: female
 images:
   - /assets/class-of-1984/elizabeth-coke-1.jpg

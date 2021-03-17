@@ -3,7 +3,8 @@ layout: post
 title: Paul R. Bouman
 sortKey: Bouman, Paul
 date: 2007-09-20
-categories: class-of-1983
+categories:
+  - class-of-1983
 images:
   - /assets/class-of-1983/paul-r-bouman-1.png
 gender: male

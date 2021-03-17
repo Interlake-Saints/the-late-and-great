@@ -3,7 +3,8 @@ layout: post
 title: Colleen Marie Hansen
 sortKey: Hansen, Colleen
 date: 2012-01-05
-categories: class-of-1992
+categories:
+  - class-of-1992
 tags:
   - cancer
 images:

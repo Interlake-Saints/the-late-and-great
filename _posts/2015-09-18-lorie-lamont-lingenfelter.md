@@ -3,7 +3,8 @@ layout: post
 title: Lorie Lamont Lingenfelter
 sortKey: Lingenfelter, Lorie
 date: 2015-09-18
-categories: class-of-1979
+categories:
+  - class-of-1979
 images:
   - /assets/class-of-1979/lorie-l-lingenfelter-1.jpg
 gender: female

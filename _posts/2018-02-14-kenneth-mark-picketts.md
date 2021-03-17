@@ -3,7 +3,8 @@ layout: post
 title: Kenneth Mark Picketts
 sortKey: Picketts, Kenneth
 date: 2018-02-14
-categories: class-of-1983
+categories:
+  - class-of-1983
 tags:
   - diabetes
 images:

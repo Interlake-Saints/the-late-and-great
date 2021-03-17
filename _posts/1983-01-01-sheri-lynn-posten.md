@@ -4,7 +4,8 @@ title: Sheri Lynn Posten
 sortKey: Posten, Sheri
 date: 1983-01-01
 dateUnknown: true
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - accident
   - traffic

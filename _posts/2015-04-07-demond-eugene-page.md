@@ -3,7 +3,8 @@ layout: post
 title: Demond Eugene Page
 sortKey: Page, Demond
 date: 2015-04-07
-categories: class-of-1992
+categories:
+  - class-of-1992
 images:
   - /assets/class-of-1992/demond-e-page-1.jpg
   - /assets/class-of-1992/demond-e-page-2.jpg

@@ -3,7 +3,8 @@ layout: post
 title: Kirstin Lorelle Gravrock
 sortKey: Gravrock, Kirstin
 date: 1990-05-17
-categories: class-of-1985
+categories:
+  - class-of-1985
 tags:
   - accident
   - traffic

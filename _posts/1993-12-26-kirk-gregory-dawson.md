@@ -3,7 +3,8 @@ layout: post
 title: Kirk Gregory Dawson
 sortKey: Dawson, Kirk
 date: 1993-12-26
-categories: class-of-1991
+categories:
+  - class-of-1991
 tags:
   - cancer
 images:

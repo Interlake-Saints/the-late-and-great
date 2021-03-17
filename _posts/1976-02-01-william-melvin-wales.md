@@ -3,7 +3,8 @@ layout: post
 title: William Melvin Wales
 sortKey: Wales, William
 date: 1976-02-01
-categories: class-of-1970
+categories:
+  - class-of-1970
 tags:
   - accident
   - traffic

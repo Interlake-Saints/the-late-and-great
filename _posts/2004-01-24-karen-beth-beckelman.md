@@ -3,7 +3,8 @@ layout: post
 title: Karen Beth Beckelman
 sortKey: Beckelman, Karen
 date: 2004-01-24
-categories: class-of-1977
+categories:
+  - class-of-1977
 images:
   - /assets/class-of-1977/karen-b-beckelman-1.png
 gender: female

@@ -3,7 +3,8 @@ layout: post
 title: Erik Hultberg III
 sortKey: Hultberg, Erik
 date: 1982-03-15
-categories: class-of-1973
+categories:
+  - class-of-1973
 tags:
   - overdose
 images:

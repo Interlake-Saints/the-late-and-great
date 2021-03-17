@@ -3,7 +3,8 @@ layout: post
 title: Andrew Michael Fox
 sortKey: Fox, Andrew
 date: 2011-01-06
-categories: class-of-2003
+categories:
+  - class-of-2003
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=andrew-michael-fox&pid=147757694
 gender: male
 ---

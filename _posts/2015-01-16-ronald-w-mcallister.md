@@ -3,7 +3,8 @@ layout: post
 title: Ronald W. McAllister
 sortKey: McAllister, Ronald
 date: 2015-01-16
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/ronald-w-mcallister-1.png
   - /assets/staff/ronald-w-mcallister-2.png

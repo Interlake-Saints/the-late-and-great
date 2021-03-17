@@ -3,7 +3,8 @@ layout: post
 title: Emily JoAnn Lewis
 sortKey: Lewis, Emily
 date: 2010-01-21
-categories: class-of-2005
+categories:
+  - class-of-2005
 tags:
   - accident
 images:

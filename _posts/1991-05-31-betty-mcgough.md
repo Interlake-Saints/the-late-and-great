@@ -3,7 +3,8 @@ layout: post
 title: Betty McGough
 sortKey: McGough, Betty
 date: 1991-05-31
-categories: staff
+categories:
+  - staff
 tags:
   - cancer
 images:

@@ -3,7 +3,8 @@ layout: post
 title: LaMonica Quimby
 sortKey: Quimby, LaMonica
 date: 1997-03-30
-categories: class-of-1992
+categories:
+  - class-of-1992
 tags:
   - infection
 images:

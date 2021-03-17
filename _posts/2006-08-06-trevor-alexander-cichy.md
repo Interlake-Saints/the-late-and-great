@@ -3,7 +3,8 @@ layout: post
 title: Trevor Alexander Cichy
 sortKey: Cichy, Trevor
 date: 2006-08-06
-categories: class-of-1989
+categories:
+  - class-of-1989
 tags:
   - accident
   - traffic

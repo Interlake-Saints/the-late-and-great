@@ -3,7 +3,9 @@ layout: post
 title: Anthony Roy "Tony" Burrous
 sortKey: Burrous, Anthony
 date: 2015-07-25
-categories: class-of-1976 staff
+categories:
+  - class-of-1976
+  - staff
 images:
   - /assets/staff/anthony-r-burrous.jpg
   - /assets/class-of-1976/anthony-r-burrous-1.png

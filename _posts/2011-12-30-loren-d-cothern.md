@@ -3,7 +3,8 @@ layout: post
 title: Loren D. Cothern
 sortKey: Cothern, Loren
 date: 2011-12-30
-categories: class-of-1973
+categories:
+  - class-of-1973
 tags:
   - liver-failure
 images:

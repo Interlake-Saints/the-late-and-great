@@ -4,7 +4,8 @@ title: Steven James Armer
 sortKey: Armer, Steven
 date: 2021-01-21
 author: Gina R. M. Armer
-categories: class-of-1972
+categories:
+  - class-of-1972
 tags:
   - cancer
 images:

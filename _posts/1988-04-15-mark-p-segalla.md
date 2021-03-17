@@ -3,7 +3,8 @@ layout: post
 title: Mark P. Segalla
 sortKey: Segalla, Mark
 date: 1988-04-15
-categories: class-of-1985
+categories:
+  - class-of-1985
 images:
   - /assets/class-of-1985/mark-p-segalla-1.png
 gender: male

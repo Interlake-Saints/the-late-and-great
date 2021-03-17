@@ -3,7 +3,8 @@ layout: post
 title: Scott Michael Hunter
 sortKey: Hunter, Scott
 date: 2000-04-01
-categories: class-of-1987
+categories:
+  - class-of-1987
 tags:
   - accident
   - drowning

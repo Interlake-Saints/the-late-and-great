@@ -3,7 +3,8 @@ layout: post
 title: Brad Alan Jons
 sortKey: Jons, Brad
 date: 2012-03-30
-categories: class-of-1975
+categories:
+  - class-of-1975
 images:
   - /assets/class-of-1975/brad-a-jons-1.png
 gender: male

@@ -3,7 +3,8 @@ layout: post
 title: Cindy Lee Gerber
 sortKey: Gerber, Cindy
 date: 2019-07-30
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - surgical-complications
 images:

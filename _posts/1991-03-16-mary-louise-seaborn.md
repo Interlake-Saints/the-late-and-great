@@ -3,7 +3,8 @@ layout: post
 title: Mary Louise Seaborn
 sortKey: Seaborn, Mary
 date: 1991-03-16
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/mary-l-seaborn-1.png
 gender: female

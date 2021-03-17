@@ -3,7 +3,8 @@ layout: post
 title: Ann Marie Ryan
 sortKey: Ryan, Ann
 date: 2014-04-02
-categories: class-of-1975
+categories:
+  - class-of-1975
 images:
   - /assets/class-of-1975/anne-m-ryan-1.png
   - /assets/class-of-1975/anne-m-ryan-2.jpg

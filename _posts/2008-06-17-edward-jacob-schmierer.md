@@ -3,7 +3,8 @@ layout: post
 title: Edward Jacob "Jay" Schmierer
 sortKey: Schmierer, Edward
 date: 2008-06-17
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - cardiovascular-disease
 images:

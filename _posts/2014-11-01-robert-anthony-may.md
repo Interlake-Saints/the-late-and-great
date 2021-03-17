@@ -3,7 +3,8 @@ layout: post
 title: Robert Anthony "Rob" May
 sortKey: May, Robert
 date: 2014-11-01
-categories: class-of-1988
+categories:
+  - class-of-1988
 images:
   - /assets/class-of-1988/robert-a-may-1.png
   - /assets/class-of-1988/robert-a-may-2.jpg

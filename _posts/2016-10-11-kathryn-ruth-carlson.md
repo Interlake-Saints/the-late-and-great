@@ -3,7 +3,8 @@ layout: post
 title: Kathryn Ruth "Kat" Carlson
 sortKey: Carlson, Kathryn
 date: 2016-10-11
-categories: class-of-1985
+categories:
+  - class-of-1985
 tags:
   - cancer
 images:

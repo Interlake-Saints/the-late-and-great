@@ -3,7 +3,8 @@ layout: post
 title: Gerald Robert "Jerry" Rehberger
 sortKey: Rehberger, Gerald
 date: 2008-02-21
-categories: class-of-1985
+categories:
+  - class-of-1985
 tags:
   - accident
   - traffic

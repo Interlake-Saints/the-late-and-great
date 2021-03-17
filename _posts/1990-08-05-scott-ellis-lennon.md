@@ -3,7 +3,8 @@ layout: post
 title: Scott Ellis Lennon
 sortKey: Lennon, Scott
 date: 1990-08-05
-categories: class-of-1980
+categories:
+  - class-of-1980
 tags:
   - aids
 images:

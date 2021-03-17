@@ -3,7 +3,8 @@ layout: post
 title: Kenneth M. Jokela
 sortKey: Jokela, Kenneth
 date: 2017-09-07
-categories: class-of-1972
+categories:
+  - class-of-1972
 images:
   - /assets/class-of-1972/kenneth-m-jokela-1.png
   - /assets/class-of-1972/kenneth-m-jokela-2.jpg

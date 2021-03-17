@@ -3,7 +3,8 @@ layout: post
 title: Susan Roberta Cuthbert
 sortKey: Cuthbert, Susan
 date: 2011-11-18
-categories: class-of-1974
+categories:
+  - class-of-1974
 tags:
   - cancer
 images:

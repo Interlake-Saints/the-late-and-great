@@ -3,7 +3,8 @@ layout: post
 title: Shelley Barraugh
 sortKey: Barraugh, Shelley
 date: 2016-05-12
-categories: class-of-1985
+categories:
+  - class-of-1985
 images:
   - /assets/class-of-1985/shelly-barraugh-1.jpg
   - /assets/class-of-1985/shelly-barraugh-2.jpg

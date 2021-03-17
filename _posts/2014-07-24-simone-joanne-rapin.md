@@ -3,7 +3,8 @@ layout: post
 title: Simone Joanne Rapin
 sortKey: Rapin, Simone
 date: 2014-07-24
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - cancer
 images:

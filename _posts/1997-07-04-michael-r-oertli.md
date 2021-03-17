@@ -3,7 +3,8 @@ layout: post
 title: Michael R. Oertli
 sortKey: Oertli, Michael
 date: 1997-07-04
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - aids
 images:

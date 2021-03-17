@@ -3,7 +3,8 @@ layout: post
 title: Andrew Christian Erickson
 sortKey: Erickson, Andrew
 date: 2006-02-13
-categories: class-of-1973
+categories:
+  - class-of-1973
 images:
   - /assets/class-of-1973/andrew-c-erickson-1.png
 gender: male

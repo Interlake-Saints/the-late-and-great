@@ -3,7 +3,8 @@ layout: post
 title: David Harold Brekke
 sortKey: Brekke, David
 date: 1994-12-06
-categories: class-of-1978
+categories:
+  - class-of-1978
 images:
   - /assets/class-of-1978/david-h-brekke-1.png
 gender: male

@@ -3,7 +3,8 @@ layout: post
 title: Gwyn Ann Taylor
 sortKey: Taylor, Gwyn
 date: 2017-04-12
-categories: class-of-1978
+categories:
+  - class-of-1978
 images:
   - /assets/class-of-1978/gwyn-a-taylor-1.png
 gender: female

@@ -3,7 +3,8 @@ layout: post
 title: Josephine "Josie" Agoado
 sortKey: Agoado, Josephine
 date: 2015-06-14
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/josephine-agoado-1.jpg
 gender: female

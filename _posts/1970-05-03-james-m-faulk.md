@@ -3,7 +3,8 @@ layout: post
 title: James M. Faulk
 sortKey: Faulk, James
 date: 1970-05-03
-categories: class-of-1971
+categories:
+  - class-of-1971
 tags:
   - accident
   - traffic

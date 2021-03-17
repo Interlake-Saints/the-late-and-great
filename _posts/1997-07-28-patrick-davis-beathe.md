@@ -3,7 +3,8 @@ layout: post
 title: Patrick Davis Beathe
 sortKey: Beathe, Patrick
 date: 1997-07-28
-categories: class-of-1985
+categories:
+  - class-of-1985
 images:
   - /assets/class-of-1985/patrick-davis-beathe-1.png
 gender: male

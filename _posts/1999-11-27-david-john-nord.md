@@ -3,7 +3,8 @@ layout: post
 title: David John Nord
 sortKey: Nord, David
 date: 1999-11-27
-categories: class-of-1979
+categories:
+  - class-of-1979
 tags:
   - aids
 images:

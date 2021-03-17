@@ -3,7 +3,8 @@ layout: post
 title: Ryan William Donahoe
 sortKey: Donahoe, Ryan
 date: 2003-07-14
-categories: class-of-2002
+categories:
+  - class-of-2002
 tags:
  - infection
 images:

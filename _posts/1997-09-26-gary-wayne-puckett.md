@@ -3,7 +3,8 @@ layout: post
 title: Gary Wayne Puckett
 sortKey: Puckett, Gary
 date: 1997-09-26
-categories: class-of-1977
+categories:
+  - class-of-1977
 images:
   - /assets/puckett77.jpg
 gender: male

@@ -4,7 +4,8 @@ title: David H. Keys
 sortKey: Keys, David
 date: 1980-01-01
 dateUnknown: true
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/david-h-keys-1.png
 gender: male

@@ -3,7 +3,8 @@ layout: post
 title: Kent Scott Schliiter
 sortKey: Schliiter, Kent
 date: 2011-11-07
-categories: class-of-1987
+categories:
+  - class-of-1987
 images:
   - /assets/class-of-1987/kent-s-schliiter-1.png
   - /assets/class-of-1987/kent-s-schliiter-2.jpg

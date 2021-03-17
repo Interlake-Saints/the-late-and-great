@@ -3,7 +3,8 @@ layout: post
 title: Henry John Kuehn
 sortKey: Kuehn, Henry
 date: 2017-03-08
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/henry-j-kuehn-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=184483985

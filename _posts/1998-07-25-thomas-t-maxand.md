@@ -3,7 +3,8 @@ layout: post
 title: Thomas T. Maxand
 sortKey: Maxand, Thomas
 date: 1998-07-25
-categories: class-of-1973
+categories:
+  - class-of-1973
 images:
   - /assets/class-of-1973/thomas-t-maxand-1.png
 gender: male

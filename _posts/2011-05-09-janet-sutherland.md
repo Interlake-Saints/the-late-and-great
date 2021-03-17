@@ -3,7 +3,8 @@ layout: post
 title: Janet Sutherland
 sortKey: Sutherland, Janet
 date: 2011-05-09
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/janet-r-sutherland-2.png
   - /assets/staff/janet-sutherland-1.jpg

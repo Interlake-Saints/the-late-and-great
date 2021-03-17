@@ -3,7 +3,8 @@ layout: post
 title: David Stewart Tuck
 sortKey: Tuck, David
 date: 2012-06-11
-categories: class-of-1971
+categories:
+  - class-of-1971
 images:
   - /assets/class-of-1971/david-s-tuck-1.png
   - /assets/class-of-1971/david-s-tuck-2.jpg

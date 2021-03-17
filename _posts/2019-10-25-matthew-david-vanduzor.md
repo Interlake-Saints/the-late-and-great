@@ -3,7 +3,8 @@ layout: post
 title: Matthew David VanDuzor
 sortKey: VanDuzor, Matthew
 date: 2019-10-25
-categories: class-of-1998
+categories:
+  - class-of-1998
 images:
   - /assets/class-of-1998/matthew-d-vanduzor-1.png
 obituary: https://everloved.com/life-of/matthew-vanduzor/obituary/

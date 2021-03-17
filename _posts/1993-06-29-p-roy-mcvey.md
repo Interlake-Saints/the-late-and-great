@@ -3,7 +3,8 @@ layout: post
 title: P. Roy McVey
 sortKey: McVey, Roy
 date: 1993-06-29
-categories: class-of-1980
+categories:
+  - class-of-1980
 tags:
   - homicide
 images:

@@ -3,7 +3,8 @@ layout: post
 title: Bradley Michael "Brad" Anderson
 sortKey: Anderson, Bradley
 date: 2017-06-13
-categories: class-of-1979
+categories:
+  - class-of-1979
 tags:
   - surgical-complications
 images:

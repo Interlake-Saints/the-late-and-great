@@ -3,7 +3,8 @@ layout: post
 title: Colin Patrick Carty
 sortKey: Carty, Colin
 date: 2008-09-30
-categories: class-of-2005
+categories:
+  - class-of-2005
 tags:
   - cancer
 images:

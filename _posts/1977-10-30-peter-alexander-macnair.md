@@ -3,7 +3,8 @@ layout: post
 title: Peter Alexander MacNair
 sortKey: MacNair, Peter
 date: 1977-10-30
-categories: class-of-1974
+categories:
+  - class-of-1974
 tags:
   - accident
 images:

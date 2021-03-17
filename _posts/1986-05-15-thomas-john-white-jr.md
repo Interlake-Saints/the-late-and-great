@@ -3,7 +3,8 @@ layout: post
 title: Thomas John White, Jr.
 sortKey: White, Thomas
 date: 1986-05-15
-categories: class-of-1984
+categories:
+  - class-of-1984
 tags:
   - accident
 images:

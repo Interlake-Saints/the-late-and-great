@@ -3,7 +3,8 @@ layout: post
 title: David S. Lane
 sortKey: Lane, David
 date: 2015-07-05
-categories: class-of-1975
+categories:
+  - class-of-1975
 tags:
   - cardiovascular-disease
 images:

@@ -3,7 +3,8 @@ layout: post
 title: Wendy Claire Schreiner
 sortKey: Schreiner, Wendy
 date: 2001-01-10
-categories: staff
+categories:
+  - staff
 tags:
   - cancer
 gender: female

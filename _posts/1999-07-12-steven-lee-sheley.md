@@ -3,7 +3,8 @@ layout: post
 title: Steven Lee Sheley
 sortKey: Sheley, Steven
 date: 1999-07-12
-categories: class-of-1987
+categories:
+  - class-of-1987
 tags:
   - accident
 images:

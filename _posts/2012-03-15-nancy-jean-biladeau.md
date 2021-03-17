@@ -3,7 +3,8 @@ layout: post
 title: Nancy Jean Biladeau
 sortKey: Biladeau, Nancy
 date: 2012-03-15
-categories: class-of-1984
+categories:
+  - class-of-1984
 tags:
   - accident
   - traffic

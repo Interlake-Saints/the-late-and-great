@@ -3,7 +3,8 @@ layout: post
 title: John Frederick "Toby" Stauch
 sortKey: Stauch, John
 date: 2011-02-11
-categories: class-of-1971
+categories:
+  - class-of-1971
 images:
   - /assets/class-of-1971/john-f-stauch-1.png
 gender: male

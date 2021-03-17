@@ -3,7 +3,8 @@ layout: post
 title: Sara Ann Moser
 sortKey: Moser, Sara
 date: 2014-03-01
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/sara-a-moser-1.jpg
   - /assets/staff/sara-a-moser-2.png

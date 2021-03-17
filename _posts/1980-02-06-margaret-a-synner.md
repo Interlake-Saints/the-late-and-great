@@ -3,7 +3,8 @@ layout: post
 title: Margaret A. "Peggy" Synner
 sortKey: Synner, Margaret
 date: 1980-02-06
-categories: class-of-1979
+categories:
+  - class-of-1979
 tags:
   - accident
 images:

@@ -4,7 +4,8 @@ title: Cidney Lynn Pardue
 sortKey: Pardue, Cidney
 date: 1900-01-01
 dateUnknown: true
-categories: class-of-1972
+categories:
+  - class-of-1972
 tags:
   - cancer
 images:

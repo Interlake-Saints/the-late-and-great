@@ -4,7 +4,8 @@ title: Richard H. Severn
 sortKey: Severn, Richard
 date: 1980-01-01
 dateUnknown: true
-categories: class-of-1975
+categories:
+  - class-of-1975
 tags:
   - accident
 images:

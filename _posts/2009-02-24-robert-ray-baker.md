@@ -3,7 +3,8 @@ layout: post
 title: Robert Ray "Bob" Baker
 sortKey: Baker, Robert
 date: 2009-02-24
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/robert-r-baker-1.png
 obituary: https://www.legacy.com/obituaries/skagitvalleyherald/obituary.aspx?n=ROBERT-BAKER&pid=124686955

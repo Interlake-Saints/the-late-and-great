@@ -3,7 +3,8 @@ layout: post
 title: Geri Lynn Siegrist
 sortKey: Siegrist, Geri
 date: 2017-11-06
-categories: class-of-1970
+categories:
+  - class-of-1970
 images:
   - /assets/class-of-1970/geri-l-siegrist-1.png
 gender: female

@@ -4,7 +4,8 @@ title: Jenifer F. "Jenny" Moore
 sortKey: Moore, Jenifer
 date: 1900-01-01
 dateUnknown: true
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - accident
 images:

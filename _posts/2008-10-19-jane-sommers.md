@@ -3,7 +3,8 @@ layout: post
 title: Jane Sommers
 sortKey: Sommers, Jane
 date: 2008-10-19
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/jane-sommers-1.png
   - /assets/staff/jane-sommers-2.jpg

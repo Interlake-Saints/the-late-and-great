@@ -3,7 +3,8 @@ layout: post
 title: Ronald Raymond Camp
 sortKey: Camp, Ronald
 date: 1981-07-01
-categories: class-of-1972
+categories:
+  - class-of-1972
 tags:
   - accident
   - traffic

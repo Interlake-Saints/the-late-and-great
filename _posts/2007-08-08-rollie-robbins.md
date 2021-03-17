@@ -3,7 +3,8 @@ layout: post
 title: Rollie Robbins
 sortKey: Robbins, Rollie
 date: 2007-08-08
-categories: staff
+categories:
+  - staff
 tags:
   - stroke
 images:

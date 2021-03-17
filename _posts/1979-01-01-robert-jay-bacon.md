@@ -3,7 +3,8 @@ layout: post
 title: Robert Jay "Bob" Bacon
 sortKey: Bacon, Robert
 date: 1979-01-01
-categories: class-of-1972
+categories:
+  - class-of-1972
 tags:
   - accident
   - traffic

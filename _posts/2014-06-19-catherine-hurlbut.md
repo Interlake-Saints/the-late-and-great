@@ -3,7 +3,8 @@ layout: post
 title: Catherine "Cathie" Hurlbut
 sortKey: Hurlbut, Catherine
 date: 2014-06-19
-categories: class-of-1974
+categories:
+  - class-of-1974
 images:
   - /assets/class-of-1974/catherine-hurlbut-1.png
 gender: female

@@ -3,7 +3,8 @@ layout: post
 title: Kimberly Ann Schenck
 sortKey: Schenck, Kimberly
 date: 2014-12-20
-categories: class-of-1983
+categories:
+  - class-of-1983
 tags:
   - accident
 images:

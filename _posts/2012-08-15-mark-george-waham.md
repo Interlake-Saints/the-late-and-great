@@ -3,7 +3,8 @@ layout: post
 title: Mark George Waham
 sortKey: Waham, Mark
 date: 2012-08-15
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - diabetes
 images:

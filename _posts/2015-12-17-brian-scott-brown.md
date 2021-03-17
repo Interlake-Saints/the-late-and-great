@@ -3,7 +3,8 @@ layout: post
 title: Brian Scott "Quimby" Brown
 sortKey: Brown, Brian
 date: 2015-12-17
-categories: class-of-1996
+categories:
+  - class-of-1996
 tags:
   - multiple-sclerosis
 images:

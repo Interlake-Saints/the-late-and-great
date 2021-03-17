@@ -3,7 +3,8 @@ layout: post
 title: Sally Kaye Hooper
 sortKey: Hooper, Sally
 date: 2011-01-31
-categories: staff
+categories:
+  - staff
 author: Paul Hyatt
 images:
   - /assets/staff/sally-k-hooper-1.png

@@ -4,7 +4,8 @@ title: Donald Alan Ross
 sortKey: Ross, Donald
 date: 1990-01-01
 dateUnknown: true
-categories: class-of-1983
+categories:
+  - class-of-1983
 tags:
   - cancer
 images:

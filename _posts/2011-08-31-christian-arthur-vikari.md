@@ -3,7 +3,8 @@ layout: post
 title: Christian Arthur "Art" Vikari
 sortKey: Vikari, Christian
 date: 2011-08-31
-categories: class-of-1981
+categories:
+  - class-of-1981
 images:
   - /assets/class-of-1981/christian-a-vikari-1.png
   - /assets/class-of-1981/christian-a-vikari-2.jpg

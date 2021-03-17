@@ -3,7 +3,8 @@ layout: post
 title: Dann E. Rowan
 sortKey: Rowan, Dann
 date: 2001-08-26
-categories: class-of-1980
+categories:
+  - class-of-1980
 tags:
   - cardiovascular-disease
 images:

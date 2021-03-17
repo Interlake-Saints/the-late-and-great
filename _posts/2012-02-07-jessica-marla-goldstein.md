@@ -3,7 +3,8 @@ layout: post
 title: Jessica Marla Goldstein
 sortKey: Goldstein, Jessica
 date: 2012-02-07
-categories: staff
+categories:
+  - staff
 tags:
   - cancer
 images:

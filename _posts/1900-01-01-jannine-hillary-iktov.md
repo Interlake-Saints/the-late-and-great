@@ -4,7 +4,8 @@ title: Jannine Hillary Itkov
 sortKey: Itkov, Jannine
 date: 1900-01-01
 dateUnknown: true
-categories: class-of-1987
+categories:
+  - class-of-1987
 tags:
   - accident
   - traffic

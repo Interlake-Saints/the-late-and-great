@@ -3,7 +3,8 @@ layout: post
 title: Michelle Rae Lee
 sortKey: Lee, Michelle
 date: 2020-02-16
-categories: class-of-1987
+categories:
+  - class-of-1987
 gender: female
 obituary: https://www.flintofts.com/obituary/Michelle-Rae-Lee/Bellevue-Washington/1869784
 ---

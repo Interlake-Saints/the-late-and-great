@@ -3,7 +3,8 @@ layout: post
 title: Tyler Alan Barton
 sortKey: Barton, Tyler
 date: 2017-02-17
-categories: class-of-2009
+categories:
+  - class-of-2009
 tags:
   - accident
   - traffic

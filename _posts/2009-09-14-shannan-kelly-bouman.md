@@ -3,7 +3,8 @@ layout: post
 title: Shannan Kelly Bouman
 sortKey: Bouman, Shannan
 date: 2009-09-14
-categories: class-of-1992
+categories:
+  - class-of-1992
 tags:
   - respiratory-diseases
 images:

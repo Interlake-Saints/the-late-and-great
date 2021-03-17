@@ -3,7 +3,8 @@ layout: post
 title: Melissa Waller
 sortKey: Waller, Melissa
 date: 2010-11-25
-categories: class-of-1996
+categories:
+  - class-of-1996
 tags:
   - cancer
 images:

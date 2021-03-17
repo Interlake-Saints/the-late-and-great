@@ -3,7 +3,8 @@ layout: post
 title: David Richard Bardes
 sortKey: Bardes, David
 date: 1983-11-11
-categories: class-of-1977
+categories:
+  - class-of-1977
 tags:
   - cancer
 images:

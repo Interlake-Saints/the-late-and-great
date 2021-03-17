@@ -3,7 +3,8 @@ layout: post
 title: John McCormick Reifel
 sortKey: Reifel, John
 date: 2010-09-16
-categories: class-of-1985
+categories:
+  - class-of-1985
 images:
   - /assets/class-of-1985/john-mccormick-reifel-1.jpg
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=John-Reifel&pid=145581794

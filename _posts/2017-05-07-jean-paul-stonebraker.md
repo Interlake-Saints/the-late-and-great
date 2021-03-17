@@ -3,7 +3,8 @@ layout: post
 title: Jean Paul "Paul" Stonebraker
 sortKey: Stonebraker, Jean
 date: 2017-05-07
-categories: class-of-1993
+categories:
+  - class-of-1993
 images:
   - /assets/class-of-1993/jean-p-stonebraker-1.png
   - /assets/paul-stonebreaker-3.jpg

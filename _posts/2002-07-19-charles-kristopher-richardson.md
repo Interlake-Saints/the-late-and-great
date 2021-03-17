@@ -3,7 +3,8 @@ layout: post
 title: Charles Kristopher "Kris" Richardson
 sortKey: Richardson, Charles
 date: 2002-07-19
-categories: class-of-1984
+categories:
+  - class-of-1984
 tags:
   - accident
 images:

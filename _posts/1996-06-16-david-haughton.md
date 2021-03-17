@@ -3,7 +3,8 @@ layout: post
 title: David Haughton
 sortKey: Haughton, David
 date: 1996-06-16
-categories: class-of-1994
+categories:
+  - class-of-1994
 tags:
   - suicide
 images:

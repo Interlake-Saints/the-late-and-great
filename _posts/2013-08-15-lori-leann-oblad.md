@@ -3,7 +3,8 @@ layout: post
 title: Lori Leann Oblad
 sortKey: Oblad, Lori
 date: 2013-08-15
-categories: class-of-1982
+categories:
+  - class-of-1982
 images:
   - /assets/class-of-1982/lori-leann-oblad-1.png
 gender: female

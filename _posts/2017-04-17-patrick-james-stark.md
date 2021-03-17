@@ -3,7 +3,8 @@ layout: post
 title: Patrick James Stark
 sortKey: Stark, Patrick
 date: 2017-04-17
-categories: class-of-1986
+categories:
+  - class-of-1986
 images:
   - /assets/class-of-1986/patrick-j-stark-2.png
   - /assets/class-of-1986/patrick-j-stark-1.jpg

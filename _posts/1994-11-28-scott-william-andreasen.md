@@ -3,7 +3,8 @@ layout: post
 title: Scott William Andreasen
 sortKey: Andreasen, Scott
 date: 1994-11-28
-categories: class-of-1969
+categories:
+  - class-of-1969
 tags:
   - accident
   - traffic

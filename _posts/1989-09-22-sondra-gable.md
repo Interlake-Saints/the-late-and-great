@@ -3,7 +3,8 @@ layout: post
 title: Sondra Gable
 sortKey: Gable, Sondra
 date: 1989-09-22
-categories: staff
+categories:
+  - staff
 tags:
   - cancer
 images:

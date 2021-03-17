@@ -3,7 +3,8 @@ layout: post
 title: Jill Bennett
 sortKey: Bennett, Jill
 date: 2004-07-14
-categories: class-of-1974
+categories:
+  - class-of-1974
 tags:
   - cancer
 images:

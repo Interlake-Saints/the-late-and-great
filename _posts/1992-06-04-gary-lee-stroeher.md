@@ -3,7 +3,8 @@ layout: post
 title: Gary Lee Stroeher
 sortKey: Stroeher, Gary
 date: 1992-06-04
-categories: class-of-1969
+categories:
+  - class-of-1969
 images:
   - /assets/class-of-1969/gary-l-stroeher-1.png
 gender: male

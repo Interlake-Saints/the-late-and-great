@@ -4,7 +4,8 @@ title: Katherine D. McEniry
 sortKey: McEniry, Katherine
 date: 1980-11-01
 dateUnknown: true
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - overdose
 images:

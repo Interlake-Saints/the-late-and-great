@@ -3,7 +3,8 @@ layout: post
 title: Marie Elise Story
 sortKey: Story, Marie
 date: 2015-07-18
-categories: class-of-1992
+categories:
+  - class-of-1992
 tags:
   - cancer
 images:

@@ -3,7 +3,8 @@ layout: post
 title: Stephanie Clare Tomkins
 sortKey: Tomkins, Stephanie
 date: 2014-10-31
-categories: class-of-1988
+categories:
+  - class-of-1988
 tags:
   - surgical-complications
 images:

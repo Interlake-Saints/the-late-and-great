@@ -3,7 +3,8 @@ layout: post
 title: Steven Allan Salzberg
 sortKey: Salzberg, Steven
 date: 2009-04-21
-categories: class-of-1977
+categories:
+  - class-of-1977
 tags:
   - diabetes
   - cardiovascular-disease

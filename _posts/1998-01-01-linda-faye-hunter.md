@@ -3,7 +3,8 @@ layout: post
 title: Linda Faye Hunter
 sortKey: Hunter, Linda
 date: 1998-01-01
-categories: class-of-1976
+categories:
+  - class-of-1976
 tags:
   - diabetes
 images:

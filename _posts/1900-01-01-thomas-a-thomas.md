@@ -4,7 +4,8 @@ title: Thomas A. Thomas
 sortKey: Thomas, Thomas
 date: 1900-01-01
 dateUnknown: true
-categories: class-of-1983
+categories:
+  - class-of-1983
 tags:
   - accident
 images:

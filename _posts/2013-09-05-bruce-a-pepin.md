@@ -3,7 +3,8 @@ layout: post
 title: Bruce A. Pepin
 sortKey: Pepin, Bruce
 date: 2013-09-05
-categories: class-of-1973
+categories:
+  - class-of-1973
 tags:
   - cancer
 images:

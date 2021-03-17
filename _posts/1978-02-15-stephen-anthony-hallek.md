@@ -3,7 +3,8 @@ layout: post
 title: Stephen Anthony Hallek
 sortKey: Hallek, Stephen
 date: 1978-02-15
-categories: class-of-1976
+categories:
+  - class-of-1976
 tags:
   - accident
   - traffic

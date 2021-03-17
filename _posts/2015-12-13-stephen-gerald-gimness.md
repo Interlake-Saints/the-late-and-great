@@ -3,7 +3,8 @@ layout: post
 title: Stephen Gerald Gimness
 sortKey: Gimness, Stephen
 date: 2015-12-13
-categories: class-of-1983
+categories:
+  - class-of-1983
 images:
   - /assets/class-of-1983/stephen-g-gimness-1.png
   - /assets/class-of-1983/stephen-g-gimness-2.jpg

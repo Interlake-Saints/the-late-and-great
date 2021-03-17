@@ -3,7 +3,8 @@ layout: post
 title: Shelly Lynn Petersen
 sortKey: Petersen, Shelly
 date: 2012-12-25
-categories: class-of-1979
+categories:
+  - class-of-1979
 tags:
   - cancer
 images:

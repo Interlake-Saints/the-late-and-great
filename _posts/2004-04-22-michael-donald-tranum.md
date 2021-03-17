@@ -3,7 +3,8 @@ layout: post
 title: Michael Donald Tranum
 sortKey: Tranum, Michael
 date: 2004-04-22
-categories: class-of-1982
+categories:
+  - class-of-1982
 tags:
   - cardiovascular-disease
 images:

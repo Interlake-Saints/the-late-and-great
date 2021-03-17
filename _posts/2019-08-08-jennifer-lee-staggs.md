@@ -3,7 +3,8 @@ layout: post
 title: Jennifer Lee Staggs
 sortKey: Staggs, Jennifer
 date: 2019-08-08
-categories: class-of-1989
+categories:
+  - class-of-1989
 images:
   - /assets/class-of-1989/jennifer-l-staggs-2.png
   - /assets/class-of-1989/jennifer-l-staggs-1.jpg

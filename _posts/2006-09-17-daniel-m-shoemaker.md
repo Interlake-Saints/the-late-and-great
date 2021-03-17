@@ -3,7 +3,8 @@ layout: post
 title: Daniel M. Shoemaker
 sortKey: Shoemaker, Daniel
 date: 2006-09-17
-categories: class-of-1979
+categories:
+  - class-of-1979
 tags:
   - cancer
 images:

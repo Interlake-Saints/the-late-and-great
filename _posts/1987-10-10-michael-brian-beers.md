@@ -3,7 +3,8 @@ layout: post
 title: Michael Brian Beers
 sortKey: Beers, Michael
 date: 1987-10-10
-categories: class-of-1979
+categories:
+  - class-of-1979
 tags:
   - accident
   - traffic

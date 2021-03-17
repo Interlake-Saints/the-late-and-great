@@ -3,7 +3,8 @@ layout: post
 title: George Fritz Victor Minnick
 sortKey: Minnick, George
 date: 2005-05-14
-categories: class-of-1979
+categories:
+  - class-of-1979
 tags:
   - respiratory-diseases
 images:

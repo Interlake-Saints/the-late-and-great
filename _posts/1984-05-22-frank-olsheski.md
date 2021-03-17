@@ -3,7 +3,8 @@ layout: post
 title: Frank Olsheski
 sortKey: Olsheski, Frank
 date: 1984-05-22
-categories: staff
+categories:
+  - staff
 tags:
   - cancer
 images:

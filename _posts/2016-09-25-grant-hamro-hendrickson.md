@@ -3,7 +3,8 @@ layout: post
 title: Grant Hamro Hendrickson
 sortKey: Hendrickson, Grant
 date: 2016-09-25
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/grant-h-hendrickson-1.png
   - /assets/staff/grant-h-hendrickson-2.jpg

@@ -3,7 +3,8 @@ layout: post
 title: Sheryl "Sheri" Jean Biehl
 sortKey: Biehl, Sheryl
 date: 2011-03-13
-categories: class-of-1983
+categories:
+  - class-of-1983
 tags:
   - liver-failure
 images:

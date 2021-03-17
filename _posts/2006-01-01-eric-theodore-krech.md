@@ -4,7 +4,8 @@ title: Eric Theodore Krech
 sortKey: Krech, Eric
 date: 2006-01-01
 dateUnknown: true
-categories: class-of-1980
+categories:
+  - class-of-1980
 tags:
   - accident
 images:

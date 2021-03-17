@@ -3,7 +3,8 @@ layout: post
 title: Nancy E. Linden
 sortKey: Linden, Nancy
 date: 2002-11-10
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - cancer
 images:

@@ -3,7 +3,8 @@ layout: post
 title: Karen Renee Rice
 sortKey: Rice, Karen
 date: 2016-09-16
-categories: class-of-1983
+categories:
+  - class-of-1983
 images:
   - /assets/class-of-1983/karen-r-rice-1.jpg
   - /assets/class-of-1983/karen-r-rice-2.png

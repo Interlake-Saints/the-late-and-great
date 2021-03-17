@@ -3,7 +3,8 @@ layout: post
 title: Clifford Arthur Nixon
 sortKey: Nixon, Clifford
 date: 2019-01-22
-categories: staff
+categories:
+  - staff
 tags:
   - cancer
 images:

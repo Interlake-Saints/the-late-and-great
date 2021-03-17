@@ -3,7 +3,8 @@ layout: post
 title: Jane Akita
 sortKey: Akita, Jane
 date: 2002-02-17
-categories: staff
+categories:
+  - staff
 tags:
   - stroke
 images:

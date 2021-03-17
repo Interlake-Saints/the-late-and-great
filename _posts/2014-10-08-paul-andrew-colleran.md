@@ -3,7 +3,8 @@ layout: post
 title: Paul Andrew Colleran
 sortKey: Colleran, Paul
 date: 2014-10-08
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - cancer
 images:

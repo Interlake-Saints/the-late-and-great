@@ -3,7 +3,8 @@ layout: post
 title: Georgia Viola "Viola" Cluff
 sortKey: Cluff, Georgia
 date: 2016-07-21
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - cardiovascular-disease
 images:

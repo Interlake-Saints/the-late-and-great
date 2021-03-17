@@ -4,7 +4,8 @@ title: Renee Lynn Higgins
 sortKey: Higgins, Renee
 date: 1998-01-01
 dateUnknown: true
-categories: class-of-1980
+categories:
+  - class-of-1980
 images:
   - /assets/class-of-1980/renee-l-higgins-1.jpg
 gender: female

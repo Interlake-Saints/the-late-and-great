@@ -3,7 +3,8 @@ layout: post
 title: Karen Catherine Perdue
 sortKey: Perdue, Karen
 date: 1989-10-29
-categories: class-of-1985
+categories:
+  - class-of-1985
 tags:
   - accident
   - traffic

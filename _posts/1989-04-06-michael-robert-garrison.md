@@ -3,7 +3,8 @@ layout: post
 title: Michael Robert Garrison
 sortKey: Garrison, Michael
 date: 1989-04-06
-categories: class-of-1987
+categories:
+  - class-of-1987
 tags:
   - accident
 images:

@@ -3,7 +3,8 @@ layout: post
 title: Michael Stephen Bacigalupi
 sortKey: Bacigalupi, Michael
 date: 2015-11-12
-categories: staff
+categories:
+  - staff
 tags:
   - cancer
 images:

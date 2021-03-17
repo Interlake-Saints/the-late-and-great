@@ -4,7 +4,8 @@ title: Raymond J. "Pete" Eineigl, Jr.
 sortKey: Eineigl, Raymond
 date: 1987-12-31
 dateUnknown: true
-categories: class-of-1986
+categories:
+  - class-of-1986
 images:
   - /assets/class-of-1986/raymond-j-eineigl-jr-1.jpg
   - /assets/class-of-1986/raymond-j-eineigl-jr-2.jpg

@@ -3,7 +3,8 @@ layout: post
 title: Janis Ann "Jan" England
 sortKey: England, Janis
 date: 2012-01-02
-categories: class-of-1980
+categories:
+  - class-of-1980
 images:
   - /assets/class-of-1980/janis-a-england-1.png
   - /assets/class-of-1980/janis-a-england-2.jpg

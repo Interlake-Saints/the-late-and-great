@@ -3,7 +3,8 @@ layout: post
 title: Dana Anglea
 sortKey: Anglea, Dana
 date: 2013-06-12
-categories: class-of-1990
+categories:
+  - class-of-1990
 images:
   - /assets/class-of-1990/dana-anglea-1.png
   - /assets/class-of-1990/dana-anglea-2.png

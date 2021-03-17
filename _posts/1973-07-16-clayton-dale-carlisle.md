@@ -3,7 +3,8 @@ layout: post
 title: Clayton Dale Carlisle
 sortKey: Carlisle, Clayton
 date: 1973-07-16
-categories: class-of-1970
+categories:
+  - class-of-1970
 tags:
   - accident
 images:

@@ -3,7 +3,8 @@ layout: post
 title: John O'Neill
 sortKey: O'Neill, John
 date: 1980-12-07
-categories: class-of-1974
+categories:
+  - class-of-1974
 images:
   - /assets/class-of-1974/john-o-neill-1.png
   - /assets/class-of-1974/john-o-neill-2.png

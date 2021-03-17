@@ -3,7 +3,8 @@ layout: post
 title: Daniel James Christian
 sortKey: Christian, Daniel
 date: 2013-08-11
-categories: class-of-1969
+categories:
+  - class-of-1969
 tags:
   - cancer
 images:

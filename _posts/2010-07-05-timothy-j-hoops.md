@@ -3,7 +3,8 @@ layout: post
 title: Timothy J. Hoops
 sortKey: Hoops, Timothy
 date: 2010-07-05
-categories: class-of-1973
+categories:
+  - class-of-1973
 tags:
   - cancer
 images:

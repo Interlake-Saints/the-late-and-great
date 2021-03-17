@@ -3,7 +3,8 @@ layout: post
 title: Loran James "Jim" Moesch
 sortKey: Moesch, Loran
 date: 1987-02-08
-categories: class-of-1978
+categories:
+  - class-of-1978
 tags:
   - accident
   - traffic

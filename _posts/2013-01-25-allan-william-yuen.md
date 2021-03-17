@@ -3,7 +3,8 @@ layout: post
 title: Allan William Yuen
 sortKey: Yuen, Allan
 date: 2013-01-25
-categories: class-of-1992
+categories:
+  - class-of-1992
 tags:
   - stroke
 images:

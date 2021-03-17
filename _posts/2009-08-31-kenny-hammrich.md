@@ -3,7 +3,8 @@ layout: post
 title: Kenny Hammrich
 sortKey: Hammrich, Kenny
 date: 2009-08-31
-categories: class-of-2003
+categories:
+  - class-of-2003
 tags:
   - accident
   - traffic

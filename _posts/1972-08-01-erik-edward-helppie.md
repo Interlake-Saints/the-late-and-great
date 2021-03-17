@@ -3,7 +3,8 @@ layout: post
 title: Erik Edward Helppie
 sortKey: Helppie, Erik
 date: 1972-08-01
-categories: class-of-1969
+categories:
+  - class-of-1969
 tags:
   - cancer
 images:

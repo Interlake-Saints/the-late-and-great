@@ -3,7 +3,8 @@ layout: post
 title: Doug W. Benshoof
 sortKey: Benshoof, Doug
 date: 2009-12-13
-categories: class-of-1984
+categories:
+  - class-of-1984
 images:
   - /assets/class-of-1984/doug-w-benshoof-1.png
   - /assets/class-of-1984/doug-w-benshoof-2.jpg

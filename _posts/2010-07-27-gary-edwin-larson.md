@@ -3,7 +3,8 @@ layout: post
 title: Gary Edwin Larson
 sortKey: Larson, Gary
 date: 2010-07-27
-categories: class-of-1974
+categories:
+  - class-of-1974
 images:
   - /assets/class-of-1974/gary-e-larson-1.png
 gender: male

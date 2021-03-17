@@ -3,7 +3,8 @@ layout: post
 title: Stephanie Lee Stanelun
 sortKey: Stanelun, Stephanie
 date: 2015-11-28
-categories: class-of-1984
+categories:
+  - class-of-1984
 tags:
   - cancer
 images:

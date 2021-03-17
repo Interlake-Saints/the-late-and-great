@@ -3,7 +3,8 @@ layout: post
 title: Susan Marie Holzknecht
 sortKey: Holzknecht, Susan
 date: 2006-03-13
-categories: class-of-1970
+categories:
+  - class-of-1970
 tags:
   - cancer
 images:

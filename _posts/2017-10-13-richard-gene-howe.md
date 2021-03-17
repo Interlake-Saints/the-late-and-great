@@ -3,7 +3,8 @@ layout: post
 title: Richard Gene "Rick" Howe
 sortKey: Howe, Richard
 date: 2017-10-13
-categories: class-of-1977
+categories:
+  - class-of-1977
 images:
   - /assets/class-of-1977/richard-g-howe-1.png
   - /assets/class-of-1977/richard-g-howe-2.jpg

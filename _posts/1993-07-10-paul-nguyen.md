@@ -3,7 +3,8 @@ layout: post
 title: Paul Nguyen
 sortKey: Nguyen, Paul
 date: 1993-07-10
-categories: class-of-1995
+categories:
+  - class-of-1995
 tags:
   - homicide
   - firearms

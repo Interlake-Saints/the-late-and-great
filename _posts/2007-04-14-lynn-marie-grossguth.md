@@ -3,7 +3,8 @@ layout: post
 title: Lynn Marie Grossguth
 sortKey: Grossguth, Lynn
 date: 2007-04-14
-categories: class-of-1989
+categories:
+  - class-of-1989
 tags:
   - cancer
 images:

@@ -3,7 +3,8 @@ layout: post
 title: Travis Armstrong Leva
 sortKey: Leva, Travis
 date: 2012-06-18
-categories: class-of-1997
+categories:
+  - class-of-1997
 tags:
   - cardiovascular-disease
 images:

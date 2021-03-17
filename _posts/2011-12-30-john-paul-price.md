@@ -3,7 +3,8 @@ layout: post
 title: John Paul Price
 sortKey: Price, John
 date: 2011-12-30
-categories: staff
+categories:
+  - staff
 images:
   - /assets/staff/john-p-price-1.jpg
   - /assets/staff/john-p-price-2.png
