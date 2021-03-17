@@ -16,3 +16,5 @@ Melissa, a fit, athletic, seemingly healthy young woman, was diagnosed with Stag
 Through nearly two years of treatment, with full knowledge that her cancer was terminal, Waller made the most out of every single day. She never sugar-coated what she was experiencing, but she also didn’t milk it for sympathy. The ups and downs of rigorous chemotherapy and the toll treatments took on her body didn’t daunt her spirit, instead it caused her to reflect on the many gifts friends and family and life had given her and to reach for more.
 
 Sadly, Melissa passed away on November 25, 2010, after a two-year battle with cancer. She was only 32 years old. She is greatly missed by many.
+
+See "comments" below if you would like to read more about her story.
