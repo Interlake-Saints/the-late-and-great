@@ -10,4 +10,4 @@ images:
 gender: female
 obituary: https://bartonfuneral.com/2018/12/08/shannon-anne-bunn/
 ---
-Shannon passed away in Kirkland on December 6, 2018. She was 33 years old.
+Shannon passed away in Kirkland on December 6, 2018, after an accidental drug interaction. She was 33 years old.
