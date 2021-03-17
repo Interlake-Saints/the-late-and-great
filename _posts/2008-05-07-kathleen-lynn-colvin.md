@@ -4,7 +4,8 @@ title: Kathleen Lynn "Kathy" Colvin
 sortKey: Colvin, Kathleen
 date: 2008-05-07
 categories: class-of-1969
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1969/kathleen-l-colvin-1.png
   - /assets/class-of-1969/kathleen-l-colvin-2.jpg

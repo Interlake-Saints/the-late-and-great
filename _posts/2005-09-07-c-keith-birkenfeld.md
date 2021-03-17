@@ -4,7 +4,9 @@ title: C. Keith Birkenfeld
 sortKey: Birkenfeld, Keith
 date: 2005-09-07
 categories: staff
-tags: surgical-complications cardiovascular-disease
+tags:
+  - cardiovascular-disease
+  - surgical-complications
 images:
   - /assets/staff/c-keith-birkenfeld-1.png
   - /assets/staff/c-keith-birkenfeld-2.jpg

@@ -4,7 +4,9 @@ title: Karen Catherine Perdue
 sortKey: Perdue, Karen
 date: 1989-10-29
 categories: class-of-1985
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-1985/karen-catherine-perdue-1.png
 gender: female

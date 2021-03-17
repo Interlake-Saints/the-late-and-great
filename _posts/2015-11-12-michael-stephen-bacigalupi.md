@@ -4,7 +4,8 @@ title: Michael Stephen Bacigalupi
 sortKey: Bacigalupi, Michael
 date: 2015-11-12
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/michael-s-bacigalupi-1.jpg
   - /assets/staff/michael-s-bacigalupi-2.jpg

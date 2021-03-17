@@ -4,7 +4,8 @@ title: Monica Gotz
 sortKey: Gotz, Monica
 date: 2005-11-14
 categories: class-of-1979
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1979/monica-gotz-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Monica-Gotz&pid=16317475

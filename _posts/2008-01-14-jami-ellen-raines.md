@@ -4,7 +4,8 @@ title: Jami Ellen Raines
 sortKey: Raines, Jami
 date: 2008-01-14
 categories: class-of-1976
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1976/jami-e-raines-1.png
   - /assets/class-of-1976/jami-e-raines-2.png

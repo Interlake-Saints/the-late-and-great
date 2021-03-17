@@ -4,7 +4,8 @@ title: Shelly Lynn Petersen
 sortKey: Petersen, Shelly
 date: 2012-12-25
 categories: class-of-1979
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1979/shelly-l-petersen-1.png
   - /assets/class-of-1979/shelly-l-petersen-2.jpg

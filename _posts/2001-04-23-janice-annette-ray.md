@@ -4,7 +4,8 @@ title: Janice Annette Ray
 sortKey: Ray, Janice
 date: 2001-04-23
 categories: class-of-1980
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1980/janice-a-ray-1.jpg
 gender: female

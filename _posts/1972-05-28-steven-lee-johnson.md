@@ -4,7 +4,8 @@ title: Steven Lee Johnson
 sortKey: Johnson, Steven
 date: 1972-05-28
 categories: class-of-1970
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1970/steven-l-johnson-1.png
 gender: male

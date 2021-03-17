@@ -4,7 +4,8 @@ title: Dylan "Tank" Caleb Loorem
 sortKey: Loorem, Dylan
 date: 2015-10-07
 categories: class-of-1999
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1999/dylan-caleb-loorem-1.jpg
   - /assets/class-of-1999/dylan-caleb-loorem-2.jpg

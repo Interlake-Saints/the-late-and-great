@@ -4,7 +4,8 @@ title: Dann E. Rowan
 sortKey: Rowan, Dann
 date: 2001-08-26
 categories: class-of-1980
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1980/dann-e-rowan-1.jpg
 gender: male

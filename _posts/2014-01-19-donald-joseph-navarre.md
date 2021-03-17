@@ -4,7 +4,8 @@ title: Donald Joseph Navarre
 sortKey: Navarre, Donald
 date: 2014-01-19
 categories: class-of-1974
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1974/donald-j-navarre-1.png
   - /assets/class-of-1974/donald-j-navarre-2.jpg

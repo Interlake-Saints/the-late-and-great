@@ -4,7 +4,8 @@ title: Gary C. Ferderer
 sortKey: Ferderer, Gary
 date: 2012-11-23
 categories: class-of-1974
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1974/gary-c-ferderer-1.jpg
   - /assets/ferderer2.jpg

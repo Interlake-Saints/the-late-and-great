@@ -4,7 +4,8 @@ title: Marny S. Bayes
 sortKey: Bayes, Marny
 date: 2006-12-03
 categories: class-of-1983
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1983/marny-s-bayes-1.png
   - /assets/class-of-1983/marny-s-bayes-2.jpg

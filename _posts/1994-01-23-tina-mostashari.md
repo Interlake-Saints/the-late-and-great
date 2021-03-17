@@ -4,7 +4,9 @@ title: Tina Mostashari
 sortKey: Mostashari, Tina
 date: 1994-01-23
 categories: class-of-1991
-tags: homicide firearms
+tags:
+  - homicide
+  - firearms
 images:
   - /assets/class-of-1991/tina-mostashari-1.jpg
 gender: female

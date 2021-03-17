@@ -4,7 +4,8 @@ title: Ryan William Donahoe
 sortKey: Donahoe, Ryan
 date: 2003-07-14
 categories: class-of-2002
-tags: infection
+tags:
+ - infection
 images:
   - /assets/class-of-2002/ryan-william-donahoe-1.jpg
 gender: male

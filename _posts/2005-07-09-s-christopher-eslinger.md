@@ -4,7 +4,8 @@ title: S. Christopher Eslinger
 sortKey: Eslinger, Christopher
 date: 2005-07-09
 categories: class-of-1979
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1979/s-christopher-eslinger-1.png
 gender: male

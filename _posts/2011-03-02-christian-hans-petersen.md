@@ -4,7 +4,8 @@ title: Christian "Chris" Hans Petersen
 sortKey: Petersen, Christian
 date: 2011-03-02
 categories: class-of-1981
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1981/christian-h-petersen-1.jpg
 gender: male

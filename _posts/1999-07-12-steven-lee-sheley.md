@@ -4,7 +4,8 @@ title: Steven Lee Sheley
 sortKey: Sheley, Steven
 date: 1999-07-12
 categories: class-of-1987
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1987/steven-l-sheley-1.png
 gender: male

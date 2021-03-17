@@ -4,7 +4,8 @@ title: Diane Friedenbach
 sortKey: Friedenbach, Diane
 date: 2020-06-25
 categories: class-of-1988
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1988/diane-friedenbach-2.png
   - /assets/class-of-1988/diane-friedenbach-1.jpg

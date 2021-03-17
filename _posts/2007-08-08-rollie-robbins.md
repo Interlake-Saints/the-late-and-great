@@ -4,7 +4,8 @@ title: Rollie Robbins
 sortKey: Robbins, Rollie
 date: 2007-08-08
 categories: staff
-tags: stroke
+tags:
+  - stroke
 images:
   - /assets/staff/rollie-robbins-1.png
   - /assets/staff/rollie-robbins-2.jpg

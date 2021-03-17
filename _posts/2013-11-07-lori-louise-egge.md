@@ -4,7 +4,8 @@ title: Lori Louise Egge
 sortKey: Egge, Lori
 date: 2013-11-07
 categories: class-of-1978
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1978/lori-l-egge-1.png
   - /assets/class-of-1978/lori-l-egge-2.png

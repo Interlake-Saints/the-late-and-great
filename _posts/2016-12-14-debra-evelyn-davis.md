@@ -4,7 +4,8 @@ title: Debra Evelyn "Debi" Davis
 sortKey: Davis, Debra
 date: 2016-12-14
 categories: class-of-1972
-tags: multiple-sclerosis
+tags:
+  - multiple-sclerosis
 images:
   - /assets/class-of-1972/debra-e-davis-1.png
   - /assets/class-of-1972/debra-e-davis-2.jpg

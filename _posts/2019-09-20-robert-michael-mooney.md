@@ -4,7 +4,8 @@ title: Robert Michael "Bob" Mooney
 sortKey: Mooney, Robert
 date: 2019-09-20
 categories: class-of-1979
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1979/robert-m-mooney-1.jpg
   - /assets/class-of-1979/robert-m-mooney-2.png

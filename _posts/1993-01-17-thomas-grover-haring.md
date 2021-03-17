@@ -4,7 +4,8 @@ title: Thomas Grover Haring
 sortKey: Haring, Thomas
 date: 1993-01-17
 categories: class-of-1972
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1972/thomas-g-haring-1.png
 obituary: http://texts.cdlib.org/view?docId=hb0h4n99rb&doc.view=frames&chunk.id=div00027&toc.depth=1&toc.id

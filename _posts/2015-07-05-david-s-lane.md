@@ -4,7 +4,8 @@ title: David S. Lane
 sortKey: Lane, David
 date: 2015-07-05
 categories: class-of-1975
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1975/david-s-lane-1.png
   - /assets/class-of-1975/david-s-lane-2.jpg

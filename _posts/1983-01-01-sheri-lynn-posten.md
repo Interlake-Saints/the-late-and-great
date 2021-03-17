@@ -5,7 +5,9 @@ sortKey: Posten, Sheri
 date: 1983-01-01
 dateUnknown: true
 categories: class-of-1978
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-1978/sheri-l-posten-1.png
 gender: female

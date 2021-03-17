@@ -4,7 +4,8 @@ title: Nell Anne Cain
 sortKey: Cain, Nell
 date: 2000-03-24
 categories: class-of-1970
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1970/nell-a-cain-1.png
   - /assets/class-of-1970/nell-a-cain-2.jpg

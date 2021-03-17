@@ -4,7 +4,8 @@ title: Erin Danielle Medeck
 sortKey: Medeck, Erin
 date: 2010-07-12
 categories: class-of-1989
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1989/erin-d-medeck-1.png
   - /assets/class-of-1989/erin-d-medeck-2.jpg

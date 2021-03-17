@@ -4,7 +4,8 @@ title: Lorie Ann Rasmussen
 sortKey: Rasmussen, Lorie
 date: 2002-05-09
 categories: class-of-1974
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1974/lorie-a-rasmussen-1.png
   - /assets/class-of-1974/lorie-a-rasmussen-2.jpg

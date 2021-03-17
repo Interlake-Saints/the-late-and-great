@@ -4,7 +4,8 @@ title: Allan William Yuen
 sortKey: Yuen, Allan
 date: 2013-01-25
 categories: class-of-1992
-tags: stroke
+tags:
+  - stroke
 images:
   - /assets/class-of-1992/allan-w-yuen-1.png
   - /assets/class-of-1992/allan-w-yuen-2.jpg

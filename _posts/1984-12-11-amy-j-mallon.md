@@ -4,7 +4,8 @@ title: Amy J. Mallon
 sortKey: Mallon, Amy
 date: 1984-12-11
 categories: class-of-1982
-tags: cystic-fibrosis
+tags:
+  - cystic-fibrosis
 images:
   - /assets/class-of-1982/amy-j-mallon-1.png
 gender: female

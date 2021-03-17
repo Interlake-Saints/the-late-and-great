@@ -4,7 +4,8 @@ title: Brett Laurence Ehlers
 sortKey: Ehlers, Brett
 date: 2017-12-31
 categories: class-of-1979
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1979/brett-l-ehlers-1.jpg
   - /assets/class-of-1979/brett-l-ehlers-2.png

@@ -4,7 +4,9 @@ title: Scott Michael Hunter
 sortKey: Hunter, Scott
 date: 2000-04-01
 categories: class-of-1987
-tags: accident drowning
+tags:
+  - accident
+  - drowning
 images:
   - /assets/class-of-1987/scott-m-hunter-1.png
 gender: male

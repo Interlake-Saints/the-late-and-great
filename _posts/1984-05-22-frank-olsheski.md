@@ -4,7 +4,8 @@ title: Frank Olsheski
 sortKey: Olsheski, Frank
 date: 1984-05-22
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/frank-olsheski-1.png
   - /assets/staff/frank-olsheski-2.png

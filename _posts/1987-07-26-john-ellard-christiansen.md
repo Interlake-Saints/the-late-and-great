@@ -4,7 +4,8 @@ title: John Ellard Christiansen
 sortKey: Christiansen, John
 date: 1987-07-26
 categories: class-of-1977
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1977/john-e-christiansen-1.png
 gender: male

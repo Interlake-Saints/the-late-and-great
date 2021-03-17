@@ -4,7 +4,8 @@ title: Jessica Marla Goldstein
 sortKey: Goldstein, Jessica
 date: 2012-02-07
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/jessica-m-goldstein-1.jpg
 obituary: https://www.legacy.com/obituaries/lohud/obituary.aspx?pid=155913608

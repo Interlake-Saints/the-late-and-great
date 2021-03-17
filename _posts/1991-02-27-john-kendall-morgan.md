@@ -4,7 +4,8 @@ title: John Kendall "Jack" Morgan
 sortKey: Morgan, John
 date: 1991-02-27
 categories: class-of-1981
-tags: killed-in-action
+tags:
+  - killed-in-action
 images:
   - /assets/class-of-1981/john-k-morgan-1.jpg
 gender: male

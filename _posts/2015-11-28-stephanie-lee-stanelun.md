@@ -4,7 +4,8 @@ title: Stephanie Lee Stanelun
 sortKey: Stanelun, Stephanie
 date: 2015-11-28
 categories: class-of-1984
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1984/stephanie-l-stanelun-1.jpg
   - /assets/class-of-1984/stephanie-l-stanelun-2.png

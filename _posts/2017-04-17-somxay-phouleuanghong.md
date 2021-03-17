@@ -4,7 +4,9 @@ title: Somxay Phouleuanghong
 sortKey: Phouleuanghong, Somxay
 date: 2017-04-17
 categories: class-of-1994
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-1994/somxay-phouleuanghong-2.jpg
   - /assets/class-of-1994/somxay-phouleuanghong-1.jpg

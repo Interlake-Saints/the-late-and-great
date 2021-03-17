@@ -4,7 +4,8 @@ title: Bradley James Burns
 sortKey: Burns, Bradley
 date: 2003-12-19
 categories: class-of-1981
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1981/bradley-j-burns-1.jpg
 gender: male

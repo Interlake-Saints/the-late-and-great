@@ -4,7 +4,8 @@ title: Kimberly Ann Schenck
 sortKey: Schenck, Kimberly
 date: 2014-12-20
 categories: class-of-1983
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1983/kimberly-a-schenck-1.png
   - /assets/class-of-1983/kimberly-a-schenck-2.jpg

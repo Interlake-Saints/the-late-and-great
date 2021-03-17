@@ -4,7 +4,8 @@ title: Jean "Tina" Gerard
 sortKey: Gerard, Jean
 date: 2009-10-06
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/jean-gerard-1.jpg
   - /assets/staff/jean-gerard-2.png

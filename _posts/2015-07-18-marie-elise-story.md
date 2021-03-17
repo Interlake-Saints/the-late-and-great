@@ -4,7 +4,8 @@ title: Marie Elise Story
 sortKey: Story, Marie
 date: 2015-07-18
 categories: class-of-1992
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1992/marie-e-story-1.jpg
   - /assets/class-of-1992/marie-e-story-2.jpg

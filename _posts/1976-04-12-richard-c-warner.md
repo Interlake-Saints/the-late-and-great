@@ -4,7 +4,9 @@ title: Richard C. "Dick" Warner
 sortKey: Warner, Richard
 date: 1976-04-12
 categories: staff
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/staff/richard-c-warner-1.png
   - /assets/staff/richard-c-warner-2.png

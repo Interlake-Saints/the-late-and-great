@@ -4,7 +4,8 @@ title: Denise Anderiene Dalton
 sortKey: Dalton, Denise
 date: 2014-09-27
 categories: class-of-1987
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1987/denise-a-dalton-1.png
   - /assets/class-of-1987/denise-a-dalton-2.jpg

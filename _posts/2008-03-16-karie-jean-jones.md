@@ -4,7 +4,8 @@ title: Karie Jean Jones
 sortKey: Jones, Karie
 date: 2008-03-16
 categories: class-of-1980
-tags: infection
+tags:
+  - infection
 images:
   - /assets/class-of-1980/karie-j-jones-1.jpg
   - /assets/class-of-1980/karie-j-jones-2.jpg

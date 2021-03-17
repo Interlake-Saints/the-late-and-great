@@ -4,7 +4,8 @@ title: Scott Norman Livers-Walton
 sortKey: Livers-Walton, Scott
 date: 2018-10-14
 categories: class-of-1979
-tags: infection
+tags:
+  - infection
 images:
   - /assets/class-of-1979/scott-n-livers-walton-1.jpg
   - /assets/class-of-1979/scott-n-livers-walton-2.png

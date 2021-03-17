@@ -4,7 +4,8 @@ title: Kim Martin
 sortKey: Martin, Kim
 date: 2017-02-02
 categories: class-of-1980
-tags: infection
+tags:
+  - infection
 images:
   - /assets/class-of-1980/kim-martin-1.png
   - /assets/class-of-1980/kim-martin-2.png

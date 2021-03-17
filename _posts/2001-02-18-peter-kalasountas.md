@@ -4,7 +4,8 @@ title: Peter Kalasountas
 sortKey: Kalasountas, Peter
 date: 2001-02-18
 categories: class-of-1984
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1984/peter-kalasountas-1.png
 gender: male

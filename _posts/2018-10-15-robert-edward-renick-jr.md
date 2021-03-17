@@ -4,7 +4,8 @@ title: Robert Edward Renick, Jr.
 sortKey: Renick, Robert
 date: 2018-10-15
 categories: class-of-1973
-tags: stroke
+tags:
+  - stroke
 images:
   - /assets/class-of-1973/robert-e-renick-jr-1.jpg
   - /assets/class-of-1973/robert-e-renick-jr-2.jpg

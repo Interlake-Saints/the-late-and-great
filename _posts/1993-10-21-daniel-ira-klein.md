@@ -4,7 +4,9 @@ title: Daniel Ira Klein
 sortKey: Klein, Daniel
 date: 1993-10-21
 categories: class-of-1985
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-1985/daniel-ira-klein-1.png
 gender: male

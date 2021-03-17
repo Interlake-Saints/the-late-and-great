@@ -4,7 +4,8 @@ title: James Charles "Jim" Ingles
 sortKey: Ingles, James
 date: 1977-12-11
 categories: class-of-1969
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1969/james-c-ingles-1.png
 gender: male

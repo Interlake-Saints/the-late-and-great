@@ -4,7 +4,8 @@ title: Jill Bennett
 sortKey: Bennett, Jill
 date: 2004-07-14
 categories: class-of-1974
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1974/jill-bennett-1.png
 gender: female

@@ -4,7 +4,8 @@ title: Douglas Mark Magnuson
 sortKey: Magnuson, Douglas
 date: 2017-08-03
 categories: class-of-1975
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1975/douglas-m-magnuson-1.png
   - /assets/class-of-1975/douglas-m-magnuson-2.jpg

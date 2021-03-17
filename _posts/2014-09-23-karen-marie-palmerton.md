@@ -4,7 +4,8 @@ title: Karen Marie Palmerton
 sortKey: Palmerton, Karen
 date: 2014-09-23
 categories: class-of-1982
-tags: surgical-complications
+tags:
+  - surgical-complications
 images:
   - /assets/class-of-1982/karen-marie-palmerton-1.png
   - /assets/class-of-1982/karen-marie-palmerton-2.jpg

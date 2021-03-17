@@ -4,7 +4,10 @@ title: Wendy Lynn Williams
 sortKey: Williams, Wendy
 date: 2006-12-18
 categories: class-of-1984
-tags: accident traffic cardiovascular-disease
+tags:
+  - accident
+  - traffic
+  - cardiovascular-disease
 images:
   - /assets/class-of-1984/wendy-l-williams-1.png
   - /assets/class-of-1984/wendy-l-williams-2.jpg

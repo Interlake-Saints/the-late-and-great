@@ -4,7 +4,8 @@ title: Lisa Ellen Johnson
 sortKey: Johnson, Lisa
 date: 2016-01-24
 categories: class-of-1991
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1991/lisa-e-johnson-2.png
   - /assets/class-of-1991/lisa-e-johnson-1.jpg

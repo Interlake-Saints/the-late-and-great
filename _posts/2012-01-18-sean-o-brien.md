@@ -4,7 +4,8 @@ title: Sean O'Brien
 sortKey: O'Brien, Sean
 date: 2012-01-18
 categories: class-of-1976
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1976/sean-o-brien-1.png
   - /assets/class-of-1976/sean-o-brien-2.jpg

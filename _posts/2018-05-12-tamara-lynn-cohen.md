@@ -4,7 +4,8 @@ title: Tamara "Tami" Lynn Cohen
 sortKey: Cohen, Tamara
 date: 2018-05-12
 categories: class-of-1983
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1983/tamara-l-cohen-1.jpg
   - /assets/class-of-1983/tamara-l-cohen-2.png

@@ -4,7 +4,9 @@ title: Martin Jan Bouman
 sortKey: Bouman, Martin
 date: 1980-07-14
 categories: class-of-1976
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-1976/martin-j-bouman-1.png
   - /assets/class-of-1976/martin-j-bouman-2.png

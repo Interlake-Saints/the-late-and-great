@@ -4,7 +4,8 @@ title: June Marie Gustafson
 sortKey: Gustafson, June
 date: 1975-01-01
 categories: class-of-1972
-tags: infection
+tags:
+  - infection
 images:
   - /assets/class-of-1972/june-m-gustafson-1.png
 gender: female

@@ -4,7 +4,8 @@ title: Cathy Jean "Cass" Edison
 sortKey: Edison, Cathy
 date: 2015-03-16
 categories: class-of-1978
-tags: homicide
+tags:
+  - homicide
 images:
   - /assets/class-of-1978/cathy-j-edison-1.png
   - /assets/class-of-1978/cathy-j-edison-2.jpg

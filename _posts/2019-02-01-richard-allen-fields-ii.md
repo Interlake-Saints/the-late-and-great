@@ -4,7 +4,8 @@ title: Richard Allen Fields II
 sortKey: Fields, Richard
 date: 2019-02-01
 categories: class-of-2000
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-2000/richard-a-fields-ii-1.jpg
   - /assets/class-of-2000/richard-a-fields-ii-2.jpg

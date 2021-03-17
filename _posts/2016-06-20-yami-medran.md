@@ -4,7 +4,9 @@ title: Yamilet "Yami" Medran
 sortKey: Medran, Yami
 date: 2016-06-20
 categories: class-of-2018
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-2018/yami-medran-1.jpg
 gender: female

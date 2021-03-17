@@ -4,7 +4,8 @@ title: Greta Jill Geffe
 sortKey: Geffe, Greta
 date: 2014-12-16
 categories: class-of-1979
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1979/greta-j-geffe-1.png
   - /assets/class-of-1979/greta-j-geffe-2.jpg

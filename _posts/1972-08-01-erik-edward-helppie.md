@@ -4,7 +4,8 @@ title: Erik Edward Helppie
 sortKey: Helppie, Erik
 date: 1972-08-01
 categories: class-of-1969
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1969/erik-e-helppie-1.png
   - /assets/class-of-1969/erik-e-helppie-2.png

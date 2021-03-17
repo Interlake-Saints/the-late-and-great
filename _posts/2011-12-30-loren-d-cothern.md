@@ -4,7 +4,8 @@ title: Loren D. Cothern
 sortKey: Cothern, Loren
 date: 2011-12-30
 categories: class-of-1973
-tags: liver-failure
+tags:
+  - liver-failure
 images:
   - /assets/class-of-1973/loren-d-cothern-1.png
   - /assets/class-of-1973/loren-d-cothern-2.jpg

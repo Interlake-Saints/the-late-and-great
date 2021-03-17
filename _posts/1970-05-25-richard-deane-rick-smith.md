@@ -4,7 +4,8 @@ title: Richard Deane "Rick" Smith
 sortKey: Smith, Richard
 date: 1970-05-25
 categories: class-of-1969
-tags: killed-in-action
+tags:
+  - killed-in-action
 images:
   - /assets/class-of-1969/richard-d-smith-1.png
 obituary: https://www.findagrave.com/memorial/7964364/richard-deane-smith

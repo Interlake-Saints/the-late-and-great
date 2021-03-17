@@ -4,7 +4,8 @@ title: Colin Patrick Carty
 sortKey: Carty, Colin
 date: 2008-09-30
 categories: class-of-2005
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-2005/colin-p-carty-1.jpg
 gender: male

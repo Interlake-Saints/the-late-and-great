@@ -4,7 +4,8 @@ title: Louise Calvert
 sortKey: Calvert, Louise
 date: 2009-12-18
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/louise-calvert-1.jpg
 gender: female

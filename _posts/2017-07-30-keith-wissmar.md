@@ -4,7 +4,8 @@ title: Keith Wissmar
 sortKey: Wissmar, Keith
 date: 2017-07-30
 categories: class-of-1976
-tags: cancer
+tags:
+  - cancer
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=186369064
 images:
   - /assets/class-of-1976/keith-wissmar-1.png

@@ -4,7 +4,8 @@ title: Clifford Arthur Nixon
 sortKey: Nixon, Clifford
 date: 2019-01-22
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/cliff-a-nixon-1.jpg
   - /assets/staff/cliff-a-nixon-2.jpg

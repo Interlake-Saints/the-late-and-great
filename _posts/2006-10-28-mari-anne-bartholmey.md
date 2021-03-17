@@ -4,7 +4,8 @@ title: Mari Anne "Annie" Bartholmey
 sortKey: Bartholmey, Mari
 date: 2006-10-28
 categories: class-of-1976
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1976/mari-a-bartholmey-1.png
   - /assets/class-of-1976/mari-a-bartholmey-2.png

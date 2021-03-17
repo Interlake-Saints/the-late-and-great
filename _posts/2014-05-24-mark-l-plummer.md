@@ -4,7 +4,8 @@ title: Mark L. Plummer
 sortKey: Plummer, Mark
 date: 2014-05-24
 categories: class-of-1972
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1972/mark-l-plummer-1.jpg
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=171197726

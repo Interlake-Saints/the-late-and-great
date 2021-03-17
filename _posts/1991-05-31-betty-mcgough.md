@@ -4,7 +4,8 @@ title: Betty McGough
 sortKey: McGough, Betty
 date: 1991-05-31
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/betty-mcgough-1.png
 gender: female

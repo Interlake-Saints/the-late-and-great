@@ -5,7 +5,8 @@ sortKey: Severn, Richard
 date: 1980-01-01
 dateUnknown: true
 categories: class-of-1975
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1975/richard-h-severn-1.png
 gender: male

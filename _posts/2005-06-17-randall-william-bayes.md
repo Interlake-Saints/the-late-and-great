@@ -4,7 +4,9 @@ title: Randall William "Randy" Bayes
 sortKey: Bayes, Randall
 date: 2005-06-17
 categories: class-of-1986
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-1986/randall-w-bayes-1.jpg
 gender: male

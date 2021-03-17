@@ -4,7 +4,8 @@ title: William Kevin "Bill" Kriner
 sortKey: Kriner, William
 date: 2013-11-30
 categories: class-of-1977
-tags: cancer
+tags:
+  - cancer
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=william-kevin-kriner&pid=168337949
 images:
   - /assets/class-of-1977/william-k-kriner-1.png

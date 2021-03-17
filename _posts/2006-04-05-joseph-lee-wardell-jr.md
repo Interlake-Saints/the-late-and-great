@@ -4,7 +4,8 @@ title: Joseph Lee Wardell Jr.
 sortKey: Wardell, Joseph
 date: 2006-04-05
 categories: class-of-1971
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1971/joseph-l-wardell-jr-1.png
 gender: male

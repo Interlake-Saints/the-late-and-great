@@ -4,7 +4,8 @@ title: Annalee Schock
 sortKey: Schock, Annalee
 date: 2003-08-18
 categories: class-of-1970
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1970/annalee-schock-1.png
   - /assets/class-of-1970/annalee-schock-2.jpg

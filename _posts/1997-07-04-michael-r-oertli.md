@@ -4,7 +4,8 @@ title: Michael R. Oertli
 sortKey: Oertli, Michael
 date: 1997-07-04
 categories: class-of-1978
-tags: aids
+tags:
+  - aids
 images:
   - /assets/class-of-1978/michael-r-oertli-1.png
 gender: male

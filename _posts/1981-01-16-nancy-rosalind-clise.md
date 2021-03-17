@@ -4,7 +4,8 @@ title: Nancy Rosalind Clise
 sortKey: Clise, Nancy
 date: 1981-01-16
 categories: class-of-1974
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1974/nancy-r-clise-1.png
 gender: female

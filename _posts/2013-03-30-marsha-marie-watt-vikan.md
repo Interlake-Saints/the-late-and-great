@@ -4,7 +4,8 @@ title: Marsha Marie Watt-Vikan
 sortKey: Watt-Vikan, Marsha
 date: 2013-03-30
 categories: class-of-1973
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1973/marsha-marie-watt-vikan-1.png
 gender: female

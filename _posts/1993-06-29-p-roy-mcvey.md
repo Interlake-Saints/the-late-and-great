@@ -4,7 +4,8 @@ title: P. Roy McVey
 sortKey: McVey, Roy
 date: 1993-06-29
 categories: class-of-1980
-tags: homicide
+tags:
+  - homicide
 images:
   - /assets/class-of-1980/p-roy-mcvey-1.jpg
 gender: male

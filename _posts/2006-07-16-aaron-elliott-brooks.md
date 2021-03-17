@@ -4,7 +4,8 @@ title: Aaron Elliott Brooks
 sortKey: Brooks, Aaron
 date: 2006-07-16
 categories: class-of-1980
-tags: homicide
+tags:
+  - homicide
 images:
   - /assets/class-of-1980/aaron-e-brooks-1.jpg
 gender: male

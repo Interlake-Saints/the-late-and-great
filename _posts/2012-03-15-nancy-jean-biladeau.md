@@ -4,7 +4,9 @@ title: Nancy Jean Biladeau
 sortKey: Biladeau, Nancy
 date: 2012-03-15
 categories: class-of-1984
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-1984/nancy-j-biladeau-1.png
   - /assets/class-of-1984/nancy-j-biladeau-2.jpg

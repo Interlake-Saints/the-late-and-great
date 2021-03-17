@@ -4,7 +4,8 @@ title: Ray Williams
 sortKey: Williams, Ray
 date: 2013-02-25
 categories: class-of-1971
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1971/ray-williams-1.png
   - /assets/class-of-1971/ray-williams-2.jpg

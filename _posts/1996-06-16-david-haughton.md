@@ -4,7 +4,8 @@ title: David Haughton
 sortKey: Haughton, David
 date: 1996-06-16
 categories: class-of-1994
-tags: suicide
+tags:
+  - suicide
 images:
   - /assets/class-of-1994/david-haughton-1.jpg
   - /assets/class-of-1994/david-haughton-2.jpg

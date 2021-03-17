@@ -4,7 +4,8 @@ title: Shannan Kelly Bouman
 sortKey: Bouman, Shannan
 date: 2009-09-14
 categories: class-of-1992
-tags: respiratory-diseases
+tags:
+  - respiratory-diseases
 images:
   - /assets/class-of-1992/shannan-k-bouman-1.jpg
 gender: female

@@ -4,7 +4,9 @@ title: Gerald Robert "Jerry" Rehberger
 sortKey: Rehberger, Gerald
 date: 2008-02-21
 categories: class-of-1985
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-1985/gerald-robert-rehberger-1.png
   - /assets/class-of-1985/gerald-robert-rehberger-2.jpg

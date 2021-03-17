@@ -4,7 +4,8 @@ title: Marshall Hugh Moss
 sortKey: Moss, Marshall
 date: 2002-06-08
 categories: class-of-1970
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1970/marhsall-h-moss-1.png
 gender: male

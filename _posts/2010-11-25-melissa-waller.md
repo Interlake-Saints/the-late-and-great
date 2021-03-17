@@ -4,7 +4,8 @@ title: Melissa Waller
 sortKey: Waller, Melissa
 date: 2010-11-25
 categories: class-of-1996
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1996/melissa-waller-1.jpg
 gender: female

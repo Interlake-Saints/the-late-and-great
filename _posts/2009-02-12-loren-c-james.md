@@ -4,7 +4,8 @@ title: Loren C. "Larry" James
 sortKey: James, Loren
 date: 2009-02-12
 categories: class-of-1974
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1974/loren-c-james-1.png
 gender: male

@@ -4,7 +4,8 @@ title: Charles Lewis Clark
 sortKey: Clark, Charles
 date: 2005-07-01
 categories: class-of-1980
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/clark33.jpg
 gender: male

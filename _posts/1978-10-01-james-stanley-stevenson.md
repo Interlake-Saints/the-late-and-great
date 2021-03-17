@@ -4,7 +4,9 @@ title: James Stanley "Jim" Stevenson
 sortKey: Stevenson, James
 date: 1978-10-01
 categories: class-of-1970
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-1970/james-s-stevenson-1.png
 gender: male

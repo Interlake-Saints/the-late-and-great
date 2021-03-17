@@ -4,7 +4,8 @@ title: Christopher L. Gentry
 sortKey: Gentry, Christopher
 date: 1983-12-29
 categories: class-of-1982
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1982/christopher-l-gentry-1.png
 gender: male

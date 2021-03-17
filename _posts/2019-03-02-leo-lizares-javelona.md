@@ -4,7 +4,8 @@ title: Leo Lizares Javelona
 sortKey: Javelona, Leo
 date: 2019-03-02
 categories: class-of-1992
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1992/leo-l-javelona-1.jpg
   - /assets/class-of-1992/leo-l-javelona-2.jpg

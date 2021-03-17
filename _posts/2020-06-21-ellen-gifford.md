@@ -4,7 +4,9 @@ title: Ellen Gifford
 sortKey: Gifford, Ellen
 date: 2020-06-21
 categories: class-of-1973
-tags: dementia cancer
+tags:
+  - dementia
+  - cancer
 images:
   - /assets/class-of-1973/ellen-gifford-1.jpg
   - /assets/class-of-1973/ellen-gifford-2.png

@@ -4,7 +4,8 @@ title: Colleen Marie Hansen
 sortKey: Hansen, Colleen
 date: 2012-01-05
 categories: class-of-1992
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1992/colleen-m-hansen-1.png
   - /assets/class-of-1992/colleen-m-hansen-2.jpg

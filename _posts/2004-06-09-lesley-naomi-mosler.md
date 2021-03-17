@@ -4,7 +4,8 @@ title: Lesley Naomi Mosler
 sortKey: Mosler, Lesley
 date: 2004-06-09
 categories: class-of-1987
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1987/lesley-n-mosler-1.png
   - /assets/class-of-1987/lesley-n-mosler-2.jpg

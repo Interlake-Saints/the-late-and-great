@@ -4,7 +4,8 @@ title: Ivan Hernandez-Vazquez
 sortKey: Hernandez-Vazquez, Ivan
 date: 2008-05-21
 categories: class-of-2008
-tags: homicide
+tags:
+  - homicide
 images:
   - /assets/class-of-2008/ivan-hernandez-vazquez-1.jpg
 gender: male

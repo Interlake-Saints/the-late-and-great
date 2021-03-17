@@ -4,7 +4,8 @@ title: Erika Hanner Myers
 sortKey: Myers, Erika
 date: 2004-07-27
 categories: class-of-2001
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-2001/erika-hanner-myers-1.jpg
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=2468438

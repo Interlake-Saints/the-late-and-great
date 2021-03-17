@@ -4,7 +4,8 @@ title: Troy Roger Croshaw
 sortKey: Croshaw, Troy
 date: 2007-12-16
 categories: class-of-1979
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1979/troy-r-croshaw-1.png
   - /assets/class-of-1979/troy-r-croshaw-2.jpg

@@ -4,7 +4,9 @@ title: Kurt Allen Carlson
 sortKey: Carlson, Kurt
 date: 2017-08-14
 categories: class-of-1993
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-1993/kurt-a-carlson-2.png
   - /assets/class-of-1993/kurt-a-carlson-1.jpg

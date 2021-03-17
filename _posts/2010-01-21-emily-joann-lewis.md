@@ -4,7 +4,8 @@ title: Emily JoAnn Lewis
 sortKey: Lewis, Emily
 date: 2010-01-21
 categories: class-of-2005
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-2005/emily-j-lewis-1.jpg
 gender: female

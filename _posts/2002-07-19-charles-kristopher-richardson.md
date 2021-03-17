@@ -4,7 +4,8 @@ title: Charles Kristopher "Kris" Richardson
 sortKey: Richardson, Charles
 date: 2002-07-19
 categories: class-of-1984
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1984/charles-k-richardson-1.png
   - /assets/von-oy2.png

@@ -4,7 +4,8 @@ title: Sheryl "Sheri" Jean Biehl
 sortKey: Biehl, Sheryl
 date: 2011-03-13
 categories: class-of-1983
-tags: liver-failure
+tags:
+  - liver-failure
 images:
   - /assets/class-of-1983/sheryl-j-biehl-1.jpg
 gender: female

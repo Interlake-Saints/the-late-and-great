@@ -4,7 +4,8 @@ title: Lynn Gagnon
 sortKey: Gagnon, Lynn
 date: 2008-06-25
 categories: class-of-1976
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1976/lynn-gagnon-1.png
   - /assets/class-of-1976/lynn-gagnon-2.png

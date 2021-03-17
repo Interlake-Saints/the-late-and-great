@@ -4,7 +4,8 @@ title: Jerry Lee Vaughn
 sortKey: Vaughn, Jerry
 date: 2004-01-08
 categories: class-of-1970
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1970/jerry-l-vaughn-1.png
 gender: male

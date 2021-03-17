@@ -4,7 +4,8 @@ title: Joseph Neal Underwood
 sortKey: Underwood, Joseph
 date: 2004-09-05
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/joseph-n-underwood-1.jpg
 gender: male

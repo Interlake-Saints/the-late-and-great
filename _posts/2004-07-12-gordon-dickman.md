@@ -4,7 +4,8 @@ title: Gordon Dickman
 sortKey: Dickman, Gordon
 date: 2004-07-12
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/gordon-dickman-1.png
 gender: male

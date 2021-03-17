@@ -4,7 +4,8 @@ title: Friso Wery
 sortKey: Wery, Friso
 date: 1978-10-08
 categories: class-of-1979
-tags: cystic-fibrosis
+tags:
+  - cystic-fibrosis
 images:
   - /assets/class-of-1979/frisco-wery-1.png
   - /assets/class-of-1979/frisco-wery-2.png

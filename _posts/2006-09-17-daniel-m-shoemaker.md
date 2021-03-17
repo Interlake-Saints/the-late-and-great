@@ -4,7 +4,8 @@ title: Daniel M. Shoemaker
 sortKey: Shoemaker, Daniel
 date: 2006-09-17
 categories: class-of-1979
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1979/daniel-m-shoemaker-1.png
 gender: male

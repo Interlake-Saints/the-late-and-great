@@ -4,7 +4,8 @@ title: Erik Hultberg III
 sortKey: Hultberg, Erik
 date: 1982-03-15
 categories: class-of-1973
-tags: overdose
+tags:
+  - overdose
 images:
   - /assets/class-of-1973/erik-hultberg-iii-1.png
 gender: male

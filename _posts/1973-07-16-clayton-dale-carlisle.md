@@ -4,7 +4,8 @@ title: Clayton Dale Carlisle
 sortKey: Carlisle, Clayton
 date: 1973-07-16
 categories: class-of-1970
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1970/clayton-d-carlisle-1.png
 gender: male

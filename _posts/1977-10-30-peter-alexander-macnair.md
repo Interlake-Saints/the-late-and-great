@@ -4,7 +4,8 @@ title: Peter Alexander MacNair
 sortKey: MacNair, Peter
 date: 1977-10-30
 categories: class-of-1974
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1974/peter-a-macnair-1.png
 gender: male

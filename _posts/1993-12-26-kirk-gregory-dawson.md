@@ -4,7 +4,8 @@ title: Kirk Gregory Dawson
 sortKey: Dawson, Kirk
 date: 1993-12-26
 categories: class-of-1991
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1991/kirk-g-dawson-1.jpg
 gender: male

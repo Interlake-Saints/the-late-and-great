@@ -4,7 +4,9 @@ title: Kenny Hammrich
 sortKey: Hammrich, Kenny
 date: 2009-08-31
 categories: class-of-2003
-tags: accident traffic
+tags:
+  - accident
+  - traffic
 images:
   - /assets/class-of-2003/kenny-hammrich-1.jpg
 gender: male

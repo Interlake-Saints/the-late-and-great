@@ -4,7 +4,8 @@ title: Timothy W. Watts
 sortKey: Watts, Timothy
 date: 1985-04-23
 categories: class-of-1984
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1984/timothy-w-watts-1.png
 gender: male

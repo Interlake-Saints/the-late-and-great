@@ -4,7 +4,8 @@ title: Mary Therese "Teri" Butorac
 sortKey: Butorac, Mary
 date: 2016-05-28
 categories: class-of-1972
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1972/mary-t-butorac-1.png
   - /assets/class-of-1972/mary-t-butorac-2.jpg

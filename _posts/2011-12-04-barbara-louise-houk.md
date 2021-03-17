@@ -4,7 +4,8 @@ title: Barbara Louise Houk
 sortKey: Houk, Barbara
 date: 2011-12-04
 categories: class-of-1972
-tags: stroke
+tags:
+  - stroke
 images:
  - /assets/class-of-1972/barbara-l-houk-1.png
  - /assets/class-of-1972/barbara-l-houk-2.jpg

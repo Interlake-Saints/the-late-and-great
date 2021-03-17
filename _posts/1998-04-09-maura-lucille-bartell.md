@@ -4,7 +4,8 @@ title: Maura Lucille Bartell
 sortKey: Bartell, Maura
 date: 1998-04-09
 categories: class-of-1985
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1985/maura-bartell.png
 gender: female

@@ -4,7 +4,8 @@ title: Michael Andrew Delk
 sortKey: Delk, Michael
 date: 2006-01-01
 categories: class-of-1972
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1972/michael-a-delk-1.jpg
   - /assets/class-of-1972/michael-a-delk-2.jpg

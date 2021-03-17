@@ -4,7 +4,8 @@ title: Paul Andrew Colleran
 sortKey: Colleran, Paul
 date: 2014-10-08
 categories: class-of-1978
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1978/paul-a-colleran-1.png
   - /assets/class-of-1978/paul-a-colleran-2.jpg

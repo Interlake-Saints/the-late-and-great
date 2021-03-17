@@ -4,7 +4,8 @@ title: Elizabeth Anne "Betsy" Dean
 sortKey: Dean, Elizabeth
 date: 2011-09-07
 categories: class-of-1974
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1974/elizabeth-a-dean-1.png
   - /assets/class-of-1974/elizabeth-a-dean-2.png

@@ -4,7 +4,8 @@ title: Tammy Lynn Schmidt
 sortKey: Schmidt, Tammy
 date: 2015-11-27
 categories: class-of-1983
-tags: surgical-complications
+tags:
+  - surgical-complications
 images:
   - /assets/class-of-1983/tammy-l-schmidt-1.png
 gender: female

@@ -4,7 +4,8 @@ title: Sondra Gable
 sortKey: Gable, Sondra
 date: 1989-09-22
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/sondra-gable-1.png
 gender: female

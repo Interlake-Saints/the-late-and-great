@@ -4,7 +4,8 @@ title: Nancy Corene Pacquer
 sortKey: Pacquer, Nancy
 date: 2016-12-14
 categories: class-of-1971
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1971/nancy-c-pacquer-1.png
   - /assets/class-of-1971/nancy-c-pacquer-2.jpg

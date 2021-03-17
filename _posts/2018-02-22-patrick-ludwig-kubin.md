@@ -4,7 +4,8 @@ title: Patrick Ludwig Kubin
 sortKey: Kubin, Patrick
 date: 2018-02-22
 categories: class-of-1977
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1977/patrick-l-kubin-1.jpg
   - /assets/class-of-1977/patrick-l-kubin-2.png

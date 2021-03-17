@@ -5,7 +5,8 @@ sortKey: Ross, Donald
 date: 1990-01-01
 dateUnknown: true
 categories: class-of-1983
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1983/donald-a-ross-1.png
 gender: male

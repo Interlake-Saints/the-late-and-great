@@ -4,7 +4,8 @@ title: Michael Donald Tranum
 sortKey: Tranum, Michael
 date: 2004-04-22
 categories: class-of-1982
-tags: cardiovascular-disease
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1982/michael-donald-tranum-1.jpg
   - /assets/class-of-1982/michael-donald-tranum-1.png

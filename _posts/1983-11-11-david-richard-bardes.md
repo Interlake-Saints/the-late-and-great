@@ -4,7 +4,8 @@ title: David Richard Bardes
 sortKey: Bardes, David
 date: 1983-11-11
 categories: class-of-1977
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1977/david-r-bardes-1.png
 gender: male

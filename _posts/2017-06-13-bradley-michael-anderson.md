@@ -4,7 +4,8 @@ title: Bradley Michael "Brad" Anderson
 sortKey: Anderson, Bradley
 date: 2017-06-13
 categories: class-of-1979
-tags: surgical-complications
+tags:
+  - surgical-complications
 images:
   - /assets/class-of-1979/bradley-m-anderson-1.jpg
   - /assets/class-of-1979/bradley-m-anderson-2.png

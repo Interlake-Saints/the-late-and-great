@@ -6,7 +6,8 @@ date: 2013-06-05
 categories: staff
 images:
   - /assets/staff/julie-a-keeney-1.jpg
-tags: cancer
+tags:
+  - cancer
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=165363674
 gender: female
 ---

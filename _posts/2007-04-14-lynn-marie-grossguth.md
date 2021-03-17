@@ -4,7 +4,8 @@ title: Lynn Marie Grossguth
 sortKey: Grossguth, Lynn
 date: 2007-04-14
 categories: class-of-1989
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1989/lynn-m-grossguth-1.png
   - /assets/class-of-1989/lynn-m-grossguth-2.jpg

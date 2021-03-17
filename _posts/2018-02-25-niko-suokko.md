@@ -4,7 +4,8 @@ title: Niko Suokko
 sortKey: Suokko, Niko
 date: 2018-02-25
 categories: class-of-2018
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-2018/niko-suokko-1.png
 ---

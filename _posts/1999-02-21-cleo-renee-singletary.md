@@ -4,7 +4,8 @@ title: Cleo Renee Singletary
 sortKey: Singletary, Cleo
 date: 1999-02-21
 categories: class-of-1975
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1975/cleo-r-singletary-1.png
 gender: female

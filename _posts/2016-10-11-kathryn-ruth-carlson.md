@@ -4,7 +4,8 @@ title: Kathryn Ruth "Kat" Carlson
 sortKey: Carlson, Kathryn
 date: 2016-10-11
 categories: class-of-1985
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1985/kathryn-ruth-carlson-1.png
   - /assets/class-of-1985/kathryn-ruth-carlson-2.jpg

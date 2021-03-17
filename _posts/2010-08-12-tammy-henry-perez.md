@@ -4,7 +4,8 @@ title: Tammy Henry-Perez
 sortKey: Henry-Perez, Tammy
 date: 2010-08-12
 categories: class-of-1975
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1975/tami-henry-perez-1.png
 gender: female

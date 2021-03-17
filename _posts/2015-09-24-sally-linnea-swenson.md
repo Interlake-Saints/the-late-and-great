@@ -4,7 +4,8 @@ title: Sally Linnea Swenson
 sortKey: Swenson, Sally
 date: 2015-09-24
 categories: class-of-1973
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1973/sally-l-swenson-1.png
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=sally-linnea-wikoff-swenson&pid=175963321

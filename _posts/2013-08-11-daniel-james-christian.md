@@ -4,7 +4,8 @@ title: Daniel James Christian
 sortKey: Christian, Daniel
 date: 2013-08-11
 categories: class-of-1969
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1969/daniel-j-christian-1.png
 gender: male

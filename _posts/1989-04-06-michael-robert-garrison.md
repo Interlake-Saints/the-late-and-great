@@ -4,7 +4,8 @@ title: Michael Robert Garrison
 sortKey: Garrison, Michael
 date: 1989-04-06
 categories: class-of-1987
-tags: accident
+tags:
+  - accident
 images:
   - /assets/class-of-1987/michael-r-garrison-1.png
 gender: male

@@ -4,7 +4,8 @@ title: Robert Gary "Gary" Everson
 sortKey: Everson, Robert
 date: 2018-10-12
 categories: class-of-1974
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1974/robert-g-everson-1.png
   - /assets/class-of-1974/robert-g-everson-2.jpg

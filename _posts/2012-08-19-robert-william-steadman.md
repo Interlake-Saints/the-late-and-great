@@ -4,7 +4,8 @@ title: Robert "Bob" William Steadman
 sortKey: Steadman, Robert
 date: 2012-08-19
 categories: staff
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/staff/robert-w-steadman-1.png
   - /assets/staff/robert-w-steadman-2.jpg

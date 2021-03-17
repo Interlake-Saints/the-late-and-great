@@ -4,7 +4,8 @@ title: Britt Jacqueline Green
 sortKey: Green, Britt
 date: 2010-01-01
 categories: class-of-1978
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1978/britt-j-green-1.png
   - /assets/class-of-1978/britt-j-green-2.jpg

@@ -4,7 +4,8 @@ title: Dwight A. Bergstrom
 sortKey: Bergstrom, Dwight
 date: 2006-03-02
 categories: class-of-1975
-tags: cancer
+tags:
+  - cancer
 images:
   - /assets/class-of-1975/dwight-a-bergstrom-1.png
   - /assets/class-of-1975/dwight-a-bergstrom-2.png

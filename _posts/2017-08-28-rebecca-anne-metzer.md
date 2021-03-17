@@ -4,7 +4,8 @@ title: Rebecca Anne "Becky" Metzer
 sortKey: Metzer, Rebecca
 date: 2017-08-28
 categories: class-of-1974
-tags: dementia
+tags:
+  - dementia
 images:
   - /assets/class-of-1974/rebecca-a-metzer-1.png
   - /assets/class-of-1974/rebecca-a-metzer-2.png

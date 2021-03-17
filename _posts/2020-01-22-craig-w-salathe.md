@@ -4,7 +4,8 @@ title: Craig W. Salathe
 sortKey: Salathe, Craig
 date: 2020-01-22
 categories: class-of-1975
-tags: surgical-complications
+tags:
+  - surgical-complications
 images:
   - /assets/class-of-1975/craig-w-salathe-1.png
 gender: male
