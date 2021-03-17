@@ -13,4 +13,4 @@ images:
   - /assets/class-of-1996/erica-w-brinnon-2.jpg
 gender: female
 ---
-Erica died on December 9, 1995 in a car accident near Rockport, WA. She was 17 years old.  A memorial to her was printed in the 1996 yearbook.
+Erica was a 17-year-old high-school senior with Down Syndrome who was remembered as a ray of sunshine. "She was a role model for many students," said her program coordinator, "Always cheerful, helpful, kind, caring, and she had a great sense of humor," Sadly, Erica died on December 9, 1995, in a car accident near Rockport, WA. She was only 17 years old. A memorial to her was printed in the 1996 yearbook, which you can see pictured below.
