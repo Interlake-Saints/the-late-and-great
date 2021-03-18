@@ -7,6 +7,8 @@ categories:
   - class-of-1998
 tags:
   - cardiovascular-disease
+images:
+  - /assets/harless1.jpg
 gender: male
 ---
 After graduating from Interlake, Patrick earned a triple major at Arizona State University - in Economics, Political Science, and Math. All with a 4.0 GPA. He then earned a PhD in Economics. He later became a teacher at Teach for America, Faye Middle School, The University of Rochester, The University of Glasgow, and The University of Arizona.
