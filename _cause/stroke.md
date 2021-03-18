@@ -1,5 +1,4 @@
 ---
-layout: tag
 title: Stroke
 id: stroke
 ---

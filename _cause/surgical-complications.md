@@ -1,5 +1,4 @@
 ---
-layout: tag
 title: Surgical Complications
 id: surgical-complications
 ---

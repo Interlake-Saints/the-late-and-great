@@ -36,6 +36,15 @@ defaults:
       comments: false
   -
     scope:
+      path: _cause
+    values:
+      layout: tag
+      breadcrumb:
+        -
+          label: Home
+          url: /
+  -
+    scope:
       path: index.html
     values:
       breadcrumb:
@@ -62,13 +71,7 @@ google_analytics:
     enabled: false
 img_cdn: ''
 jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
+  enabled: []
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options

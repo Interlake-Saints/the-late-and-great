@@ -1,5 +1,4 @@
 ---
-layout: tag
 title: Muscular dystrophy
 id: muscular-dystrophy
 ---

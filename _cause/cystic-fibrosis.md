@@ -1,5 +1,4 @@
 ---
-layout: tag
 title: Cystic Fibrosis
 id: cystic-fibrosis
 ---

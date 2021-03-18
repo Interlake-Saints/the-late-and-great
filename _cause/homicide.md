@@ -1,5 +1,4 @@
 ---
-layout: tag
 title: Homicide
 id: homicide
 ---

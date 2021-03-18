@@ -1,5 +1,4 @@
 ---
-layout: tag
 title: Chronic lower respiratory diseases
 id: respiratory-diseases
 ---

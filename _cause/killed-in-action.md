@@ -1,5 +1,4 @@
 ---
-layout: tag
 title: Killed In Action
 id: killed-in-action
 ---

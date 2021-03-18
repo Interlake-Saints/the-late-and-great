@@ -1,5 +1,4 @@
 ---
-layout: tag
 title: Diabetes
 id: diabetes
 ---

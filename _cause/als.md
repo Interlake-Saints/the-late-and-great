@@ -1,5 +1,4 @@
 ---
-layout: tag
 title: ALS (Lou Gehrig's Disease)
 id: als
 ---
