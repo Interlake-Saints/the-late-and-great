@@ -8,6 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 gender: female
+obituary: " https://bartonfuneral.com/2021/02/04/christine-elaine-taylor-burton"
 ---
 Christine, aka Christina Elaine Taylor, was born December 21, 1964 in Seattle, and was raised in Bellevue. She graduated from Interlake in 1983. She went on to earn an ADN in nursing in 1990 and worked at Overlake Hospital for over 13 years, where she cared for cancer and critical cardiac patients. Following her time as a nurse, Chris began a successful career in business development and sales.
 
