@@ -56,8 +56,19 @@ exclude:
   - .tm_properties
 github:
   username: MarioMangler
-google_site_verification: 3aqd9Vsv-MOJpi9FCc0-AVfMeK2rAq4PAtwA0L689ng
+google_analytics:
+  id: 'UA-188003746-1'
+  pv:
+    enabled: false
 img_cdn: ''
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
@@ -68,6 +79,7 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
+lang: en-US
 paginate: 25
 permalink: /:categories/:title/
 repository: Interlake-Saints/ihsmemorial.org
@@ -82,10 +94,11 @@ social:
     - https://github.com/MarioMangler
     - https://www.facebook.com/mariolanza
 tagline: Dedicated to graduates and staff
+theme: jekyll-theme-chirpy
 theme_mode: dark
 timezone: America/Los_Angeles
 title: Interlake High School Memorial Wall
-url: 'https://ihsmemorial.org'
 toc: true
 twitter:
   username: MarioJLanza
+url: 'https://ihsmemorial.org'
