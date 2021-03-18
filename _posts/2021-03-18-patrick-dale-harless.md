@@ -17,4 +17,6 @@ After graduating from Interlake, Patrick earned a triple major at Arizona State 
 
 Patrick was an intense student, an imaginative teacher, an original mind, and a brilliant economist, with several published economic papers. He taught America's best students, and traveled worldwide with his original economic presentations. Patrick loved coaching baseball, and wrestling, and teaching in all forms.
 
-Patrick never gave up in his life, but he was called to Heavenly duty early. He passed away of heart issues on December 7th, 2020. In a short time, Patrick did leave permanence.
+Patrick never gave up in his life, but he was called to Heavenly duty early. He passed away of heart issues on December 7th, 2020. He had just turned 40 years old.
+
+In a short time, Patrick did leave permanence.
