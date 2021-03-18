@@ -5,6 +5,8 @@ sortKey: Christie, Mary
 date: 2015-09-29
 categories:
   - staff
+images:
+  - /assets/marypark.jpg
 gender: female
 obituary: https://www.findagrave.com/memorial/181899911/mary-christie
 ---
