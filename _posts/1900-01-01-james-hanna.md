@@ -10,4 +10,4 @@ images:
   - /assets/staff/james-hanna-1.png
 gender: male
 ---
-
+James Hanna was the director of Interlake's Learning Resource Center in its early years.
