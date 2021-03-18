@@ -7,6 +7,9 @@ categories:
   - class-of-1983
 tags:
   - cardiovascular-disease
+images:
+  - /assets/chris-burton-1.jpg
+  - /assets/chrisburton2.png
 gender: female
 obituary: " https://bartonfuneral.com/2021/02/04/christine-elaine-taylor-burton"
 ---
