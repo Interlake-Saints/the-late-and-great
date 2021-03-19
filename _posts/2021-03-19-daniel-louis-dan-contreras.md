@@ -7,6 +7,7 @@ categories:
   - class-of-1986
 images:
   - /assets/dancontreras.jpg
+  - /assets/contreras85.jpg
 gender: male
 obituary: https://www.americanmemorial.org/obituary/daniel-contreras
 ---
