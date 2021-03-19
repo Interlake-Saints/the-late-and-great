@@ -11,6 +11,6 @@ images:
 gender: male
 obituary: https://www.dignitymemorial.com/obituaries/seattle-wa/john-price-4946483
 ---
-John was a counselor at Interlake in the late 60's and early 70's, and later served as assistant principal for several years, before moving on to Bellevue High School. He later served as Director of Human Resources for the Bellevue School District. And he was much beloved by the students at Interlake, as evident by the comments left below.
+John was a counselor at Interlake in the late 60's and early 70's, and he later served as assistant principal for several years under Dr. Pickering, before he eventually moved on to Bellevue High School. He later served as Director of Human Resources for the Bellevue School District. He was very much beloved by the students at Interlake, as evident by the comments left below.
 
-John passed away suddenly at the age of 77, on December 30, 2011.
+John passed away suddenly on December 30, 2011. He was 77 years old.
