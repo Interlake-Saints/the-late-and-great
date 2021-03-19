@@ -2,11 +2,11 @@
 layout: post
 title: Daniel Louis "Dan" Contreras
 sortKey: Contreras, Dan
-date: 2021-02-10T00:03:00.000Z
+date: 2021-02-09
 categories:
   - class-of-1986
-tags: []
-images: /assets/dancontreras.jpg
+images:
+  - /assets/dancontreras.jpg
 gender: male
 obituary: https://www.americanmemorial.org/obituary/daniel-contreras
 ---
