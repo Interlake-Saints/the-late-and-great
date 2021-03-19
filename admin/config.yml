@@ -23,11 +23,11 @@ collections:
         name: 'sortKey'
         widget: 'string'
         hint: 'Typically LastName, FirstName so that class pages are sorted alphabetical by last name.'
-      - label: 'Publish Date'
+      - label: 'Death Date'
         name: 'date'
         widget: 'datetime'
         hint: 'In unknown, use the closest known date or 01/01/1900 12:00 AM if the date is totally unknown.'
-      - label: 'Date Unknown'
+      - label: 'Death Date Unknown'
         name: 'dateUnknown'
         widget: 'boolean'
         required: false
@@ -105,8 +105,10 @@ collections:
         required: false
       - label: 'Images'
         name: 'images'
-        widget: 'list'
+        widget: 'image'
         required: false
+        allow_multiple: true
+        media_folder: '/assets'
       - label: 'Gender'
         name: 'gender'
         widget: 'select'
@@ -140,6 +142,6 @@ collections:
       - label: 'Body'
         name: 'body'
         widget: 'markdown'
-media_folder: 'assets'
+media_folder: '/assets'
 public_folder: "/assets"
 site_url: https://ihsmemorial.org
