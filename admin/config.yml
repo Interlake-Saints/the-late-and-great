@@ -105,10 +105,8 @@ collections:
         required: false
       - label: 'Images'
         name: 'images'
-        widget: 'image'
+        widget: 'list'
         required: false
-        allow_multiple: true
-        media_folder: '/assets'
       - label: 'Gender'
         name: 'gender'
         widget: 'select'
