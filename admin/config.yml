@@ -26,7 +26,10 @@ collections:
       - label: 'Death Date'
         name: 'date'
         widget: 'datetime'
-        hint: 'In unknown, use the closest known date or 01/01/1900 12:00 AM if the date is totally unknown.'
+        format: 'YYYY-MM-DD'
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        hint: 'In unknown, use the closest known date or 1900-01-01 if the date is totally unknown.'
       - label: 'Death Date Unknown'
         name: 'dateUnknown'
         widget: 'boolean'

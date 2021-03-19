@@ -2,7 +2,7 @@
 layout: post
 title: Vicki Lee Brennan
 sortKey: Brennan, Vicki
-date: 2021-02-13T04:13:00.000Z
+date: 2021-02-12
 categories:
   - class-of-1980
 tags:
