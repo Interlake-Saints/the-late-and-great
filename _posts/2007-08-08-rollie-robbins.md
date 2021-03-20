@@ -8,12 +8,12 @@ categories:
 tags:
   - stroke
 images:
+  - /assets/rollie3.jpg
   - /assets/staff/rollie-robbins-1.png
-  - /assets/staff/rollie-robbins-2.jpg
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=rolland-robbins-rollie&pid=94895268
 ---
-Roland "Rollie" Robbins coached football for forty-three years, including sixteen years at Interlake, where the Saints were often one of the best teams in the state. He retired in 1999 as one of the most celebrated football coaches in Washington State history, with an overall record of 231-104-2. Aside from coaching football, Rollie also coached baseball over the years, and cross-country, and he was also a well-known math teacher. 
+Roland "Rollie" Robbins coached football for forty-three years, including sixteen years at Interlake, where the Saints were often one of the best teams in the state. He retired in 1999 as one of the most celebrated football coaches in Washington State history, with an overall record of 231-104-2. Aside from football, Rollie also coached baseball over the years, and cross-country, and he was also a well-known math teacher. 
 
 Sadly, Coach Robbins died after suffering a stroke at his vacation cabin, on August 8th, 2007. He was 74 years old.
 
