@@ -7,6 +7,9 @@ categories:
   - class-of-1979
 tags:
   - cardiovascular-disease
+images:
+  - /assets/buckingham2009.jpg
+  - /assets/buckingham79.png
 gender: male
 ---
 Paul played football in high school and never lost his passion for the sport. He was a season ticket holder with the Seahawks and never missed a game. His two children, Morgan and Jordan, were his pride and joy. He was an avid outdoorsman and spent much of his time at his tree farm in Alger, riding quads and building fires with his large extended family.
