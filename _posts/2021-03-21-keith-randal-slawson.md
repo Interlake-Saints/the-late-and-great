@@ -7,6 +7,9 @@ categories:
   - class-of-1982
 tags:
   - cancer
+images:
+  - /assets/slawson2020_2.jpg
+  - assets/slawson82.jpg
 gender: male
 obituary: https://funerals.coop/obituaries/keith-slawson.html
 ---
