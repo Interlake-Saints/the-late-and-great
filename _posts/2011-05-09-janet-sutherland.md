@@ -8,7 +8,6 @@ categories:
 images:
   - /assets/staff/janet-r-sutherland-2.png
   - /assets/sutherland5.jpg
-  - /assets/staff/janet-sutherland-1.jpg
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=151504027
 ---
