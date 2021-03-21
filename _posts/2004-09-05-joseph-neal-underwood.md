@@ -11,4 +11,4 @@ images:
   - /assets/staff/joseph-n-underwood-1.jpg
 gender: male
 ---
-Joseph was a counselor at Interlake in the 1970's. He died after a tough battle with cancer on September 5, 2004.
+Joseph was a counselor at Interlake in the 1970's. He died on September 5, 2005, after a battle with cancer.
