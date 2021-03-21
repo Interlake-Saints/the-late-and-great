@@ -10,4 +10,4 @@ images:
   - /assets/staff/paxton-smith-jr-1.png
 gender: male
 ---
-Paxton, an Interlake language arts teacher, died in Bellevue in July of 1981.
+Paxton Smith, a language arts teacher at Interlake, died in Bellevue in July of 1981.
