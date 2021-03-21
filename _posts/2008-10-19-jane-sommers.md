@@ -7,7 +7,7 @@ categories:
   - staff
 images:
   - /assets/staff/jane-sommers-1.png
-  - /assets/staff/jane-sommers-2.jpg
+  - /assets/sommers2.jpg
 gender: female
 obituary: https://www.legacy.com/obituaries/dfw/obituary.aspx?n=jane-and-wesley-sommers&pid=173425925
 ---
@@ -15,4 +15,4 @@ Jane was a highly-respected and highly-beloved English teacher at Interlake from
 
 Sadly, Jane died at her home in Granite Falls on October 19, 2008. A sudden stroke took her life way before any of us were ready to lose her.
 
-You can see how beloved Jane was a teacher by reading the two pages of comments (below) that were left by former students of hers.
+You can see how beloved Jane was as a teacher by reading the two pages of comments (below) that were left by former students of hers.
