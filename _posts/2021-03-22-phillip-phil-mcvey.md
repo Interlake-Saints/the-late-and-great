@@ -11,4 +11,6 @@ images:
   - /assets/philmcvey83.jpg
 gender: male
 ---
-Phil passed away in Kent on Thursday, March 30, 2017.
+Phil passed away in Kent on Thursday, March 30, 2017, likely of heart complications. He was 51 years old.
+
+Sadly, Phil's older brother, [P. Roy McVey](https://ihsmemorial.org/class-of-1980/p-roy-mcvey/), is also on the IHS Memorial Wall. Roy is listed under the Class of 1980.
