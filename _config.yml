@@ -36,6 +36,11 @@ defaults:
       comments: false
   -
     scope:
+      path: _tabs
+    values:
+      order: 99
+  -
+    scope:
       path: _cause
     values:
       layout: tag

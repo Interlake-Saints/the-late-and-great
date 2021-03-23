@@ -3,6 +3,7 @@ layout: classes
 title: Classes of 1990s
 navigate: true
 permalink: classes-of-1990s
+order: 4
 categories:
  - class-of-1990
  - class-of-1991

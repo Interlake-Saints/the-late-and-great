@@ -3,6 +3,7 @@ layout: classes
 title: Classes of 1980s
 navigate: true
 permalink: classes-of-1980s
+order: 3
 categories:
  - class-of-1980
  - class-of-1981

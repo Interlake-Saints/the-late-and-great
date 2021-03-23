@@ -3,6 +3,7 @@ layout: classes
 title: Classes of 2010s
 navigate: true
 permalink: classes-of-2010s
+order: 6
 categories:
  - class-of-2010
  - class-of-2011

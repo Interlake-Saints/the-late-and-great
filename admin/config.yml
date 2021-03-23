@@ -121,6 +121,47 @@ collections:
       - label: 'Body'
         name: 'body'
         widget: 'markdown'
+  - name: 'tabs'
+    label: 'Tabs'
+    folder: '_tabs/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - label: 'Layout'
+        name: 'layout'
+        widget: 'select'
+        default: 'page'
+        options:
+          - page
+          - category
+          - classes
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+      - label: 'URL'
+        name: 'permalink'
+        widget: 'string'
+        hint: 'This is the token used for the page URL. Example: faq for /faq/.'
+      - label: 'Show in navigation?'
+        name: 'navigate'
+        widget: 'boolean'
+        default: false
+        hint: 'Should this page show in the left column of the site?'
+      - label: 'Order in navigation'
+        name: 'order'
+        widget: 'number'
+        default: 99
+        hint: 'If shown in the left column of the site, in what position?'
+      - label: 'Classes'
+        name: 'categories'
+        widget: 'list'
+        default: []
+        hint: 'For a decade classes page, this will be a list of classes. Example: class-of-1990, class-of-1991, etc'
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
   - name: 'causes'
     label: 'Causes'
     folder: '_cause/'

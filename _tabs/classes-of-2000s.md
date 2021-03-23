@@ -3,6 +3,7 @@ layout: classes
 title: Classes of 2000s
 navigate: true
 permalink: classes-of-2000s
+order: 5
 categories:
  - class-of-2000
  - class-of-2001
