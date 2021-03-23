@@ -11,11 +11,13 @@ Hi there, I thought I would put together this list of questions and answers sinc
 
 
 
-## Who runs this website?
+## **Who runs this website?**
 
 My name is Mario Lanza, and I graduated from Interlake in 1992. Nice to meet you.
 
-## How did this site come about?
+
+
+## **How did this site come about?**
 
 It originally just started as an "In Memoriam" page for the class of '92. One day, while I was doing research for our upcoming twenty-year reunion, I learned that a friend of mine from Interlake had passed away. And I was surprised because I had never heard anything about it. So I asked around, and I tried to find out what had happened to him, and I was even more surprised to find out that nobody seemed to have any idea. It was all just this big mystery. 
 
@@ -33,21 +35,27 @@ Within a couple of weeks, my humble little "The Late and Great of the Class of 1
 
 
 
-## How long has the Interlake High School Memorial Wall existed?
+## **How long has the Interlake High School Memorial Wall existed?**
 
 I started it in late 2008. It was a simple Facebook group at first, but it has grown bigger and bigger over the years, and I eventually had to move it over here, onto a standalone website. Which is nice, because now you don't need Facebook anymore to access it. Now anyone on the internet can view all the entries. This specific website (ihsmemorial.org) first went live in February of 2021.
 
-## Is this the same thing as the Facebook page "The Interlake High School Memorial Wall"?
+
+
+## **Is this the same thing as the Facebook page "The Interlake High School Memorial Wall"?**
 
 No, it is not. That WAS the old page, but due to changes Facebook made to their website in 2020, I was no longer able to edit the page or add any new entries to it. So that page was only accurate up through 2019. This is the only place in the future I will ever add entries to.
 
-## Where do you get all the information for the entries?
+
+
+## **Where do you get all the information for the entries?**
 
 Well, this is where I mostly depend on you. I would say that ninety percent of the information on the IHS Memorial Wall has been emailed to me by friends and family members of the people who died. Yes, some entries I have managed to put together myself, but for the most part, what happens is that people will email me names or dates or class years, and then they will ask me to go put together an entry for them.  
 
 When I get a request like this (and I still do get a lot of them), all I really need from you is a name and a class year. Personal details about the person are great too, of course. If you have anything you would like me to write about a person who has passed away, just tell me and I will add it to their entry. But really all I need from you at minimum is a name and the year they graduated (or were scheduled to graduate.) I can generally track down the rest of the info on my own. And I will tell you right now that the best places to go for information about a person who has died are legacy.com and ancestry.com. That is almost always where I start when I need to find some info about someone. That or plain old just Google their name.
 
-## Where did you get all the pictures?
+
+
+## **Where did you get all the pictures?**
 
 Some of the pictures were sent in by friends and family members, and some I just took right off a person's online obituary if a picture had been included. But for the most part, the majority of the pictures on the IHS Memorial Wall came from old yearbooks.  
 
@@ -57,7 +65,9 @@ By the way, please note that this process only works for people who were in the 
 
 As for the yearbooks from 1989-1992, I do have those, because that's when I was a student at Interlake. So really it is the pictures after '92 that are the biggest problem for me.
 
-## Does anyone ever get upset about something you have posted about their loved one?
+
+
+## **Does anyone ever get upset about something you have posted about their loved one?**
 
 From my experience, the one thing that has been consistent over the years is that loved ones don't want you to mention if the cause of death was suicide. From day one, people have consistently emailed me and asked me not to mention that in any of my writeups. So I won't. I will only include details about how a person died if A) the family and friends have already okayed it with me, or posted it publicly somewhere, or B) it was specifically mentioned how a person died in their obituary. 
 
@@ -65,15 +75,19 @@ So to answer your question, no, no one has ever been upset that I posted an entr
 
 Which leads me to add that, despite its appearance, the IHS Memorial Wall really isn't a sad website for the most part. Yes, it might be sad at first. When you first look around at the number of entries, it might be a little overwhelming. But if you saw all the emails that I get from people who are appreciative of what has been posted about their friend/parent/sibling/classmate, you would realize that this is actually a very comforting place for a lot of people. Most people are genuinely happy that their loved one has even been remembered at all. That is the sentiment I hear over and over again, in almost every single email I have received over the years. And that is the main reason why I will never stop updating this page. After you die, it seems like the most important thing in the big picture is that the world just remembered you.
 
-## How accurate is all the information here?
+
+
+## **How accurate is all the information here?**
 
 It's pretty darn accurate, as far as I can tell. I mean, I can't guarantee that every single little day of the week is absolutely perfect. And some of the causes of death might be written a little vague sometimes. But if I post something on this page, you can be sure I have generally confirmed it first from at least two or three different sources. I will never write a sentence on this page unless I have a pretty good idea it's the truth.  
 
 In regards to names, I have done my best to confirm names and middle names and spellings of names in every single IHS yearbook I had available to me. I've also verified names through every single SSN index and ancestry page that you can find on the internet. And it gets tricky sometimes, because one thing I have noticed over the years is that people have their names misspelled in yearbooks A LOT!
 
-Is everything on the IHS Memorial Wall 100% accurate? Probably not. But I can guarantee it's at least 99% accurate. And, of course, if you see something that you know is inaccurate, please [email me](mailto:MLanza1974@aol.com) as soon as possible so I can fix it. Please don't let me post something that is inaccurate on this page.
+Is everything on the IHS Memorial Wall 100% accurate? Probably not. But I can guarantee it's at least 99% accurate. And, of course, if you see something that you know is inaccurate, please email me at MLanza1974@aol.com as as soon as possible so I can fix it. Please don't let me post something that is inaccurate on this page.
 
-## Have any entries been harder for you to write than others? Is it difficult to run this page?
+
+
+## **Have any entries been harder for you to write than others? Is it difficult to run this page?**
 
 Oh absolutely, it can be incredibly difficult at times. It's not very fun to write about loss and death all the time. And I'll be honest, it really makes you think about your own mortality. More than you would probably prefer to.
 
@@ -87,7 +101,9 @@ By the way, before this question bums you out, let me quickly add that I have en
 
 I can honestly say that after thirteen years of digging through Interlake's history, and its yearbooks, and its people, and its names, and learning which teachers and administrators were there for how many years, I probably know as much about IHS history as ANYONE at this point. And at this point, this is where I'll say the one thing that I believe we all can agree on: Muck Fercer.
 
-## Does this page have any relationship to the IHS Memorial Plaque on campus?  If not, who runs that?
+
+
+## **Does this page have any relationship to the IHS Memorial Plaque on campus?  If not, who runs that?**
 
 This is really the million-dollar question around here. Who DOES run that plaque? This question has come up many, many times over the years, and no matter how many people I talk to or ask about it, nobody ever seems to know the answer.
 
@@ -101,7 +117,9 @@ More than a decade ago, somebody told me that we have an "Interlake Alumni Group
 
 I would obviously love it if someone could tell me otherwise, and prove to me that it actually is being maintained. But... I'll believe it when I see it. Also, I should point out that I am not local to Bellevue anymore. I moved down to  Southern California in 1999, and I have been down here ever since. So there is very little I could do to keep the plaque maintained, or do anything about it these days.
 
-## Finally, what happens if YOU die? Who's going to add your entry to the page? 
+
+
+## **Finally, what happens if YOU die? Who's going to add your entry to the page?**
 
 Well, I mean, we're all going to die one day. That is the harsh, but unfortunate, reality. 
 
@@ -113,9 +131,7 @@ If something were to happen to BOTH Chris and me at the same time, um yeah, ther
 
 
 
-
-
-I hope you enjoy the IHS Memorial Wall. As always, [let me know](mailto:MLanza1974@aol.com) if you see anything that needs to be added or changed.
+I hope you enjoy the IHS Memorial Wall. As always, please let know f you see anything that needs to be added or changed. You can email me at MLanza1974@aol.com.
 
 \-Mario Lanza, Interlake Class of 1992
 
