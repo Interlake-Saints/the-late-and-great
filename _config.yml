@@ -1,13 +1,27 @@
+#seo
 author: Mario Lanza
+description: Dedicated to all the IHS graduates and staff who have passed away throughout the years.
+facebook:
+  publisher: https://www.facebook.com/ihsmemorial/
+  admins: mariolanza
+locale: en_US
+logo: /assets/10609708_672957986115083_7627741849738825230_n.png
+tagline: Dedicated to graduates and staff
+title: Interlake High School Memorial Wall
+twitter:
+  username: MarioJLanza
+url: 'https://ihsmemorial.org'
+social:
+  name: Mario Lanza
+  email: MLanza1974@aol.com
+  links:
+    - https://twitter.com/MarioJLanza
+    - https://github.com/MarioMangler
+    - https://www.facebook.com/mariolanza
+
+#chirpy
 avatar: /assets/10609708_672957986115083_7627741849738825230_n.png
 baseurl: ''
-collections:
-  tabs:
-    output: true
-    sort_by: order
-  cause:
-    output: true
-    sort_by: title
 compress_html:
   clippings: all
   comments: all
@@ -16,6 +30,43 @@ compress_html:
   blanklines: false
   ignore:
     envs: [development]
+disqus:
+  comments: true
+  shortname: 'interlake-high-school-memorial-wall'
+github:
+  username: MarioMangler
+google_analytics:
+  id: 'UA-188003746-1'
+  pv:
+    enabled: false
+img_cdn: ''
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: highlight
+    # default_lang: console
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+lang: en-US
+sass:
+  sass_dir: /assets/css
+  style: compressed
+theme: jekyll-theme-chirpy
+theme_mode: dark
+timezone: America/Los_Angeles
+toc: true
+
+#ihsmemorial
+collections:
+  tabs:
+    output: true
+    sort_by: order
+  cause:
+    output: true
+    sort_by: title
 defaults:
   -
     scope:
@@ -55,10 +106,6 @@ defaults:
       breadcrumb:
         -
           label: Home
-description: Dedicated to all the IHS graduates and staff who have passed away throughout the years.
-disqus:
-  comments: true
-  shortname: 'interlake-high-school-memorial-wall'
 exclude:
   - vendor
   - Gemfile.lock
@@ -68,45 +115,8 @@ exclude:
   - LICENSE
   - Rakefile
   - .tm_properties
-github:
-  username: MarioMangler
-google_analytics:
-  id: 'UA-188003746-1'
-  pv:
-    enabled: false
-img_cdn: ''
 jekyll-archives:
   enabled: []
-kramdown:
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
-    css_class: highlight
-    # default_lang: console
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-lang: en-US
 paginate: 25
 permalink: /:categories/:title/
 repository: Interlake-Saints/ihsmemorial.org
-sass:
-  sass_dir: /assets/css
-  style: compressed
-social:
-  name: Mario Lanza
-  email: MLanza1974@aol.com
-  links:
-    - https://twitter.com/MarioJLanza
-    - https://github.com/MarioMangler
-    - https://www.facebook.com/mariolanza
-tagline: Dedicated to graduates and staff
-theme: jekyll-theme-chirpy
-theme_mode: dark
-timezone: America/Los_Angeles
-title: Interlake High School Memorial Wall
-toc: true
-twitter:
-  username: MarioJLanza
-url: 'https://ihsmemorial.org'
