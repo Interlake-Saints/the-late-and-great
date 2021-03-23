@@ -2,7 +2,7 @@
 layout: post
 title: Raymond J. "Pete" Eineigl, Jr.
 sortKey: Eineigl, Raymond
-date: 1987-12-31
+date: 1988-04-27
 dateUnknown: true
 categories:
   - class-of-1986
@@ -11,4 +11,8 @@ images:
   - /assets/class-of-1986/raymond-j-eineigl-jr-2.jpg
 gender: male
 ---
-Pete played football and he was in the band. A very popular all around guy, he was voted Mr. Interlake his senior year at IHS in 1986. After high school, Pete joined the Air Force and he was a member of the USAF Academy class of 1990. He died at the Air Force Academy in late 1987 or early 1988.
+Pete was a member of the IHS marching, symphonic, and jazz bands, swimming and diving team, vice president of student council, and he also played football. A very popular student, he was voted "Mr. Interlake" his senior year in 1986.
+
+After high school, Pete joined the Air Force, where he played lacrosse and sang choir, and he was a member of the USAF Academy class of 1990. 
+
+Sadly, he died at the Air Force Academy in Colorado on April 27, 1988. He was only 19 years old.
