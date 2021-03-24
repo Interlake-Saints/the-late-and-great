@@ -3,7 +3,6 @@ layout: post
 title: Raymond J. "Pete" Eineigl, Jr.
 sortKey: Eineigl, Raymond
 date: 1988-04-27
-dateUnknown: true
 categories:
   - class-of-1986
 images:

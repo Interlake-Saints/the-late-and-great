@@ -3,7 +3,6 @@ layout: post
 title: Michael Gerald Loken
 sortKey: Loken, Michael
 date: 1992-10-25
-dateUnknown: true
 categories:
   - class-of-1981
 tags:

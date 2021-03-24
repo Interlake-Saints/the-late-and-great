@@ -15,6 +15,6 @@ Tim Watts never complained. He never asked ''why me'' or felt sorry for himself.
 \
 Although his illness kept him from attending school for part of his junior and all of his senior year, Tim was a 4.0 student and only two classes away from graduation.\
 \
-''He was a temendous student and a super person,'' said Interlake science teacher, Jerry Akita, who taught Tim chemistry and biology. ''He would miss two and three weeks of school at a time because of his illness,'' Akita said. ''But he would always come back to class caught up. I couldn't believe his tenacity. Most people in his position, including myself, would have hung it up. Not Tim, he never quit doing his best.''
+''He was a tremendous student and a super person,'' said Interlake science teacher, Jerry Akita, who taught Tim chemistry and biology. ''He would miss two and three weeks of school at a time because of his illness,'' Akita said. ''But he would always come back to class caught up. I couldn't believe his tenacity. Most people in his position, including myself, would have hung it up. Not Tim, he never quit doing his best.''
 
 A full article about Tim's battle with cancer can be found below in the comments.
