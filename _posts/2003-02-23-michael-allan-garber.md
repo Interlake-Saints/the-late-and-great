@@ -5,9 +5,13 @@ sortKey: Garber, Michael
 date: 2003-02-23
 categories:
   - class-of-1985
+tags:
+  - cardiovascular-disease
 images:
   - /assets/class-of-1985/michael-allan-garber-1.png
-obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=823767
 gender: male
+obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=823767
 ---
-Michael Allan Garber, resident of Moscow, ID, died on February 23, 2003. He was 35 years old.
+Michael Allan Garber died of heart failure following an illness on Feb. 23, 2003, in Moscow, Idaho.
+
+He was 35 years old.
