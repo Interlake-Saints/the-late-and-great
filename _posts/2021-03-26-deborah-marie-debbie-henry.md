@@ -2,7 +2,7 @@
 layout: post
 title: Deborah Marie "Debbie" Henry
 sortKey: Henry, Deborah
-date: 2020-10-03
+date: 2020-10-02
 categories:
   - class-of-1971
 images:
@@ -16,4 +16,4 @@ Debbie graduated from Central Washington with a B.A. in Music Education, and she
 
 "Debbie was a legend," her colleague at North Creek High School would later say, "She was passionate about music and equally passionate about helping kids learn to love music. She worked tirelessly to make her programs the best they could be and in just a few short years at North Creek, she established a Jazz Ensemble, Band, and Orchestra that were each outstanding. Debbie supported her colleagues both at North Creek and across the entire Northshore School District. She will be sorely missed.”  
 
-Dr. Debbie Montague passed away unexpectedly in her sleep on Saturday, October 3, 2020. She was 67 years old.
+Dr. Debbie Montague passed away unexpectedly in her sleep on Friday, October 2, 2020. She was 67 years old.
