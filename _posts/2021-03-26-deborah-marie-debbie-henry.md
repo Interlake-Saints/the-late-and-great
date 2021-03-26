@@ -5,6 +5,9 @@ sortKey: Henry, Deborah
 date: 2020-10-03
 categories:
   - class-of-1971
+images:
+  - /assets/debbiemontague2014.jpg
+  - /assets/debbiehenry71.jpg
 gender: female
 ---
 Debbie, who was better known as Dr. Debbie Montague, was the Director of Instrumental Music at North Creek High School in Bothell, and she was a beloved music teacher in the Northshore School District for nearly four decades.
