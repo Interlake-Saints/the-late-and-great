@@ -5,6 +5,8 @@ sortKey: Synner, Michael
 date: 2007-10-20
 categories:
   - class-of-1981
+images:
+  - /assets/mikesynner79.png
 gender: male
 ---
 Mike lived in Kirkland and he worked as a chef. He passed away on October 20, 2007. He was 44 years old.
