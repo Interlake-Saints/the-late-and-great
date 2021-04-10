@@ -1,5 +1,4 @@
 /*
-  Content-Security-Policy: default-src 'self' cdn.jsdelivr.net fonts.gstatic.com fonts.googleapis.com cdn.segment.com code.jquery.com api.segment.io
   X-Content-Type-Options: nosniff
   X-Frame-Options: SAMEORIGIN
   X-XSS-Protection: 1
