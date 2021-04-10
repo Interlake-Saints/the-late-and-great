@@ -115,6 +115,8 @@ exclude:
   - LICENSE
   - Rakefile
   - .tm_properties
+include:
+  - _headers
 jekyll-archives:
   enabled: []
 paginate: 25
