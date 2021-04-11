@@ -20,3 +20,8 @@ desc "Start up the site"
 task go: %w[clean] do
   sh "bundle exec jekyll serve --livereload"
 end
+
+desc "Optimize images"
+task :optimize do
+  sh "imageoptim '**/*.jpg' '**/*.jpeg'"
+end
