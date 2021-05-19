@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jennifer Erin "Jenny" Garrett
+title: Jennifer "Jenny" Erin Garrett
 sortKey: Garrett, Jenny
 date: 2021-04-17
 author: Chris Alef
@@ -15,4 +15,4 @@ Jenny had Down Syndrome, autism, and other special needs and was well known thro
 
 Jenny will be missed by her parents, Geoff and Sabina, brother Ben, sister Gabi (Casey) Gibson, and nephew Max Gibson.
 
-A Celebration of Life will be held in the coming months. If you are interested in attending, please contact [bengarrett22@gmail.com](mailto:bengarrett22@gmail.com). Remembrances can be made to[ Bridge of Promise](https://bridgeofpromise.org/donate-sponsors/) or [Alpha Supported Living Services](https://www.alphasls.org/support-us/).
+A Celebration of Life will be held in the coming months. If you are interested in attending, please contact [bengarrett22@gmail.com](mailto:bengarrett22@gmail.com). Remembrances can be made to [Bridge of Promise](https://bridgeofpromise.org/donate-sponsors/) or [Alpha Supported Living Services](https://www.alphasls.org/support-us/).
