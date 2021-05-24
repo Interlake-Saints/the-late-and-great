@@ -12,6 +12,6 @@ images:
   - /assets/mattson85.png
 gender: female
 ---
-Marlo, aka Marlo Mattson Jones, passed away on April 28th, 2020, from complications of pneumonia (non-COVID-19 related).
+Marlo, aka Marlo Mattson Jones, passed away on April 28th, 2020, from complications of pneumonia (non-COVID-19 related). She leaves behind her husband, John, and daughter, Elliott. Marlo had a deep and abiding love for her family and friends and will be remembered for her hilarious sense of humor.
 
 See the comments below for a tribute that was posted by her sister.
