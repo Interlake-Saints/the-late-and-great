@@ -6,6 +6,9 @@ date: 2017-12-01
 dateUnknown: true
 categories:
   - staff
+images:
+  - /assets/ohanley74.png
+  - /assets/ohanleypic1.png
 gender: female
 obituary: https://www.homewardpet.org/blog/in-memoriam-patricia-ohanley/
 ---
