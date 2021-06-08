@@ -7,6 +7,9 @@ categories:
   - class-of-1985
 tags:
   - aneurysm
+images:
+  - /assets/toms1.png
+  - /assets/toms3.png
 gender: male
 obituary: https://tinyurl.com/thaitom1
 ---
