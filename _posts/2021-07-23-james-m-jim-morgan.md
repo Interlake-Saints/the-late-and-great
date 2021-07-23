@@ -7,6 +7,7 @@ categories:
   - staff
 images:
   - /assets/jimmorgan3.png
+  - /assets/jimmorgan1.jpg
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/james-morgan-1082696124
 ---
