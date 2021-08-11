@@ -5,6 +5,8 @@ sortKey: Keller, Clair
 date: 2017-11-19
 categories:
   - staff
+tags:
+  - dementia
 gender: male
 obituary: https://www.amestrib.com/obituaries/20180106/clair-wayne-keller
 ---
