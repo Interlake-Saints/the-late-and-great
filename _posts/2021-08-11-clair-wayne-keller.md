@@ -7,6 +7,8 @@ categories:
   - staff
 tags:
   - dementia
+images:
+  - /assets/keller2.png
 gender: male
 obituary: https://www.amestrib.com/obituaries/20180106/clair-wayne-keller
 ---
