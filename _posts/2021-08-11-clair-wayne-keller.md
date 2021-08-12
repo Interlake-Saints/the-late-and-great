@@ -6,9 +6,10 @@ date: 2017-11-19
 categories:
   - staff
 tags:
-  - dementia
+  - alzheimers
 images:
   - /assets/keller2.png
+  - /assets/keller3.png
 gender: male
 obituary: https://www.amestrib.com/obituaries/20180106/clair-wayne-keller
 ---
