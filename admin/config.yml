@@ -99,6 +99,13 @@ collections:
           - class-of-2020
           - class-of-2021
           - class-of-2022
+          - class-of-2023
+          - class-of-2024
+          - class-of-2025
+          - class-of-2026
+          - class-of-2027
+          - class-of-2028
+          - class-of-2029
           - staff
         hint: 'New classes cannot be created through the CMS.'
       - label: 'Cause of Death'
