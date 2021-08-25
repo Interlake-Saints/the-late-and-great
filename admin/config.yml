@@ -96,6 +96,9 @@ collections:
           - class-of-2017
           - class-of-2018
           - class-of-2019
+          - class-of-2020
+          - class-of-2021
+          - class-of-2022
           - staff
         hint: 'New classes cannot be created through the CMS.'
       - label: 'Cause of Death'
