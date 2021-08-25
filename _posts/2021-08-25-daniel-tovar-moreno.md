@@ -8,7 +8,7 @@ categories:
 tags:
   - homicide
 images:
-  - /assets/danielmoreno.png
+  - /assets/danielmoren3.png
 gender: male
 obituary: https://www.flintofts.com/obituaries/Daniel-Tovar-Moreno?obId=21703866
 ---
