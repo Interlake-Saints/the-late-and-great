@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Daniel Tovar-Moreno
-sortKey: Tovarmoreno, Daniel
+sortKey: Tovar Moreno, Daniel
 date: 2021-07-07
 categories:
   - class-of-2022
 tags:
   - homicide
+images:
+  - /assets/danielmoreno.png
 gender: male
 obituary: https://www.flintofts.com/obituaries/Daniel-Tovar-Moreno?obId=21703866
 ---
