@@ -1,9 +1,11 @@
 # ihsmemorial.org
+
 site to notify those of us who attended Interlake High School of the classmates we've lost
 
-This site is written with jekyll. For more on jekyll see https://jekyllrb.com/docs/.
+## Build
+Tasks are managed with rake.
 
-This site is intended to be hosted on GitHub Pages and has the corresponding dependencies.
+This site is written with jekyll. For more on jekyll see https://jekyllrb.com/docs/.
 
 Entries are in _posts.  Each field means as follows:
 
@@ -25,3 +27,5 @@ The site has the following dependencies:
 * Netlify for DNS
 
 calef maintains the access credentials for these resources.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Interlake-Saints/ihsmemorial.org)
