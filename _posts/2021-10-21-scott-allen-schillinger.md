@@ -17,4 +17,4 @@ In his spare time, Scott was an avid outdoorsman and hunter. He also enjoyed bei
 
 Scott was known as Grandpa Scott to nine beautiful grandchildren. He had a large extended family and many friends who all loved him dearly.
 
-Sadly, he passed away suddenly on Sunday, February 2nd, in Post Falls, Idaho. He was 54 years old.
+Sadly, he passed away suddenly on February 2nd, 2020, in Post Falls, Idaho. He was 54 years old.
