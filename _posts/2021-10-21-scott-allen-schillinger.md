@@ -5,6 +5,8 @@ sortKey: Schillinger, Scott
 date: 2020-02-02
 categories:
   - class-of-1984
+images:
+  - /assets/schillinger2020.jpg
 gender: male
 obituary: https://tinyurl.com/4jwwkx6v
 ---
