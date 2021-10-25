@@ -7,6 +7,9 @@ categories:
   - class-of-1985
 tags:
   - infection
+images:
+  - /assets/sorm2021.jpg
+  - /assets/sorm1984.png
 gender: male
 obituary: https://www.elementalnw.com/obituaries/william-bill-everitt-sorm/128/
 ---
@@ -19,3 +22,5 @@ As a young man he attended Interlake high school where he earned his nickname, B
 Bill’s love of music was a natural progression of being a Bellevue kid where so many other talents grew up.   His regular babysitter was best friends with Ann and Nancy Wilson (of Heart) and many guitar sessions took place in the early days in his living room.   His desire to become a drummer inspired his Mom to gift him with a trombone (right?).  When he eventually got a guitar his talent really showed and almost took him down another road, having received several offers.  But, never comfortable playing in front of an audience, he eventually went to work for the family business instead.
 
 His love of the outdoors; (skiing, surfing, golfing, rock climbing, etc) served him well in the family’s business of recovering and restoring crashed aircraft, as much of this work was done in the Alaskan backcountry.  Although it took him all over the world, and he knew many notable people and celebrities because of it.  His integrity was always to give 110% to everything he did, or he wouldn’t bill you for it.  We would watch if an aircraft went down, as he would always hurry to check if it was one he’d worked on.  He held several special licenses/certifications, and if his name was on the paperwork he made sure there were no questions or errors in anything.  He always said he loved airplanes but not aviation, because of the paperwork!
+
+Sadly, Bill's sister Alena is also on this page. She died of cancer in 2001, and is listed under the [Class of 1985](https://ihsmemorial.org/class-of-1982/alena-maria-sorm/).
