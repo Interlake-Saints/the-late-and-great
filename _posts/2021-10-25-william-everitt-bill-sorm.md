@@ -21,4 +21,4 @@ Bill's love of the outdoors (skiing, surfing, golfing, rock climbing, etc) serve
 
 Bill passed from multiple organ failure on August 18, 2021, due to a sudden resurgence of a septic infection from a previous surgery. He was 54 years old. He is greatly missed by all who knew him, being such a charming personality who liked everyone, and the feeling was mutual. He and his wife were a popular couple around town and at many local concerts and events.
 
-Sadly, Bill's sister [Alena](https://ihsmemorial.org/class-of-1982/alena-maria-sorm/) is also on this page. She died of cancer in 2001, and is listed under the Class of 1982.
+Sadly, Bill's sister [Alena](https://ihsmemorial.org/class-of-1982/alena-maria-sorm/) is also on this page. She died of cancer in 2011, and is listed under the Class of 1982.
