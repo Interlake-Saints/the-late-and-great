@@ -10,4 +10,6 @@ images:
   - /assets/brumlow81.jpg
 gender: male
 ---
-TBD
+Bill was well known as a musician in his lifetime, from his first garage band "Arsenal", to the recording studio he later ran with his sons. He was also known as a great friend, a super funny guy, and a person who was very positive and kind. He was always making people smile and laugh, and he was one of a kind. Sadly, he died unexpectedly on August 16, 2014.
+
+Bill left behind a wife of twenty-seven years, Pam, and two sons who he loved with all of his heart. He was 51 years old.
