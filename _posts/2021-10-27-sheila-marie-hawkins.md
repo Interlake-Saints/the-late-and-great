@@ -7,6 +7,9 @@ categories:
   - class-of-1972
 tags:
   - cancer
+images:
+  - /assets/sheilahawkinscurrent.jpg
+  - /assets/sheilahawkins72.png
 gender: female
 obituary: https://obituaries.seattletimes.com/obituary/sheila-hawkins-wimberley-1082070778
 ---
@@ -14,6 +17,6 @@ Sheila, aka Sheila Marie Hawkins-Wimberley, knew she wanted to be a teacher from
 
 During her tenure, Sheila became a strong advocate for children with disabilities, and went on to teach teachers how to seamlessly include students with special needs into their classrooms, thereby helping them remain at their home school. Her work not only affected her students, it also affected the parents, siblings and grandparents of those students. Her advocacy touched the lives of so many people.
 
-After her retirement in 2018, she and her husband Jim enjoyed traveling and spending time at their beautiful beach house in Long Beach, WA. Sheila was a woman with a strong faith and the ocean was always where she felt closest to God.
+After her retirement in 2018, she and her husband Jim enjoyed traveling and spending time at their beautiful beach house in Long Beach, WA. She was a woman with a strong faith and the ocean was always where she felt closest to God.
 
 Sadly, on March 27, 2021, Sheila went home to be with her Lord after a courageous battle with pancreatic cancer. She was 67 years old.
