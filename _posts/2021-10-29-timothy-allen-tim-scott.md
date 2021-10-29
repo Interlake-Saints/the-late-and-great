@@ -7,6 +7,8 @@ categories:
   - class-of-1970
 tags:
   - cancer
+images:
+  - /assets/timscottclass70.png
 gender: male
 ---
 Tim passed away on September 4, 1981, of osteoblastic sarcoma (bone) cancer. He left behind a son and a daughter.
