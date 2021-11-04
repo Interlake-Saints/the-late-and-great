@@ -7,7 +7,7 @@ categories:
   - class-of-2017
 images:
   - /assets/tracicarson2.jpg
-  - /assets/tracicarson.jpg
+  - /assets/tracicarson3.jpg
 gender: female
 obituary: https://www.dignitymemorial.com/obituaries/seattle-wa/traci-carson-10236669
 ---
