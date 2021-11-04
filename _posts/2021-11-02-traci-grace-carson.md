@@ -17,4 +17,4 @@ At the time of her death, Traci was attending Bellevue College, pursuing a degre
 
 Traci was remarkably outgoing, strong-willed, smart, and funny; her infectious smile and unique personality lit up every room. She loved to travel. She loved to try new things, and picked up several hobbies over the years, including sewing, snowboarding, ukulele, baking, and travel vlogging. She loved the beauty of nature, and loved to go camping with her sister.
 
-Sadly, on Sunday, June 13th, 2021, the beautiful and young Traci Grace Carson passed away suddenly and unexpectedly, and left all our hearts heavy with the immense void she has left. Though Traci’s time on Earth has come to an end, her light and memories live on in her friends, family, and fur-baby Koya. Her next journey has just begun.
+Sadly, on Sunday, June 13th, 2021, the beautiful and young Traci Grace Carson passed away suddenly and unexpectedly, and left all our hearts heavy with the immense void she has left. She was only 22 years old. Though Traci’s time on Earth has come to an end, her light and memories live on in her friends, family, and fur-baby Koya. Her next journey has just begun.
