@@ -5,6 +5,9 @@ sortKey: Pope, Rick
 date: 2021-05-09
 categories:
   - class-of-1975
+images:
+  - /assets/rickypope2021.jpg
+  - /assets/rickpope75.png
 gender: male
 obituary: https://obituaries.adn.com/adportal/listingView.html?id=2509
 ---
