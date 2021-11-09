@@ -10,3 +10,4 @@ images:
   - /assets/class-of-1974/mindy-warner-1.png
 gender: female
 ---
+Mindy died very young. She passed away of kidney failure at some point in the early 70s, prior to graduating from Interlake.
