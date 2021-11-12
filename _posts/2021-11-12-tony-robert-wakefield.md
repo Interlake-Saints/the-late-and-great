@@ -8,6 +8,8 @@ categories:
   - class-of-1969
 tags:
   - accident
+images:
+  - /assets/tonywakefield1969.png
 gender: male
 ---
-Tony was killed in a train accident at some point in the 1970s.
+Tony was killed in a train accident at some point in the 70s.
