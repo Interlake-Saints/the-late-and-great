@@ -5,6 +5,8 @@ sortKey: Harrison, James
 date: 2021-09-18
 categories:
   - class-of-1969
+images:
+  - /assets/jamesharrison69.png
 gender: male
 ---
 TBD
