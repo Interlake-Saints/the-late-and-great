@@ -5,6 +5,8 @@ sortKey: Bergstrom, Marianne
 date: 2021-12-11
 categories:
   - staff
+images:
+  - /assets/bergstrom1.jpg
 gender: female
 ---
-Marianne was a special needs teacher at Interlake, in fact for many years she was the program coordinator for all developmentally disabled students. She passed away at the age of 80 on December 11, 2021.
+Marianne was a special education teacher at Interlake, in fact for many years she was the program coordinator for all developmentally disabled students. She passed away at the age of 80 on December 11, 2021.
