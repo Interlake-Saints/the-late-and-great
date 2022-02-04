@@ -13,4 +13,8 @@ images:
 gender: female
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/camille-martlin-10423191
 ---
-Coming soon
+Cami, aka Cami Menard Martlin, was an esthetician, a massage therapist, educator, and a mother to her beloved only child, Max Martlin (who was also an Interlake grad - class of 2017). Cami and Max loved doing things together, which makes their story all that more tragic. Cami and Max both died on the afternoon of October 24, 2021. They were driving home together from Fall City, after picking pumpkins for Halloween, when their car was unexpectedly crushed by a falling tree. Mercifully, they were both killed instantly. Cami was 59 years old.
+
+Cami and Max's tragedy was featured all over the local news in the days after it happened, and it even made the national news too, eventually becoming a story in People Magazine. 
+
+Cami was so loved in this life. She and Max will certainly be missed.
