@@ -14,8 +14,4 @@ Harlan was born in 1971, and he played baseball at Interlake, eventually graduat
 
 Sadly, Harlan passed away of natural causes in his sleep, on January 4, 2022. He was 50 years old.
 
-In Harlan's honor, his family requests that you please listen to a good song today, or eat some good food, or go on a hike, or watch a new movie, or sit and talk, or hug your loved ones. Notice the absurdities in life, laugh, make a difference, and enjoy life. 
-
-
-
-\
+In Harlan's honor, his family requests that you please listen to a good song today, or eat some good food, or go on a hike, or watch a new movie, or sit and talk, or hug your loved ones. Notice the absurdities in life, laugh, make a difference, and enjoy life.
