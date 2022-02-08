@@ -7,4 +7,4 @@ categories:
   - class-of-1996
 gender: female
 ---
-TBD
+Lara passed away in early May of 2021.
