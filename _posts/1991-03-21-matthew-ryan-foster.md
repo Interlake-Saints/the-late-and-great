@@ -12,4 +12,4 @@ images:
   - /assets/class-of-1990/matthew-r-foster-1.png
 gender: male
 ---
-Matt died in a car accident in Seattle on March 21, 1991.
+Matt was killed in a car accident in Seattle on March 21, 1991. He was riding along with his friend, [Matthew Lustyk](https://ihsmemorial.org/class-of-1990/matthew-j-lustyk/), who was seriously injured in the accident, but survived.
