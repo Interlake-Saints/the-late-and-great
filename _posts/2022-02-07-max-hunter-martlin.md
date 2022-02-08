@@ -7,6 +7,8 @@ categories:
   - class-of-2017
 tags:
   - accident
+images:
+  - /assets/maxmartlin1.jpg
 gender: male
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/max-martlin-10423214
 ---
