@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1991/kirk-g-dawson-1.jpg
 gender: male
 ---
+
 Kirk passed away on December 26, 1993, after a three-year battle with cancer. He was only 20 years old. In his memory, the Kirk Dawson Memorial Scholarship was set up for graduating IHS seniors.

@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1970/william-m-wales-1.png
 gender: male
 ---
+
 William was killed in a car accident in Pittsburgh in February of 1976.

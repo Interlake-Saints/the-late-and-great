@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1981/laura-a-gordon-1.jpg
 gender: female
 ---
+
 Laura, aka Laura Gordon Spicknall, died at home on December 9, 2004. She was 41.

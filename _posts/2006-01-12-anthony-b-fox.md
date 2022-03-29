@@ -11,4 +11,5 @@ tags:
   - stroke
 gender: male
 ---
-Tony died in his sleep from a brain aneurysm on January 12, 2006.  He was 31 years old.
+
+Tony died in his sleep from a brain aneurysm on January 12, 2006. He was 31 years old.

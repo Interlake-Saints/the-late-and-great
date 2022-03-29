@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1976/alan-r-senff-1.png
 gender: male
 ---
-Alan died on November 23, 1994.  He was 36 years old.
+
+Alan died on November 23, 1994. He was 36 years old.

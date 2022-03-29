@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1971/jonathan-c-kotzbauer-1.png
 gender: male
 ---
+
 Jonathan died on February 4, 2010 in Monroe, WA.

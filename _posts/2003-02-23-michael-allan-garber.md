@@ -12,4 +12,5 @@ images:
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?page=lifestory&pid=823767
 ---
+
 Michael Allan "Mike" Garber died of heart failure following an illness on Feb. 23, 2003, in Moscow, Idaho. He was 35 years old.

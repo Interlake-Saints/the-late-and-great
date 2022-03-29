@@ -13,4 +13,5 @@ images:
   - /assets/class-of-1977/steven-a-salzberg-1.png
 gender: male
 ---
+
 Steve died at his home in Kelso on April 21, 2009.

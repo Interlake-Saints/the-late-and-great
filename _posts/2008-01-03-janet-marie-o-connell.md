@@ -13,4 +13,5 @@ images:
   - /assets/class-of-1977/janet-m-o-connell-2.jpg
 gender: female
 ---
+
 Janet passed away on January 3, 2008, following a tragic accident and a long unsuccessful recovery. She was 49 years old.

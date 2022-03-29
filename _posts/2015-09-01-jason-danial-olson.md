@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1991/jason-d-olson-2.jpg
 gender: male
 ---
-Jason passed away in September of 2015.  He was 42 years old.
+
+Jason passed away in September of 2015. He was 42 years old.

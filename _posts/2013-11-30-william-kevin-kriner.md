@@ -13,4 +13,5 @@ images:
   - /assets/class-of-1977/william-k-kriner-2.jpg
 gender: male
 ---
+
 Bill worked for over thirty years in IT and as an infrastructure architect. He succumbed to complications from prostate cancer on November 30, 2013, surrounded by his family and kitten at Evergreen Hospice.

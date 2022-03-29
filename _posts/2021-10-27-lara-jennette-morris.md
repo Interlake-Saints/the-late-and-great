@@ -9,4 +9,5 @@ images:
   - /assets/lara_j_morris.jpg
 gender: female
 ---
+
 Lara passed away in early May of 2021.

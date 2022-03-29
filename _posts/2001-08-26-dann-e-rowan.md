@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1980/dann-e-rowan-1.jpg
 gender: male
 ---
+
 Dann suffered a heart attack in San Diego on August 26, 2001. He was only 38 years old.

@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1970/william-k-kumbera-1.png
 gender: male
 ---
+
 William passed away in December of 1984

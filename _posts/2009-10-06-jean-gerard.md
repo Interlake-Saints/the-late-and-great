@@ -13,4 +13,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=jean-gerard-tina&pid=134542463
 gender: female
 ---
+
 Tina worked in the attendance office at Interlake for many years. She passed away after a battle with cancer on October 6, 2009.

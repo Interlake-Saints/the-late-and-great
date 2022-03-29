@@ -7,4 +7,5 @@ categories:
   - class-of-1987
 gender: male
 ---
+
 Greg died in Anacortes on April 24, 2005.

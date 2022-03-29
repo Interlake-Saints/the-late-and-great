@@ -13,4 +13,5 @@ images:
   - /assets/class-of-1976/martin-j-bouman-2.png
 gender: male
 ---
-Martin died in a late night car accident near the Puyallup River Bridge on July 14, 1980.  He was headed northbound on Interstate 5 when he was hit by two cars, one of which was a drunk driver going the wrong way.  Martin was only 22 years old.
+
+Martin died in a late night car accident near the Puyallup River Bridge on July 14, 1980. He was headed northbound on Interstate 5 when he was hit by two cars, one of which was a drunk driver going the wrong way. Martin was only 22 years old.

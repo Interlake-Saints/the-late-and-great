@@ -13,6 +13,7 @@ images:
 gender: male
 obituary: https://www.legacy.com/us/obituaries/tucson/name/patrick-harless-obituary?pid=197449195
 ---
+
 After graduating from Interlake, Patrick earned a triple major at Arizona State University - in Economics, Political Science, and Math. All with a 4.0 GPA. He then earned a PhD in Economics. He later became a teacher at Teach for America, Faye Middle School, The University of Rochester, The University of Glasgow, and The University of Arizona.
 
 Patrick was an intense student, an imaginative teacher, an original mind, and a brilliant economist, with several published economic papers. He taught America's best students, and traveled worldwide with his original economic presentations. Patrick loved coaching baseball, and wrestling, and teaching in all forms.

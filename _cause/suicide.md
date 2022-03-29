@@ -2,6 +2,7 @@
 title: Suicide
 id: suicide
 ---
+
 Suicide is a leading cause of death in the US. Over half of people who died by suicide did not have a known mental health condition. In 2019, there were 47,511 suicides in the United States: 23,941 were firearms, 13,563 were suffocation, and 6,125 were poisoning suicides.
 
 Suicides are under-reported in media and on this website due to reticence on behalf of survivors. Many sudden and unexpected deaths on this site were deaths by suicide. Most of us suffered the loss of a classmate to suicide in our youth. However, adults are 10x more likely to die from suicide than adults.

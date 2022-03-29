@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1977/james-r-barry-2.jpg
 gender: male
 ---
+
 Jim was the owner and President of Davies-Barry Insurance in Ketchikan, as well as a board member on several local associations and a member of the Elks. He was well known in the close-knit community of Southeast Alaska. He passed away suddenly at the age of 59 on Sunday morning, August 26, 2018.

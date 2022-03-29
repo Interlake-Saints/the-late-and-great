@@ -10,6 +10,7 @@ images:
   - /assets/class-of-1975/homer-d-burrous-2.jpg
 gender: male
 ---
-Doug Burrous, a longtime local mechanic from Ketchikan, Alaska, died on March 4, 2015.  He was 58 years old.
+
+Doug Burrous, a longtime local mechanic from Ketchikan, Alaska, died on March 4, 2015. He was 58 years old.
 
 Sadly, Doug's brother, [Tony](https://ihsmemorial.org/class-of-1976/staff/anthony-roy-burrous/), is also listed on the IHS Memorial Wall. He is listed under the Class of 1976.

@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1974/gary-e-larson-1.png
 gender: male
 ---
-Gary died on July 27, 2010 at the age of 55.  He is buried at Tahoma National Cemetery.
+
+Gary died on July 27, 2010 at the age of 55. He is buried at Tahoma National Cemetery.

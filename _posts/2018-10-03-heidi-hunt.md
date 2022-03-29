@@ -14,4 +14,5 @@ images:
 obituary: http://www.cremation-salem-oregon.com/obituaries/obituary/16447_Heidi_Hunt_Vantulden
 gender: female
 ---
-Heidi, aka Heidi Hunt Vantulden, passed away of lung cancer on October 3, 2018.  She was 63 years old.
+
+Heidi, aka Heidi Hunt Vantulden, passed away of lung cancer on October 3, 2018. She was 63 years old.

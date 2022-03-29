@@ -10,4 +10,5 @@ images:
 gender: male
 obituary: https://www.tributearchive.com/obituaries/18614677/Robert-Dalton-Ausbun/Issaquah/Washington/Flintofts-Funeral-Home-Crematory
 ---
+
 Bobby passed away suddenly and unexpectedly on October 9, 2020. He was only 20 years old.

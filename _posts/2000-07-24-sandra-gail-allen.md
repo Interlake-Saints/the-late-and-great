@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1977/sandra-g-allen-1.jpg
 gender: female
 ---
-Sandy, aka Sandra Gail Maris, died on July 24, 2000.  She left a husband, Charlie, and two daughters, Megan and Hannah. She is missed dearly.
+
+Sandy, aka Sandra Gail Maris, died on July 24, 2000. She left a husband, Charlie, and two daughters, Megan and Hannah. She is missed dearly.

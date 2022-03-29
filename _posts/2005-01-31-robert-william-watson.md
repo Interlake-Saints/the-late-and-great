@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1982/robert-william-watson-1.png
 gender: male
 ---
+
 Robert passed away on January 31, 2005.

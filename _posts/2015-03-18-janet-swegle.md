@@ -11,4 +11,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=174476869
 gender: female
 ---
-Janet, aka Janet Swegle Bumgardner, passed away on March 18, 2015, following a long illness.  She was 58 years old.
+
+Janet, aka Janet Swegle Bumgardner, passed away on March 18, 2015, following a long illness. She was 58 years old.

@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1987/michael-f-fraser-1.png
 gender: male
 ---
+
 Michael died in Renton on June 2, 1996.

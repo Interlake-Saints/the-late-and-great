@@ -14,4 +14,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=erin-danielle-blake&pid=144119618
 gender: female
 ---
+
 Erin, aka Erin Danielle Blake, was diagnosed with leukemia in December of 2008. She fought it valiantly and with great grace for a year and a half, before she passed away on July 12th, 2010.

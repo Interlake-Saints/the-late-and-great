@@ -13,6 +13,7 @@ images:
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Marny-Tobin&pid=20169717
 ---
+
 Marny Bayes, aka Marny Tobin, was born December 8, 1964 and raised in Bellevue, WA, where she attended Interlake High School. She then studied at Eastern Washington University and Spokane Community College, where she obtained her degree in Echocardiography. Her career took her back to the Seattle area where she worked at Stevens Hospital, Overlake Cardiology, and Virginia Mason Hospital. She married her husband, Tom, in 1998 and moved to NY, Pittsburgh, and finally settled in Spokane. Her love and care for her family and friends was unconditional and an example for all who knew her.
 
 During her eight years of living with cancer, she was actively involved with the Sarcoma Foundation of America. Her focus was on research and patient advocacy. Both patients and physicians from around the country were touched and inspired by her.

@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1973/erik-hultberg-iii-1.png
 gender: male
 ---
-Erik died of a drug overdose on March 15, 1982.  He was 26 years old.
+
+Erik died of a drug overdose on March 15, 1982. He was 26 years old.

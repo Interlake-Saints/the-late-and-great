@@ -13,4 +13,5 @@ images:
 obituary: https://www.legacy.com/obituaries/heraldnet/obituary.aspx?pid=87388089
 gender: female
 ---
+
 Lynn, aka Lynn Marie Hearldson, passed away April 14, 2007, after a courageous two year battle with ovarian cancer. She was 35 years old.

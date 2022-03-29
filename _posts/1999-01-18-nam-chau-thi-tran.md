@@ -8,4 +8,5 @@ categories:
 images:
   - /assets/class-of-1987/nam-chau-thi-tran-1.png
 ---
+
 Nam, aka Nam Chau T. Anselmo, died on January 18, 1999.

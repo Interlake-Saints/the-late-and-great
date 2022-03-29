@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1977/jacqueline-k-oster-1.png
 gender: female
 ---
-Jackie lived in Redmond.  She passed away in 1993.
+
+Jackie lived in Redmond. She passed away in 1993.

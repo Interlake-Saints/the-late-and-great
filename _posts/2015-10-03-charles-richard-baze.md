@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1998/charles-r-baze-2.jpg
 gender: male
 ---
-Richie died in Desert Aire, WA on October 3, 2015.  He was 35 years old.
+
+Richie died in Desert Aire, WA on October 3, 2015. He was 35 years old.

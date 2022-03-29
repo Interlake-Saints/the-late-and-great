@@ -13,4 +13,5 @@ images:
   - /assets/class-of-1989/trevor-a-cichy-1.jpg
 gender: male
 ---
+
 Trevor died in a car accident on Camano Island on August 6, 2006.

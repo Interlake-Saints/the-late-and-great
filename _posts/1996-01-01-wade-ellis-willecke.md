@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1972/wade-e-willecke-1.png
 gender: male
 ---
+
 Wade died in 1996.

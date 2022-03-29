@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1973/paul-w-ranous-1.png
 gender: male
 ---
-Paul died on March 17, 2006.  He was 51 years old.
+
+Paul died on March 17, 2006. He was 51 years old.

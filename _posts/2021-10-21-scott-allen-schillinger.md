@@ -11,7 +11,8 @@ images:
 gender: male
 obituary: https://tinyurl.com/4jwwkx6v
 ---
-Scott was a proud alumnus of the University of Washington and also Gonzaga Law School, ultimately fulfilling his lifelong dream of becoming an attorney. In this capacity, he became a trusted advisor to many, both professionally and personally. 
+
+Scott was a proud alumnus of the University of Washington and also Gonzaga Law School, ultimately fulfilling his lifelong dream of becoming an attorney. In this capacity, he became a trusted advisor to many, both professionally and personally.
 
 In his spare time, Scott was an avid outdoorsman and hunter. He also enjoyed being involved in youth hockey, especially watching his son Wyatt play. He was also a member of the German Club of Anchorage, where he served two years as president. He was very proud of his German heritage.
 

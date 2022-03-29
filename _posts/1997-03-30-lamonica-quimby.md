@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1991/tina-mostashari-1.jpg
 gender: female
 ---
+
 LaMonica died of appendicitis on March 30, 1997.

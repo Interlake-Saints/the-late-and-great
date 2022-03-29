@@ -13,4 +13,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=britt-jacqueline-mortimer-green&pid=138344485
 gender: female
 ---
+
 Britt Green, aka Britt Mortimer, died of cancer on January 1, 2010.

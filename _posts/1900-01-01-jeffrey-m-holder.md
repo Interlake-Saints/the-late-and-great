@@ -8,5 +8,3 @@ categories:
   - class-of-1989
 gender: male
 ---
-
-

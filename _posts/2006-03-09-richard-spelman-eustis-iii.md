@@ -10,4 +10,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Richard-Eustis&pid=17200431
 gender: male
 ---
+
 Richard died on March 9, 2006.

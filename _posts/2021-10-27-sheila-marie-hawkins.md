@@ -13,7 +13,8 @@ images:
 gender: female
 obituary: https://obituaries.seattletimes.com/obituary/sheila-hawkins-wimberley-1082070778
 ---
-Sheila, aka Sheila Marie Hawkins-Wimberley, knew she wanted to be a teacher from a very early age, and it was while she was a student at Central Washington that she found her true calling-- in Special Education. She found employment in Bellevue, where she taught in a classroom for many years, before going to the University of Washington to obtain her Master's degree. Once she had her Master's, she narrowed her focus to specialize as an inclusion specialist for the Bellevue School District. 
+
+Sheila, aka Sheila Marie Hawkins-Wimberley, knew she wanted to be a teacher from a very early age, and it was while she was a student at Central Washington that she found her true calling-- in Special Education. She found employment in Bellevue, where she taught in a classroom for many years, before going to the University of Washington to obtain her Master's degree. Once she had her Master's, she narrowed her focus to specialize as an inclusion specialist for the Bellevue School District.
 
 During her tenure, Sheila became a strong advocate for children with disabilities, and went on to teach teachers how to seamlessly include students with special needs into their classrooms, thereby helping them remain at their home school. Her work not only affected her students, it also affected the parents, siblings and grandparents of those students. Her advocacy touched the lives of so many people.
 

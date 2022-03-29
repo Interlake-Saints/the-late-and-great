@@ -10,4 +10,5 @@ images:
   - /assets/annepatterson.jpg
 gender: female
 ---
+
 Anne died on August 7, 2005.

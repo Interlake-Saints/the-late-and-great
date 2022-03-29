@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1975/laurie-jackson-1.png
 gender: female
 ---
-Laurie died in a car accident in July of 2005. 
+
+Laurie died in a car accident in July of 2005.

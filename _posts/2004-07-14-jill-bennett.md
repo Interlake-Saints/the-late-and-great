@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1974/jill-bennett-1.png
 gender: female
 ---
+
 Jill died of breast cancer on July 14, 2004

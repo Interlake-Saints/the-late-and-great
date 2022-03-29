@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1977/kevin-j-clancy-1.png
 gender: male
 ---
-Kevin died in Seattle on April 4, 1983.  He was 24 years old.
+
+Kevin died in Seattle on April 4, 1983. He was 24 years old.

@@ -7,4 +7,5 @@ categories:
   - class-of-1980
 gender: male
 ---
-Dennis died in King County on September 23, 1983.  He was 21 years old.
+
+Dennis died in King County on September 23, 1983. He was 21 years old.

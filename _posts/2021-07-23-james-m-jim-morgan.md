@@ -11,6 +11,7 @@ images:
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/james-morgan-1082696124
 ---
+
 Jim Morgan taught history for many years in the Bellevue School District, in fact he was part of the original 1967 Interlake staff. He started at Sammamish, then transferred to teach at Interlake while his daughters were at Sammamish. Then he went back to Sammamish. He is well-remembered by his former students, even today.
 
 Jim will be remembered as a supportive teacher with high expectations for every student, always caring about them and their success. His family is proud that he inspired so many with his passion for teaching, many who have acknowledged his lifelong impact on them over the years. Some may remember Mr. Morgan for his wild ties, one of the many ways he tried to get his students' attention!

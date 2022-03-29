@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1974/nicolas-r-lehv-2.jpg
 gender: male
 ---
+
 Nicolas died in St. Etienne, France, on September 8, 2001.

@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1979/nancy-j-barr-1.png
 gender: female
 ---
+
 Nancy died from complications of meningitis on January 2, 1994.

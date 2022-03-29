@@ -7,4 +7,5 @@ categories:
   - class-of-1985
 gender: male
 ---
+
 Yohannes died in Bellevue on August 13, 1986.

@@ -12,4 +12,5 @@ images:
 obituary: http://www.legacy.com/obituaries/heraldnet/obituary.aspx?n=Karyne-Miller&pid=17500521
 gender: female
 ---
+
 Karyne died of cancer on February 6, 2001. She was 46 years old.

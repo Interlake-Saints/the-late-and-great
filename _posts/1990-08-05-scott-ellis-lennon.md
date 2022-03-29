@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1980/scott-e-lennon-1.jpg
 gender: male
 ---
+
 Scott was one of the very early cases of AIDS, he died of complications from AIDS on August 5, 1990.

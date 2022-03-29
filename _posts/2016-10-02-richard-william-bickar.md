@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1991/richard-w-bickar-1.jpg
 gender: male
 ---
-Richard died of liver failure on October 2, 2016.  He was 44 years old.
+
+Richard died of liver failure on October 2, 2016. He was 44 years old.

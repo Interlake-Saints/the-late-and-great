@@ -13,7 +13,8 @@ images:
 gender: male
 obituary: https://www.amestrib.com/obituaries/20180106/clair-wayne-keller
 ---
-When Interlake opened in 1967, Clair Keller was a member of the very first history department. He taught American History as part of an innovative new teaching team with Jim Morgan. 
+
+When Interlake opened in 1967, Clair Keller was a member of the very first history department. He taught American History as part of an innovative new teaching team with Jim Morgan.
 
 Keller left Interlake after one year, and wound up taking a position at Iowa State University, where he taught from 1968 until 2002. He pioneered many methods for teaching social studies and history over the years, and mentored many student teachers around the state of Iowa. He also started the Iowa History Day program, annually taking the young winners to Washington, D.C., for the national contest.
 

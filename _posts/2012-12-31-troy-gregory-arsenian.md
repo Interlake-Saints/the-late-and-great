@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1983/troy-g-arsenian-2.jpg
 gender: male
 ---
+
 Troy passed away on December 31, 2012. He was 48 years old.

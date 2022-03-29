@@ -12,4 +12,5 @@ images:
   - /assets/ishikawa1.png
 gender: male
 ---
+
 Steve died of a heart attack on Friday, April 16, 2021. He was 55 years old.

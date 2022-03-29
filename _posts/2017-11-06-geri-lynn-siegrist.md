@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1970/geri-l-siegrist-1.png
 gender: female
 ---
-Geri, aka Geri Pentz, passed away of natural causes on November 6, 2017.  She was 65 years old.
+
+Geri, aka Geri Pentz, passed away of natural causes on November 6, 2017. She was 65 years old.

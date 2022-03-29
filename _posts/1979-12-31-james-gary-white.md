@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1972/james-g-white-1.png
 gender: male
 ---
+
 Jim passed away in the late '70s

@@ -9,4 +9,5 @@ images:
   - /assets/porad78.jpg
 gender: male
 ---
+
 Steve was a Seattle based musician (?). He died on June 15, 1993.

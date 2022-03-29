@@ -7,4 +7,5 @@ categories:
   - class-of-1993
 gender: male
 ---
+
 Cam passed away on March 30, 1996.

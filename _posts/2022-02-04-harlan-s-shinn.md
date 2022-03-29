@@ -10,6 +10,7 @@ images:
   - /assets/harlanhs2.jpeg
 gender: male
 ---
+
 Harlan was born in 1971, and he played baseball at Interlake, eventually graduating from IHS in the Class of '89. He eventually became a surgical tech and specialty coordinator at Evergreen Hospital in Kirkland, where he worked with great pride for twenty-two years. In his spare time, he liked to play racquetball, ping-pong, go hiking with his wife, Mandy, or just get out his Traeger and cook up some brisket or ribs. He and Mandy had just purchased their first house together in 2020, and they were looking forward to spending many happy years together.
 
 Sadly, Harlan passed away of natural causes in his sleep, on January 4, 2022. He was 50 years old.

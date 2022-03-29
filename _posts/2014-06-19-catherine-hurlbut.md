@@ -10,4 +10,5 @@ images:
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=171714070
 ---
-Cathie passed away peacefully surrounded by siblings Sue, Nancy, and John, on June 19, 2014.  She was 61 years old.
+
+Cathie passed away peacefully surrounded by siblings Sue, Nancy, and John, on June 19, 2014. She was 61 years old.

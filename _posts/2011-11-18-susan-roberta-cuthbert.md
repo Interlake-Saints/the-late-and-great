@@ -13,4 +13,5 @@ images:
 obituary: https://www.legacy.com/us/obituaries/tucson/name/susan-feser-obituary?pid=154868918
 gender: female
 ---
+
 Susan, aka Susan Cuthbert Feser, passed away on November 18, 2011 after a long struggle against cancer. She was 55 years old.

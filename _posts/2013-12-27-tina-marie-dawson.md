@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1983/tina-m-dawson-2.jpg
 gender: female
 ---
-Tina, aka Tina Marie Sharp, passed away on December 27, 2013.  She was 49 years old.
+
+Tina, aka Tina Marie Sharp, passed away on December 27, 2013. She was 49 years old.

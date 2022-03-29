@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1979/michael-k-nelson-1.png
 gender: male
 ---
+
 Mike passed away in 2003.

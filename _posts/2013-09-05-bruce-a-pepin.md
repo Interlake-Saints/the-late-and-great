@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1973/bruce-a-pepin-2.png
 gender: male
 ---
+
 Bruce died of cancer on September 5, 2013, in Arlington, WA.

@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1970/jerry-l-vaughn-1.png
 gender: male
 ---
+
 Jerry died an accidental death at home in Carnation on Jan. 8, 2004, after suffering mental abuse/disorder.

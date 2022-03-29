@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1969/james-r-sharp-1.png
 gender: male
 ---
+
 Randy committed suicide in December of 1972, and his funeral was later held at St. Louise.

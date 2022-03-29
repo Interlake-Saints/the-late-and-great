@@ -13,4 +13,5 @@ images:
 gender: female
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=172677059
 ---
-Denise, aka Denise Dalton Thom, was a marathon runner, Disney fan, and was co-owner and teacher at Phoenix Montessori School in Renton.  She passed away on September 27, 2014, after a courageous two-year battle with breast cancer. She was 45 years old.
+
+Denise, aka Denise Dalton Thom, was a marathon runner, Disney fan, and was co-owner and teacher at Phoenix Montessori School in Renton. She passed away on September 27, 2014, after a courageous two-year battle with breast cancer. She was 45 years old.

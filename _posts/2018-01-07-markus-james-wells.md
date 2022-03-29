@@ -10,4 +10,5 @@ images:
 tags:
   - cardiovascular-disease
 ---
+
 Mark passed away unexpectedly on January 7, 2018. He developed a lung aneurysm, which caused his lungs to full with fluid, which quickly lead to heart failure. He was only 36 years old.

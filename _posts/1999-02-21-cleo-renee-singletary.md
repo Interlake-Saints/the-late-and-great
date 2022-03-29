@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1975/cleo-r-singletary-1.png
 gender: female
 ---
-Cleo died of cancer on February 21, 1999.  She was 42 years old.
+
+Cleo died of cancer on February 21, 1999. She was 42 years old.

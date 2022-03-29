@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1985/jeffrey-allen-birchard-2.png
 gender: male
 ---
-Jeff passed away at his home on Monday, February 18, 1985.  A tribute to him was printed in the back of the 1985 IHS yearbook.
+
+Jeff passed away at his home on Monday, February 18, 1985. A tribute to him was printed in the back of the 1985 IHS yearbook.

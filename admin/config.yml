@@ -3,46 +3,46 @@ backend:
   repo: Interlake-Saints/ihsmemorial.org
   branch: main
 collections:
-  - name: 'deaths'
-    label: 'Deaths'
-    folder: '_posts/'
+  - name: "deaths"
+    label: "Deaths"
+    folder: "_posts/"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
-      - label: 'Layout'
-        name: 'layout'
-        widget: 'hidden'
-        default: 'post'
-      - label: 'Title'
-        name: 'title'
-        widget: 'string'
-        hint: 'Name edits cannot be made through the CMS.'
-      - label: 'Sort Key'
-        name: 'sortKey'
-        widget: 'string'
-        hint: 'Typically LastName, FirstName so that class pages are sorted alphabetical by last name.'
-      - label: 'Death Date'
-        name: 'date'
-        widget: 'datetime'
-        format: 'YYYY-MM-DD'
-        date_format: 'YYYY-MM-DD'
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "post"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        hint: "Name edits cannot be made through the CMS."
+      - label: "Sort Key"
+        name: "sortKey"
+        widget: "string"
+        hint: "Typically LastName, FirstName so that class pages are sorted alphabetical by last name."
+      - label: "Death Date"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
         time_format: false
-        hint: 'In unknown, use the closest known date or 1900-01-01 if the date is totally unknown.'
-      - label: 'Death Date Unknown'
-        name: 'dateUnknown'
-        widget: 'boolean'
+        hint: "In unknown, use the closest known date or 1900-01-01 if the date is totally unknown."
+      - label: "Death Date Unknown"
+        name: "dateUnknown"
+        widget: "boolean"
         required: false
-        hint: 'Mark true if the exact date is not known.'
-      - label: 'Author'
-        name: 'author'
-        widget: 'string'
+        hint: "Mark true if the exact date is not known."
+      - label: "Author"
+        name: "author"
+        widget: "string"
         required: false
-        hint: 'Defaults to Mario Lanza if left blank.'
-      - label: 'Categories'
-        name: 'categories'
-        widget: 'select'
+        hint: "Defaults to Mario Lanza if left blank."
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
         multiple: true
         options:
           - class-of-1969
@@ -107,93 +107,93 @@ collections:
           - class-of-2028
           - class-of-2029
           - staff
-        hint: 'New classes cannot be created through the CMS.'
-      - label: 'Cause of Death'
-        name: 'tags'
-        value_field: 'id'
-        widget: 'relation'
-        collection: 'causes'
+        hint: "New classes cannot be created through the CMS."
+      - label: "Cause of Death"
+        name: "tags"
+        value_field: "id"
+        widget: "relation"
+        collection: "causes"
         search_fields: [id]
         multiple: true
         required: false
-      - label: 'Images'
-        name: 'images'
-        widget: 'list'
+      - label: "Images"
+        name: "images"
+        widget: "list"
         required: false
-      - label: 'Gender'
-        name: 'gender'
-        widget: 'select'
-        options: ['female', 'male', 'other']
-      - label: 'Obituary URL'
-        name: 'obituary'
-        widget: 'string'
+      - label: "Gender"
+        name: "gender"
+        widget: "select"
+        options: ["female", "male", "other"]
+      - label: "Obituary URL"
+        name: "obituary"
+        widget: "string"
         required: false
-      - label: 'Body'
-        name: 'body'
-        widget: 'markdown'
-  - name: 'tabs'
-    label: 'Tabs'
-    folder: '_tabs/'
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+  - name: "tabs"
+    label: "Tabs"
+    folder: "_tabs/"
     create: true
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
-      - label: 'Layout'
-        name: 'layout'
-        widget: 'select'
-        default: 'page'
+      - label: "Layout"
+        name: "layout"
+        widget: "select"
+        default: "page"
         options:
           - page
           - category
           - classes
-      - label: 'Title'
-        name: 'title'
-        widget: 'string'
-      - label: 'URL'
-        name: 'permalink'
-        widget: 'string'
-        hint: 'This is the token used for the page URL. Example: faq for /faq/.'
-      - label: 'Show in navigation?'
-        name: 'navigate'
-        widget: 'boolean'
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "URL"
+        name: "permalink"
+        widget: "string"
+        hint: "This is the token used for the page URL. Example: faq for /faq/."
+      - label: "Show in navigation?"
+        name: "navigate"
+        widget: "boolean"
         default: false
-        hint: 'Should this page show in the left column of the site?'
-      - label: 'Order in navigation'
-        name: 'order'
-        widget: 'number'
+        hint: "Should this page show in the left column of the site?"
+      - label: "Order in navigation"
+        name: "order"
+        widget: "number"
         default: 99
-        hint: 'If shown in the left column of the site, in what position?'
-      - label: 'Classes'
-        name: 'categories'
-        widget: 'list'
+        hint: "If shown in the left column of the site, in what position?"
+      - label: "Classes"
+        name: "categories"
+        widget: "list"
         default: []
-        hint: 'For a decade classes page, this will be a list of classes. Example: class-of-1990, class-of-1991, etc'
-      - label: 'Body'
-        name: 'body'
-        widget: 'markdown'
-  - name: 'causes'
-    label: 'Causes'
-    folder: '_cause/'
+        hint: "For a decade classes page, this will be a list of classes. Example: class-of-1990, class-of-1991, etc"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+  - name: "causes"
+    label: "Causes"
+    folder: "_cause/"
     create: true
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
-      - label: 'Layout'
-        name: 'layout'
-        widget: 'hidden'
-        default: 'tag'
-      - label: 'Title'
-        name: 'title'
-        widget: 'string'
-      - label: 'Identifier'
-        name: 'id'
-        widget: 'string'
-        hint: 'This is the id used in post causes.'
-      - label: 'Body'
-        name: 'body'
-        widget: 'markdown'
-media_folder: '/assets'
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "tag"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Identifier"
+        name: "id"
+        widget: "string"
+        hint: "This is the id used in post causes."
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+media_folder: "/assets"
 public_folder: "/assets"
 site_url: https://ihsmemorial.org

@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1973/daniel-c-bateman-1.png
 gender: male
 ---
+
 Danny died in 1988.

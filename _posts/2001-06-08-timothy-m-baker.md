@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1983/timothy-m-baker-1.png
 gender: male
 ---
+
 Tim died on June 8, 2001.

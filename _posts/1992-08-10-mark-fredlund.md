@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1980/mark-fredlund-1.png
 gender: male
 ---
+
 Mark died on Aug 10, 1992.

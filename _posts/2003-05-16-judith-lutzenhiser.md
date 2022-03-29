@@ -11,4 +11,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=judith-sue-lutzenhiser-betheney-lamera&pid=1031983
 gender: female
 ---
+
 Judy, aka Judith Sue "Betheney Lamera" Lutzenhiser, died surrounded by her family and friends in Seattle, WA on May 16, 2003. She was 47 years old.

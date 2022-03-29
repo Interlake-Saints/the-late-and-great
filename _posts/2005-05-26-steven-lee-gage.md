@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1987/steven-l-gage-1.png
 gender: male
 ---
+
 Steven died on May 26, 2005.

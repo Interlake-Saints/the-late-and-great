@@ -13,6 +13,7 @@ images:
   - /assets/class-of-1973/charles-m-clise-2.png
 gender: male
 ---
-Charlie died in a car accident on the same day he graduated from college.  He passed away on June 16, 1978. 
+
+Charlie died in a car accident on the same day he graduated from college. He passed away on June 16, 1978.
 
 Sadly, his sister [Nancy](https://ihsmemorial.org/class-of-1974/nancy-rosalind-clise/) also died in an accident, two and a half years later. She is also listed on the IHS Memorial Page, under the class of 1974.

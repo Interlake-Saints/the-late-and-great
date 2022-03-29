@@ -11,4 +11,5 @@ images:
 gender: male
 obituary: http://whidbeymemorial.frontrunnerpro.com/book-of-memories/1118868/Bradley-De-Rouchey/obituary.php
 ---
+
 Brad was known as a gifted drummer while in high school. He passed away in Oak Harbor on January 14th, 2012. He was 57 years old.

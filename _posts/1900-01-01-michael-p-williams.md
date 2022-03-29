@@ -10,5 +10,3 @@ images:
   - /assets/class-of-1988/michael-p-williams-1.png
 gender: male
 ---
-
-

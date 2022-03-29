@@ -9,4 +9,5 @@ images:
   - /assets/jamesharrison69.png
 gender: male
 ---
+
 James died in Wenatchee on September 18, 2021. He was 69 years old.

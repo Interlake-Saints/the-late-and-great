@@ -12,4 +12,5 @@ images:
   - /assets/class-of-2001/fabien-coutard-1.jpg
 gender: male
 ---
+
 Fabien died on October 6, 2005 at Harborview Medical Center in Seattle, after injuries sustained in a car accident in rural Ellensburg. He was a 22 year track and field student-athlete at Central Washington at the time.

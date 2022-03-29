@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1975/cynthia-meade-1.png
 gender: female
 ---
+
 Cynthia died in Tucson, Arizona of breast cancer at the age of 49.

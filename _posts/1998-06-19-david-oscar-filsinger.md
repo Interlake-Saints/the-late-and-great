@@ -10,4 +10,5 @@ images:
 obituary: https://news.google.com/newspapers?nid=1310&dat=19980623&id=WExWAAAAIBAJ&sjid=7esDAAAAIBAJ&pg=5860%2C6194183
 gender: male
 ---
+
 Dave passed away on June 19, 1998. He was 42 years old.

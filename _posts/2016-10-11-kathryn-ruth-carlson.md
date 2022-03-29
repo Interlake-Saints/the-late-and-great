@@ -13,4 +13,5 @@ images:
 obituary: https://www.legacy.com/obituaries/dfw/obituary.aspx?n=Kathryn-Hoffman&pid=182255525
 gender: female
 ---
-Kathryn, aka Kathryn "Kat" Hoffman, passed away on Oct. 11, 2016, after a 15-month battle with metastatic brain tumors.  She was 49 years old.
+
+Kathryn, aka Kathryn "Kat" Hoffman, passed away on Oct. 11, 2016, after a 15-month battle with metastatic brain tumors. She was 49 years old.

@@ -1,11 +1,10 @@
 ---
 layout: page
 ---
-{% assign page_id = page.url | remove: "/" %}
-{% assign posts = site.categories[page_id] %}
-{% if posts %}
-  {% assign posts = posts | sort: "sortKey" %}
-{% endif %}
+
+{% assign page_id = page.url | remove: "/" %} {% assign posts =
+site.categories[page_id] %} {% if posts %} {% assign posts = posts | sort:
+"sortKey" %} {% endif %}
 <div id="page-category">
   <h1 class="pl-lg-2">
     <i class="far fa-folder-open fa-fw text-muted"></i>
@@ -14,11 +13,14 @@ layout: page
   </h1>
   <ul class="post-content pl-0">
     {% for post in posts %}
-      <li class="d-flex justify-content-between pl-md-3 pr-md-3">
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <span class="dash flex-grow-1"></span>
-        <span class="text-muted small">{% if post.dateUnknown %}Unknown{% else %}{{ post.date | date: site.data.date_format.post.long }}{% endif %}</span>
-      </li>
+    <li class="d-flex justify-content-between pl-md-3 pr-md-3">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="dash flex-grow-1"></span>
+      <span class="text-muted small"
+        >{% if post.dateUnknown %}Unknown{% else %}{{ post.date | date:
+        site.data.date_format.post.long }}{% endif %}</span
+      >
+    </li>
     {% endfor %}
   </ul>
 </div>

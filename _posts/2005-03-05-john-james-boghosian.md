@@ -10,4 +10,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=John-Boghosian&pid=3312317
 gender: male
 ---
+
 John passed away at the age of 43 on March 5, 2005. He worked as a recording engineer and sound editor for many years prior to his passing.

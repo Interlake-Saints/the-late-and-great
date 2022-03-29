@@ -7,4 +7,5 @@ order: 7
 categories:
   - class-of-2022
 ---
- .
+
+.

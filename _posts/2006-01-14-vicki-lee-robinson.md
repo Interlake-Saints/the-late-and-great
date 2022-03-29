@@ -12,4 +12,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Vicki-Robinson&pid=16379814
 gender: female
 ---
+
 Vicki passed away on January 14th, 2006 after a courageous battle with cancer. She was 53 years old.

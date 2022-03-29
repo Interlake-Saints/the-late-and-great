@@ -11,4 +11,5 @@ images:
 obituary: https://www.dignitymemorial.com/obituaries/bremerton-wa/thomas-mahoney-8200198
 gender: male
 ---
+
 Tom worked for the Washington State Ferry System for 27 years as a Marine Engineer. He passed away peacefully at his home on Sunday, March 10, 2019, with his loving family by his side. He was 54 years old.

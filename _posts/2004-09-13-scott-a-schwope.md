@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1976/scott-a-schwope-1.png
 gender: male
 ---
-Scott died on September 13, 2004.  He is buried at Sunset Hills Memorial Park in Bellevue.
+
+Scott died on September 13, 2004. He is buried at Sunset Hills Memorial Park in Bellevue.

@@ -14,4 +14,5 @@ images:
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Gerald-Rehberger&pid=104697538
 ---
+
 Jerry Rehberger, an outgoing adventurous man of good will, died February 21, 2008, in Ft. Pierce, Florida. Jerry died instantly when a driver turned left across his path on highway US 1. Jerry was 41 years old.

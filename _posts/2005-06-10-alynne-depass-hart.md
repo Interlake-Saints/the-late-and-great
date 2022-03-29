@@ -13,4 +13,5 @@ images:
 gender: female
 obituary: http://alynne-jacques.memory-of.com/About.aspx
 ---
+
 Alynne, aka Alynne DePass Hart Jacques, passed away on June 10, 2005 after a long battle with breast cancer. She was 54.

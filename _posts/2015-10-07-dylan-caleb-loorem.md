@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1999/dylan-caleb-loorem-2.jpg
 gender: male
 ---
+
 Dylan passed away peacefully in his sleep on October 7, 2015, in Philadelphia from an undiagnosed heart condition. He was 34 years old.

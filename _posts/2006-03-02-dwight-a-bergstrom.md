@@ -13,4 +13,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Dwight-Bergstrom&pid=16999938
 gender: male
 ---
+
 Dwight died on March 2, 2006 after a long battle with cancer.

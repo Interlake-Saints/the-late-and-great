@@ -13,4 +13,5 @@ images:
 obituary: https://www.dignitymemorial.com/obituaries/bonita-ca/lisa-johnson-6778490
 gender: female
 ---
-Lisa was a special education teacher and a resource specialist in the Chula Vista, California school district. She passed away due to metastatic breast cancer in Richland, WA on January 24, 2016.  She was 42 years old.
+
+Lisa was a special education teacher and a resource specialist in the Chula Vista, California school district. She passed away due to metastatic breast cancer in Richland, WA on January 24, 2016. She was 42 years old.

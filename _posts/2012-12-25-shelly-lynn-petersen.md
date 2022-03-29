@@ -13,4 +13,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=162356815
 gender: female
 ---
+
 Shelly, aka Shelly Petersen-Bartholomew, fought cancer for more than a year before passing away peacefully on Christmas morning, 2012.

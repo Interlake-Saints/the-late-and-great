@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1982/lori-leann-oblad-1.png
 gender: female
 ---
+
 Lori passed away on August 15, 2013. She was 49 years old.

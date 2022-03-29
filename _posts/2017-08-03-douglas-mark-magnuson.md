@@ -13,4 +13,5 @@ images:
 obituary: https://www.yatesfuneralhomes.com/obituaries/obituary-listings?obId=2477717#/obituaryInfo
 gender: male
 ---
+
 Douglas Mark Magnuson, of Coeur d' Alene, Idaho, passed away at his home on August 3, 2017 after a strong, courageous battle with cancer, his family steadfastly by his side. He was 60 years old.

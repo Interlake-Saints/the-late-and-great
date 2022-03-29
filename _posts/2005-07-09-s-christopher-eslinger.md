@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1979/s-christopher-eslinger-1.png
 gender: male
 ---
+
 Christopher, a copyright/trademark attorney for Intel, died after a swimming accident in Maryville, Illinois on July 9, 2005. He was 40.

@@ -13,4 +13,5 @@ images:
 obituary: https://www.flintofts.com/obituary/Rebecca-Anne-Metzer/Kirkland-Washington/1752076
 gender: female
 ---
+
 Becky Metzer, of Sammamish, died peacefully on Monday, August 28th, 2017 after a long battle with Lewy body dementia. She was 61 years old.

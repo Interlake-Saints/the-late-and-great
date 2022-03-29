@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1973/thomas-t-maxand-1.png
 gender: male
 ---
+
 Tom died on July 25th, 1998. He was 43 years old.

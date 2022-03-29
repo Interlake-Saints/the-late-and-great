@@ -13,4 +13,5 @@ images:
   - /assets/class-of-1988/daniel-w-twito-1.jpg
 gender: male
 ---
+
 Dan passed away peacefully from a pulmonary embolism during surgery on March 9, 2008. It was obvious he was dearly loved by the standing room only memorial service.

@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1972/reed-kushner-1.png
 gender: male
 ---
+
 Reed died on May 13, 1989. He was 35 years old. He lived in Palm Springs, CA at the time, but is buried in Bellevue.

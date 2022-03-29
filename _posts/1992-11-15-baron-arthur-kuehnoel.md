@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1982/baron-arthur-kuehnoel-1.png
 gender: male
 ---
+
 Barry died on November 15, 1992.

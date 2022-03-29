@@ -12,7 +12,8 @@ images:
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=robert-pickering-bob&pid=160016407
 ---
-Dr. Pickering - "Doc Pic" - was the much-loved and highly-respected principal at Interlake between 1970 until 1986. Prior to that, he was vice-principal at Highland and then also at Odle. 
+
+Dr. Pickering - "Doc Pic" - was the much-loved and highly-respected principal at Interlake between 1970 until 1986. Prior to that, he was vice-principal at Highland and then also at Odle.
 
 He passed away on September 15, 2012, at San Juan Rehabilitation and Care Center in Anacortes. He was 83 years old.
 

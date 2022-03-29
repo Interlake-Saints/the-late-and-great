@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1988/troy-l-tuor-3.jpg
 gender: male
 ---
+
 Troy passed away on January 29, 2004 at Overlake Hospital. In his honor, a bench with his name on it was installed in Ivanhoe Park.

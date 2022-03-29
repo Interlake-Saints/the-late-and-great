@@ -13,4 +13,5 @@ images:
   - /assets/class-of-1976/carl-e-granberg-2.jpg
 gender: male
 ---
+
 Carl died on Monday, January 27, 2014, at Grays Harbor Community Hospital in Aberdeen after a pulmonary embolism. He was 55 years old.

@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1979/michael-c-mcgrew-1.png
 gender: male
 ---
+
 Michael died in Bellevue on February 13, 1988.

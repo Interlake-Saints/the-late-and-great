@@ -11,6 +11,7 @@ images:
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=John-Schindele&pid=171187024
 ---
+
 John Schindele was a math teacher, but was also Interlake's first head football coach. He was only at the school for four years, but he managed to compile the most impressive record of a new school in Kingco history. The Saints went 35-2-1 in his four years as head coach, culminating in an undefeated 1970 season, and an unofficial state championship. "He got the utmost out of every member of the team," stated a tribute printed to him in the 1971 yearbook, "He took a mediocre player and made him good, and a good player great." In recognition for his four years as Interlake's head coach, his players awarded him and his wife an all-expenses paid trip to Pasadena to go to the Rose Bowl.
 
 John would later coach football for Sammamish, and he then spent over thirty years working in the scouting department for the Seattle Seahawks.

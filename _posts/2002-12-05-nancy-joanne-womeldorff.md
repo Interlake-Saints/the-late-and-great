@@ -12,4 +12,5 @@ tags:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Nancy-Robb&pid=646808
 gender: female
 ---
+
 Nancy, aka Nancy Joann Womeldorff Robb, died on December 5, 2002 after a long struggle with cancer and mental illness. She was 40 years old.

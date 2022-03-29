@@ -11,4 +11,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=kent-scott-schliiter&pid=154620476
 gender: male
 ---
+
 Kent passed away on November 7, 2011 in Seattle following a two year illness. He was 43 years old.

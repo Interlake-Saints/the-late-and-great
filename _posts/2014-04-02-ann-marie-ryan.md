@@ -11,4 +11,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=ann-m-ryan&pid=170871715
 gender: female
 ---
+
 Ann served as the assistant Attorney General for the State of Washington. She died at her home in Lacey, WA on April 2, 2014. She was 55 years old.

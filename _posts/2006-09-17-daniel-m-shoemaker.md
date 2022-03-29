@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1979/daniel-m-shoemaker-1.png
 gender: male
 ---
+
 Daniel lost a brave battle to cancer in Richland, WA on September 17, 2006. He was 44.

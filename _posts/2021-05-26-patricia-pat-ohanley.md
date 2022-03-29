@@ -12,6 +12,7 @@ images:
 gender: female
 obituary: https://www.homewardpet.org/blog/in-memoriam-patricia-ohanley/
 ---
+
 Most of her students at the time did not know this, but Pat was actually a lawyer as well as a high school teacher. Her day often consisted of teaching at IHS until noon, and then practicing law for the rest of the day. Because of her unique background in the law, she was well known at Interlake over the years for teaching social studies, civil liberties, English, and journalism. She also advised many, many clubs over the years, and pretty much ran the Soothsayer newspaper, as well as the yearbook. By the mid-'80s, Interlake yearbooks were often just referred to as "Pat O'Hanley Productions."
 
 Pat graduated from high school at 16, and had earned her B.A. and Master's by the age of 22. She started teaching high school in 1960, and wound up at Interlake starting in 1972. She became the advisor of the Soothsayer and the yearbook a year later, and she stayed there in that position for nearly twenty-five years. And she was always very passionate about the law, often taking her civil liberties classes into the courtroom to see the law in action, and also chaperoning a yearly trip to Washington D.C., so IHS students could witness their government.

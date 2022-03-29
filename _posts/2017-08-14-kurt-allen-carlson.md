@@ -14,4 +14,5 @@ images:
 obituary: https://www.legacy.com/obituaries/azcentral/obituary.aspx?pid=186466734
 gender: male
 ---
-Kurt was a highly respected police officer in Mesa, Arizona.  He was on a yearly motorcycle trip in Washington State with two other friends when he died in an accident near Twisp on August 14, 2017.  He was 42 years old.
+
+Kurt was a highly respected police officer in Mesa, Arizona. He was on a yearly motorcycle trip in Washington State with two other friends when he died in an accident near Twisp on August 14, 2017. He was 42 years old.

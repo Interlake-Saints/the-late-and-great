@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1982/john-charles-moore-1.png
 gender: male
 ---
+
 John died in 1982, possibly in a fall at Snoqualmie Falls soon after high school.

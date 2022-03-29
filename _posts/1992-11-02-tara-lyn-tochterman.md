@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1987/tara-l-tochterman-1.png
 gender: female
 ---
+
 Tara died on November 2, 1992. She was 25.

@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1996/brian-s-brown-1.jpg
 gender: male
 ---
-Brian, who most people knew as Quimby, passed away on December 17, 2015, after a long battle with multiple sclerosis.  His family will remember him as a loving, gentle soul, who particularly loved animals, children and nature.
+
+Brian, who most people knew as Quimby, passed away on December 17, 2015, after a long battle with multiple sclerosis. His family will remember him as a loving, gentle soul, who particularly loved animals, children and nature.

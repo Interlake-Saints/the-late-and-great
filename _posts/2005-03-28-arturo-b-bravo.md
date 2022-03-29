@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1988/arturo-b-bravo-1.png
 gender: male
 ---
+
 Arthur died on March 28, 2005.

@@ -11,4 +11,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Janis-England&pid=155461364
 gender: female
 ---
+
 Jan passed away on January 2, 2012. She was 52 years old.

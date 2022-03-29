@@ -2,9 +2,9 @@
 layout: page
 label: By Cause
 ---
-{% assign tokens = page.id | split: "/" %}
-{% assign page_id = tokens[2] %}
-{% assign posts = site.tags[page_id] %}
+
+{% assign tokens = page.id | split: "/" %} {% assign page_id = tokens[2] %} {%
+assign posts = site.tags[page_id] %}
 <div id="page-tag">
   <h1 class="pl-lg-2">
     <i class="fa fa-tag fa-fw text-muted"></i>
@@ -17,7 +17,10 @@ label: By Cause
     <li class="d-flex justify-content-between pl-md-3 pr-md-3">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <span class="dash flex-grow-1"></span>
-      <span class="text-muted small">{% if post.dateUnknown %}Unknown{% else %}{{ post.date | date: site.data.date_format.post.long }}{% endif %}</span>
+      <span class="text-muted small"
+        >{% if post.dateUnknown %}Unknown{% else %}{{ post.date | date:
+        site.data.date_format.post.long }}{% endif %}</span
+      >
     </li>
     {% endfor %}
   </ul>

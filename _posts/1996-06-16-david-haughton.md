@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1994/david-haughton-2.jpg
 gender: male
 ---
-David died at Snoqualmie Falls on June 16, 1996.  He was a 19 year old student at Whitman College at the time.  A memorial to him was printed in the 1996 IHS yearbook.
+
+David died at Snoqualmie Falls on June 16, 1996. He was a 19 year old student at Whitman College at the time. A memorial to him was printed in the 1996 IHS yearbook.

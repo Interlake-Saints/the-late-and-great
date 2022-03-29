@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1971/carolyn-k-mcintyre-2.png
 gender: female
 ---
+
 Carolyn was one of the major organizers of the Class of 1971 fundraising horse shows. She was a graduate of Olympia College and owner of Radiance Herbs in Olympia for many years. She passed away of pancreatic cancer on November 20, 2018.

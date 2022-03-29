@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1985/todd-w-skidmore-2.jpg
 gender: male
 ---
+
 Todd had a heart attack and passed away in his sleep on July 1, 2015.

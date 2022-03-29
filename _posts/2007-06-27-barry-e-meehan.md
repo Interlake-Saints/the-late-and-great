@@ -12,4 +12,5 @@ images:
 obituary: https://www.findagrave.com/memorial/98293351/barry-e-meehan
 gender: male
 ---
+
 Barry died on June 27, 2007 in a boating accident while vacationing with family in South Dakota. He was 43 years old.

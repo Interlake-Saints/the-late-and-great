@@ -7,4 +7,5 @@ categories:
   - class-of-1985
 gender: female
 ---
+
 Kelly died in Seattle on December 19, 1991.

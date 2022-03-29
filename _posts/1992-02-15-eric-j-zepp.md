@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1992/eric-j-zepp-1.png
 gender: male
 ---
+
 Eric died in Seattle on February 15, 1992.

@@ -10,4 +10,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=andrea-vizzare-magness&pid=153183069
 gender: female
 ---
+
 Andrea, aka Andrea Magness, died in her sleep at her Gig Harbor home on August 12, 2011. She was 56 years old.

@@ -10,4 +10,5 @@ images:
   - /assets/bergstrom1.jpg
 gender: female
 ---
+
 Marianne was a special education teacher at Interlake, in fact for many years she was the program coordinator for all developmentally disabled students. She passed away on December 11, 2021. She was 80 years old.

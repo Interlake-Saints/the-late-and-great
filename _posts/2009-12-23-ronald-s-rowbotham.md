@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1979/ronald-s-rowbotham-2.jpg
 gender: male
 ---
+
 Ron died of a heart attack in his home on December 23, 2009. He was 49.

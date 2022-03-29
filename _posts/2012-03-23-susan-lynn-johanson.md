@@ -13,4 +13,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?pid=157082637
 gender: female
 ---
+
 Susan passed away on March 23, 2012, after a courageous battle with cancer.

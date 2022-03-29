@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1976/theresa-kraft-jones-1.png
 gender: female
 ---
+
 Terri was also known as Theresa Kraft Jones

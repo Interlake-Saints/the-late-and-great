@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1972/robert-j-bacon-1.png
 gender: male
 ---
+
 Bob died in a car accident in 1979. He is buried in Sunset Hills Memorial Park in Bellevue.

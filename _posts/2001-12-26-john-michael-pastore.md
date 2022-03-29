@@ -11,4 +11,5 @@ images:
   - /assets/class-of-2002/john-michael-pastore-1.jpg
 gender: male
 ---
+
 John, aka Big John, was born with an enlarged heart. He passed away on December 26, 2001 when it gave out in his sleep. He had just turned 18.

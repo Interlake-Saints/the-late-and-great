@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1975/tami-henry-perez-1.png
 gender: female
 ---
+
 Tammy was in the class of 1975, however she graduated from high school in Florida. She died of cancer on August 12th, 2010.

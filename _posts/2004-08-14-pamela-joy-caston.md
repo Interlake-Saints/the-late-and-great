@@ -10,4 +10,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Pamela-Pahutski&pid=2522858
 gender: female
 ---
+
 Pam, aka Pamela Joy Caston Pahutski, passed away suddenly on August 14, 2004.

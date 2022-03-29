@@ -10,4 +10,3 @@ images:
   - /assets/class-of-1998/richard-e-jones-1.png
 gender: male
 ---
-

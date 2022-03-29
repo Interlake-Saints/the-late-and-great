@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1986/eric-d-mcclenon-2.jpg
 gender: male
 ---
+
 Eric died unexpectedly on June 23, 2016 at his home in Everett, WA.

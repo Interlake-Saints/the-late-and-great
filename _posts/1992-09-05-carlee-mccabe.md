@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1979/carly-mccabe-1.png
 gender: female
 ---
+
 Carlee died in Bellevue on September 5, 1992.

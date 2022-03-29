@@ -12,6 +12,7 @@ images:
 gender: male
 obituary: https://www.dignitymemorial.com/obituaries/bellevue-wa/max-martlin-10423214
 ---
+
 Max was killed in a tragic accident on October 24, 2021, in which he died along with his mother, fellow Interlake grad [Cami Menard Martlin](https://ihsmemorial.org/class-of-1980/camille-lynette-cami-menard/). They were driving home together from Fall City, after picking pumpkins for Halloween, when their car was unexpectedly crushed by a falling tree. They were both killed instantly. Max was only 22 years old.
 
 Cami and Max’s tragedy was featured all over the news in the days after it happened, and it made the national news too, eventually becoming a story in People Magazine.

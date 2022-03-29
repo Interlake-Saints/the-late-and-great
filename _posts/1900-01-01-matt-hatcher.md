@@ -8,5 +8,3 @@ categories:
   - class-of-1993
 gender: male
 ---
-
-

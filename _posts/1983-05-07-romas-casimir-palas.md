@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1983/romas-c-palas-1.png
 gender: male
 ---
-Romas died on May 7, 1983, during his senior year.  He died in a jeep accident at the Apple Blossom Festival.
+
+Romas died on May 7, 1983, during his senior year. He died in a jeep accident at the Apple Blossom Festival.

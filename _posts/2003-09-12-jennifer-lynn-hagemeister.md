@@ -10,4 +10,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Jennifer-Hagemeister&pid=1424975
 gender: female
 ---
+
 Jennifer died at the age of 34 on September 12, 2003.

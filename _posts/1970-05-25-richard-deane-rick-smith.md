@@ -13,4 +13,5 @@ images:
 gender: male
 obituary: https://www.findagrave.com/memorial/7964364/richard-deane-smith
 ---
+
 Richard Dean Smith, private first class USMC, was killed in action from multiple fragmentation wounds in a battle in Quang Nam Province, South Vietnam on May 25, 1970. His name is listed on panel 10w, row 100 on the Vietnam Memorial in Washington D.C.

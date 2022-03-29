@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1969/gary-l-stroeher-1.png
 gender: male
 ---
-Gary suffered a long illness before passing away in Walnut Creek, CA on June 4, 1992.  He was 41 years old.
+
+Gary suffered a long illness before passing away in Walnut Creek, CA on June 4, 1992. He was 41 years old.

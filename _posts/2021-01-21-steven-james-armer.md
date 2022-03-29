@@ -15,4 +15,5 @@ images:
 gender: male
 obituary: https://www.carmonfuneralhome.com/obituary/Steven-James-Armer/Windsor-CT/1884828
 ---
+
 My brother, Steven James Armer, Interlake High School class of 1972, passed on from lung cancer on January 21, 2021. A Celebration of Life service was held on Feb. 27, 2021, at Wintonbury Church in Bloomfield, CT.

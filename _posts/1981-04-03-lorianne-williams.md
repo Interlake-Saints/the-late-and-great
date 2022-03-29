@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1980/lorianne-williams-1.png
 gender: female
 ---
-Lorianne died in a car accident on April 3, 1981. 
+
+Lorianne died in a car accident on April 3, 1981.

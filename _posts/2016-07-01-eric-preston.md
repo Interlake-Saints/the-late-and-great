@@ -11,4 +11,5 @@ images:
   - /assets/class-of-2001/erik-preston-2.jpg
 gender: male
 ---
+
 Eric passed away in early to mid-2016.

@@ -12,4 +12,5 @@ images:
   - /assets/class-of-2000/richard-a-fields-ii-2.jpg
 gender: male
 ---
+
 Richard passed away on February 1, 2019 after a year-long battle with cancer. He was 37 years old.

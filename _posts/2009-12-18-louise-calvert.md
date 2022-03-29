@@ -11,4 +11,5 @@ images:
   - /assets/staff/louise-calvert-1.jpg
 gender: female
 ---
+
 Louise was a dedicated instructional assistant and substitute teacher at Interlake for over ten years. She died of cancer on December 18, 2009. She was 69 years old.

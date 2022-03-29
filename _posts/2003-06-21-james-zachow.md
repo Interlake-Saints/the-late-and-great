@@ -10,4 +10,5 @@ images:
 gender: male
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=james-franklin-zachow&pid=1109773
 ---
+
 James was a traffic safety instructor at Interlake. He passed away on June 21, 2003.

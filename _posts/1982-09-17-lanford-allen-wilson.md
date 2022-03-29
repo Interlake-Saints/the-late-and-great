@@ -7,4 +7,5 @@ categories:
   - class-of-1985
 gender: male
 ---
+
 Lanford died in Bellevue on September 17, 1982.

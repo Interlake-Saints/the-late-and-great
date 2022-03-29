@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1969/thomas-w-mccandless-2.jpg
 gender: male
 ---
+
 Thomas passed away at his home on March 16, 2011. He was 59 years old.

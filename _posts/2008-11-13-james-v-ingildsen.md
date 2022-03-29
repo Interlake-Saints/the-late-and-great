@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1974/james-v-ingildsen-1.png
 gender: male
 ---
-James died on November 13, 2008.  He was 53 years old.
+
+James died on November 13, 2008. He was 53 years old.

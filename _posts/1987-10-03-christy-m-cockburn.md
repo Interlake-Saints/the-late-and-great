@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1980/christy-m-cockburn-1.jpg
 gender: female
 ---
+
 Christy died in Bellevue on October 3, 1987.

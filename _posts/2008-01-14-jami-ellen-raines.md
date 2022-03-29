@@ -13,4 +13,5 @@ images:
   - /assets/class-of-1976/jami-e-raines-3.jpg
 gender: female
 ---
-Jami, aka Jami Raines-Shogren, died on Jan. 14, 2008, due to complications from cancer. 
+
+Jami, aka Jami Raines-Shogren, died on Jan. 14, 2008, due to complications from cancer.

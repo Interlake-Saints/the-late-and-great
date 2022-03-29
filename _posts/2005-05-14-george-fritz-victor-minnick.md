@@ -11,4 +11,5 @@ images:
   - /assets/class-of-1979/george-f-v-minnick-1.png
 gender: male
 ---
+
 George, who was an Air Force Veteran, passed away of sleep apnea in Bellevue on May 14, 2005.

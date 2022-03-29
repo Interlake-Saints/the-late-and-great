@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1972/david-g-hansen-1.png
 gender: male
 ---
-David died in Riverside, CA on May 15, 1986.  He was 32 years old.
+
+David died in Riverside, CA on May 15, 1986. He was 32 years old.

@@ -12,4 +12,5 @@ images:
 gender: male
 obituary: https://archive.seattletimes.com/archive/?date=19910313&slug=1271422
 ---
+
 Jack was the last person to die during Operation Desert Storm, on Feb 27, 1991. The helicopter he was piloting was shot down the day the cease fire was signed. Jack has a private memorial in the IHS arboretum.

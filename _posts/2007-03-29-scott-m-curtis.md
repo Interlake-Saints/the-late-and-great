@@ -9,4 +9,5 @@ images:
   - /assets/class-of-1981/scott-m-curtis-1.png
 gender: male
 ---
+
 Scott passed away in Bellevue on March 29, 2007.

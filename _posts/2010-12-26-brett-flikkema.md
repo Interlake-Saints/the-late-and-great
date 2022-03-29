@@ -10,4 +10,5 @@ images:
 obituary: https://www.legacy.com/obituaries/bozemandailychronicle/obituary.aspx?n=brett-flikkema&pid=147469578
 gender: male
 ---
+
 On Dec. 26, 2010, our loving son and brother, Brett Flikkema, left this earth suddenly for a quieter, calmer place. He was only 29 years old.

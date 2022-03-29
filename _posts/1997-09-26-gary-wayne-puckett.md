@@ -9,6 +9,7 @@ images:
   - /assets/puckett77.jpg
 gender: male
 ---
-Gary didn't technically graduate with the class of 1977, he only attended Interlake for his sophomore and junior years. He died of a self-inflicted gunshot wound in North Dakota on September 26, 1997.  
+
+Gary didn't technically graduate with the class of 1977, he only attended Interlake for his sophomore and junior years. He died of a self-inflicted gunshot wound in North Dakota on September 26, 1997.
 
 You can read more about Gary's story [here](https://archive.seattletimes.com/archive/?date=19971002&slug=2563678).

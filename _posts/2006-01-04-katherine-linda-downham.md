@@ -13,4 +13,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Katherine-Reese&pid=16385564
 gender: male
 ---
-Katy, also known as Katherine Downham Reese, was born in Surrey, England, and was a 1969 Interlake graduate.  She passed away on January 4, 2006 after a courageous battle with cancer.
+
+Katy, also known as Katherine Downham Reese, was born in Surrey, England, and was a 1969 Interlake graduate. She passed away on January 4, 2006 after a courageous battle with cancer.

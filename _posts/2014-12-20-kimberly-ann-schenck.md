@@ -13,4 +13,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=Kimberly-Schenck-Busek&pid=174603649
 gender: female
 ---
-Kim, aka Kimberly Schenck Busek, passed away on December 20, 2014 after an accidental fall.  She had lived in Colorado for the past 12 years.  Kim leaves behind four amazing children: one beautiful daughter and three terrific boys.  She is truly missed by those who knew her.
+
+Kim, aka Kimberly Schenck Busek, passed away on December 20, 2014 after an accidental fall. She had lived in Colorado for the past 12 years. Kim leaves behind four amazing children: one beautiful daughter and three terrific boys. She is truly missed by those who knew her.

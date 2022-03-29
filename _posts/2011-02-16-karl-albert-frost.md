@@ -10,4 +10,5 @@ images:
 obituary: https://www.legacy.com/obituaries/seattletimes/obituary.aspx?n=karl-a-frost&pid=149076998
 gender: male
 ---
+
 Karl passed away in Reno, NV on February 16, 2011. He was a respected geologist for many years prior to his passing.

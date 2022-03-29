@@ -11,7 +11,8 @@ images:
 gender: female
 obituary: https://www.wenatcheeworld.com/tributes/obituaries/karen-ann-hawkins-brown/article_9ee835ea-2ac5-5aae-b71f-a9e97d225c89.html
 ---
-Karen, aka Karen Ann Brown, graduated from Interlake in 1970, and continued her education at Western Washington University, where she received her B.A. in Elementary Education. She then taught first grade, kindergarten, and (mainly) pre-kindergarten for the next thirty-four years, mostly in Wenatchee at St. Paul's Lutheran School. 
+
+Karen, aka Karen Ann Brown, graduated from Interlake in 1970, and continued her education at Western Washington University, where she received her B.A. in Elementary Education. She then taught first grade, kindergarten, and (mainly) pre-kindergarten for the next thirty-four years, mostly in Wenatchee at St. Paul's Lutheran School.
 
 Sadly, Karen passed away on June 20, 2011. She was 58 years old.
 

@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1978/brad-e-lawrence-2.png
 gender: male
 ---
-Brad passed away on November 14, 2009.  He was 49 years old.
+
+Brad passed away on November 14, 2009. He was 49 years old.

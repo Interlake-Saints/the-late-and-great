@@ -10,4 +10,5 @@ images:
   - /assets/class-of-1975/toni-j-breidenbach-1.png
 gender: female
 ---
-Toni died in 1984. 
+
+Toni died in 1984.

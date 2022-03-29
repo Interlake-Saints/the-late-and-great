@@ -12,4 +12,5 @@ images:
   - /assets/class-of-1978/jenifer-f-moore-1.png
 gender: female
 ---
+
 Jenny died in a car accident near Big Bear, CA.

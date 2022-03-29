@@ -9,6 +9,7 @@ images:
   - /assets/staff/laura-cook-1.png
 gender: female
 ---
-Laura Cook was a typing and business machines teacher at Interlake for many years. 
+
+Laura Cook was a typing and business machines teacher at Interlake for many years.
 
 She passed away on May 4th, 2006.

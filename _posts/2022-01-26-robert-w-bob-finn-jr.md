@@ -11,4 +11,5 @@ images:
   - /assets/finnjr79.png
 gender: male
 ---
+
 Bob died of throat cancer on January 11, 2022.

@@ -10,6 +10,7 @@ images:
   - /assets/pardo1.jpg
 gender: male
 ---
+
 Don, whose nickname was "Don Pardo", died in Nevada on January 29, 2014.
 
 Sadly, Don's wife, [Melissa Garber](https://ihsmemorial.org/class-of-1986/melissa-garber/), is also listed on the IHS Memorial Wall. He was married to her at the time of her 1995 car crash.
