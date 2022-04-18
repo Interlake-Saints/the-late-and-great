@@ -7,6 +7,9 @@ categories:
   - class-of-1971
 tags:
   - als
+images:
+  - /assets/paulfrost2022.jpg
+  - /assets/paulfrost70.png
 gender: male
 obituary: https://tinyurl.com/paulfrost
 ---
