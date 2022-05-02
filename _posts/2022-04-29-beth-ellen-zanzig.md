@@ -11,6 +11,4 @@ images:
   - /assets/bethzanzig81.png
 gender: female
 ---
-aka Beth Ellen Lees
-
-TBD
+Beth, aka Beth Ellen Lees, fought a variety of serious health issues for the last twenty years of her life. Unfortunately, her struggle ended on the morning of March 13, 2022, when she died of sepsis. She was 59 years old. She leaves behind her sweetheart of many years, her husband James.
