@@ -7,6 +7,8 @@ categories:
   - class-of-1981
 tags:
   - infection
+images:
+  - /assets/bethzanzig81.png
 gender: female
 ---
 aka Beth Ellen Lees
