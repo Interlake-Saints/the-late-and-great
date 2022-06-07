@@ -7,12 +7,10 @@ categories:
   - class-of-1973
 tags:
   - cancer
+images:
+  - /assets/richkorb2020.jpg
 gender: male
 ---
-(under construction) Rich was full of life and energy and ambition until he had a short time of dealing with brain cancer. He was a teacher and administrator for 35 years. He also had several side businesses. He passed away October 28, 2020. Rich was a strong believer in Jesus and his salutation on his emails was "following the Shepherd home". He leaves behind his wife Jennie of 45 years, 3 children and 7 grandchildren.  
+Rich was full of life and energy and ambition. He was a teacher and administrator for thirty-five years. He also had several side businesses, and wrote several books. In 2013, as a reward for retiring, he rode his bike 1,860 miles on a dream trip, all the way from Washington State to Wisconsin. 
 
-Rich rewarded himself for retiring with this trip
-Wrote several books
-84-85 MLB groundskeeper
-
-1,860 mile bicycle trip from Washington State to Wisconsin 2013
+Rich was a strong believer in Jesus, and his salutation on his emails was always "following the Shepherd home." Sadly, he passed away on October 28, 2020, after a short valiant fight with brain cancer.  He leaves behind his wife of forty-five years, Jennie, as well as three children and seven grandchildren.
