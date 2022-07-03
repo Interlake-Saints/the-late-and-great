@@ -107,7 +107,6 @@ DEPENDENCIES
   html-proofer (~> 3.18)
   jekyll (>= 4.2.2)
   jekyll-theme-chirpy
-  kramdown (>= 2.3.1)
   nokogiri (>= 1.13.6)
   rake
   rexml (>= 3.2.5)

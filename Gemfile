@@ -6,7 +6,6 @@ gem "jekyll", ">=4.2.2"
 
 group :jekyll_plugins do
   gem "jekyll-theme-chirpy"
-  gem "kramdown", ">= 2.3.1"
   gem "rexml", ">= 3.2.5"
   gem "nokogiri", ">= 1.13.6"
 end
