@@ -37,7 +37,7 @@ endfor %} {% endif %} {% if paginator.page == 1 %} {{ content }} {% endif %}
         {% unless post.dateUnknown %}
         <!-- posted date -->
         <i class="far fa-calendar fa-fw"></i>
-        {% include timeago.html date=post.date tooltip=true %}
+        {{ post.date | date: "%b %d, %Y" }}
         <!-- page views -->
         {% if site.google_analytics.pv.enabled %}
         <i class="far fa-eye fa-fw"></i>

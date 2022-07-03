@@ -10,8 +10,7 @@ comments: true
       <div class="post-meta text-muted d-flex flex-column">
         <!-- Published date and author -->
         <div>
-          {% unless page.dateUnknown %}{% include timeago.html date=page.date
-          tooltip=true %}{% endunless %} by
+          {% unless page.dateUnknown %}{{ page. date | date: "%b %d, %Y" }}{% endunless %} by
           <span class="author"> {{ page.author | default: site.author }} </span>
         </div>
       </div>
