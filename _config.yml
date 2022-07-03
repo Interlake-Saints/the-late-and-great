@@ -107,6 +107,7 @@ exclude:
   - LICENSE
   - Rakefile
   - .tm_properties
+  - .github
 include:
   - _headers
 jekyll-archives:
