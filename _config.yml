@@ -106,7 +106,6 @@ exclude:
   - README.md
   - LICENSE
   - Rakefile
-  - .tm_properties
   - .github
 include:
   - _headers
