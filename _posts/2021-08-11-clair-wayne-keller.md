@@ -11,7 +11,6 @@ images:
   - /assets/keller2.png
   - /assets/keller3.png
 gender: male
-obituary: https://www.amestrib.com/obituaries/20180106/clair-wayne-keller
 ---
 
 When Interlake opened in 1967, Clair Keller was a member of the very first history department. He taught American History as part of an innovative new teaching team with Jim Morgan.

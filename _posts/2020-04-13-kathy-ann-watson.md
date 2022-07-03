@@ -8,7 +8,6 @@ categories:
 tags:
   - accident
   - traffic
-obituary: https://www.sigsfuneralservices.com/obituary/Kathy-Askew
 images:
   - /assets/class-of-1977/kathy-a-watson-1.jpg
   - /assets/class-of-1977/kathy-a-watson-2.jpg

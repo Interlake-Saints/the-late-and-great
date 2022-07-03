@@ -11,7 +11,6 @@ images:
   - /assets/slawson2020_2.jpg
   - /assets/slawson82.jpg
 gender: male
-obituary: https://funerals.coop/obituaries/keith-slawson.html
 ---
 
 Keith graduated from the University of Washington in 1987 with a BA in graphic design, and he later worked at several Seattle advertising agencies and design firms. His favorite job title was Transmogrifier — defined as “one who transforms in a surprising or magical manner.” This title certainly described what he loved to do, both professionally and personally.
