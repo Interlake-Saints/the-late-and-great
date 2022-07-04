@@ -15,13 +15,3 @@ desc "Clean up"
 task :clean do
   sh "rm -rf ./_site ./.jekyll-cache ./.jekyll-metadata"
 end
-
-desc "Start up the site"
-task go: %w[clean] do
-  sh "bundle exec jekyll serve --livereload"
-end
-
-desc "Optimize images"
-task :optimize do
-  sh "imageoptim '**/*.jpg' '**/*.jpeg'"
-end

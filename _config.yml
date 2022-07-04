@@ -107,6 +107,7 @@ exclude:
   - LICENSE
   - Rakefile
   - .github
+  - script
 include:
   - _headers
 jekyll-archives:

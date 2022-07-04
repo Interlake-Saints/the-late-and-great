@@ -1,12 +1,89 @@
-# ihsmemorial.org
+<div align="center">
+  <h1>ihsmemorial.org</h1>
+  <p>
+    site to notify those of us who attended Interlake High School of the classmates we've lost
+  </p>
+  <!-- Badges -->
+  <p>
+    <a href="">
+      <img src="https://api.netlify.com/api/v1/badges/99da697e-e799-4653-860a-835d4e2dbacb/deploy-status" alt="Netlify status" />
+    </a>
+  </p>
+</div>
 
-site to notify those of us who attended Interlake High School of the classmates we've lost
+<br />
 
-## Build
+<!-- Table of Contents -->
+# :notebook_with_decorative_cover: Table of Contents
 
-Tasks are managed with rake.
+- [Tech Stack](#space_invader-tech-stack)
+- [Getting Started](#toolbox-getting-started)
+  * [Run Locally](#running-run-locally)
+  * [How to author entries](#how-to-author-entries)
+- [License](#warning-license)
 
-This site is written with jekyll. For more on jekyll see https://jekyllrb.com/docs/.
+<!-- TechStack -->
+### :space_invader: Tech Stack
+
+<details>
+  <summary>Posts</summary>
+  <ul>
+    <li><a href="https://jekyllrb.com/docs/">Jekyll</a></li>
+    <li><a href="https://www.netlifycms.org/">Netlify CMS content management</a></li>
+    <li><a href="https://www.netlify.com/">Netlify hosting</a></li>
+    <li><a href="https://www.netlify.com/">Netlify DNS</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Analytics</summary>
+  <ul>
+    <li><a href="https://segment.com/">Segment third-party integrations</a></li>
+    <li><a href="https://analytics.google.com">Google Analytics</a></li>
+    <li><a href="https://aws.amazon.com/s3/">AWS S3 logs</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Comments</summary>
+  <ul>
+    <li><a href="https://disqus.com/">Disqus comments</a></li>
+  </ul>
+</details>
+
+calef maintains the access credentials for these resources.
+
+<!-- Getting Started -->
+## 	:toolbox: Getting Started
+
+<!-- Run Locally -->
+### :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:Interlake-Saints/ihsmemorial.org.git
+```
+
+Go to the project directory
+
+```bash
+  cd ihsmemorial.org
+```
+
+Install dependencies
+
+```bash
+  ./script/bootstrap
+```
+
+Start the server
+
+```bash
+  ./script/server
+```
+
+### :write: How to author entries
 
 Entries are in \_posts. Each field means as follows:
 
@@ -16,18 +93,9 @@ Entries are in \_posts. Each field means as follows:
 - tags: The causes of death. Use the tags in \_cause.
 - images: A list of URLs to images. Ideally local images such as "/assets/241166_1771058511999_6511222_o.jpg"
 
-The current build status is [![Netlify Status](https://api.netlify.com/api/v1/badges/99da697e-e799-4653-860a-835d4e2dbacb/deploy-status)](https://app.netlify.com/sites/nostalgic-mestorf-f3c08f/deploys).
+You can create entries via <a href="https://ihsmemorial.org/admin">Netlify CMS</a>.
 
-The site has the following dependencies:
+<!-- License -->
+## :warning: License
 
-- Segment.com for third party integrations
-- Google Analytics for analytics
-- Amazon S3 for logs
-- Disqus for comments
-- Netlify CMS for content management
-- Netlify for hosting
-- Netlify for DNS
-
-calef maintains the access credentials for these resources.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Interlake-Saints/ihsmemorial.org)
+Distributed under the CC0 1.0 Universal License. See LICENSE for more information.
