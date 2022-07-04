@@ -83,7 +83,7 @@ Start the server
   ./script/server
 ```
 
-### :write: How to author entries
+### :pen: How to author entries
 
 Entries are in \_posts. Each field means as follows:
 
