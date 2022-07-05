@@ -5,6 +5,8 @@ sortKey: Najera, Juan
 date: 2022-03-25
 categories:
   - class-of-2022
+images:
+  - /assets/najera1.png
 gender: male
 ---
 Juan Carlos Najera, also known as Juan Carlos Najera-Chocoj, was the youngest of three brothers from Guatemala. He was a senior at Interlake in 2022, and he hoped to graduate in the summer, days before his 18th birthday. 
