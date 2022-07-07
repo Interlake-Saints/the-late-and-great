@@ -9,12 +9,6 @@ tags:
   - accident
 gender: female
 ---
-Anjelika Holland, 21, of Bellevue, died at the scene of the Nov. 24 crash along northbound I-5 just south of South 188th Street. Arista Holland died Nov. 28 at Harborview Medical Center in Seattle, according to the King County Medical Examiner’s Office.
+Anjelika died in a car crash on I-5 just south of Southcenter, on November 24, 2018. She was driving south on the freeway when the car in front of her slowed due to traffic. Holland swerved, but she hit the vehicle in front of her and then wound up impacting a guardrail. This led to her being hit by two other cars, the second of which killed her. She was only 21 years old.
 
-“Thank you so much for everyone who has supported this heartbreaking tragedy,” said Katy Freiberg, mother of Anjelika on a GoFundMe account for her daughter’s funeral expenses. “Bless everyone who has contributed and poured their heart into this. Nobody knows when their expiration date is up.”
-
-Holland was driving a 2003 Saturn L200 when the car in front of her slowed due to traffic. Holland swerved, but hit the vehicle in front of her and a guardrail before a third vehicle hit the Saturn, which came to a rest in the fourth and fifth lanes facing the wrong direction.
-
-A fourth car then struck the Saturn. Holland was ejected from the vehicle and died at the scene. 
-
-The driver and a passenger in the fourth vehicle, a 2017 Toyota Highlander, were treated for injuries at the scene. Nobody else was injured. The Saturn and Toyota Highlander were each totaled.
+Tragically, Anjelika's six month old daughter, Arista, also died as a result of the crash. She was in the backseat of the car at the time of the accident, making this a double tragedy.
