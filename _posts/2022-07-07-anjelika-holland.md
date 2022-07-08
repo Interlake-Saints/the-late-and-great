@@ -7,6 +7,8 @@ categories:
   - class-of-2015
 tags:
   - accident
+images:
+  - /assets/anjelika2.jpg
 gender: female
 ---
 Anjelika died in a car crash on I-5 just south of Southcenter, on November 24, 2018. She was driving south on the freeway when the car in front of her slowed due to traffic. Holland swerved, but she hit the vehicle in front of her and then wound up impacting a guardrail. This led to her being hit by two other cars, the second of which killed her. She was only 21 years old.
