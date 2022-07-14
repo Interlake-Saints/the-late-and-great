@@ -7,6 +7,8 @@ categories:
   - staff
 tags:
   - liver-failure
+images:
+  - /assets/seeley2.png
 gender: male
 ---
 Gordon Seeley was a special education teacher at Interlake during the late 60s/early 70s. He died of liver disease on February 13, 1999.
