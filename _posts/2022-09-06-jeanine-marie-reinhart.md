@@ -5,6 +5,8 @@ sortKey: Reinhart, Jeanine
 date: 2022-08-05
 categories:
   - class-of-1985
+images:
+  - /assets/jreinhart.jpg
 gender: female
 ---
 TBD
