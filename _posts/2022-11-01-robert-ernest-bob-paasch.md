@@ -5,6 +5,8 @@ sortKey: Paasch, Bob
 date: 2022-07-29
 categories:
   - class-of-1971
+images:
+  - /assets/bobpaasch71.png
 gender: male
 ---
 T﻿BD
