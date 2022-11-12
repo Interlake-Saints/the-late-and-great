@@ -6,6 +6,4 @@ gem "jekyll"
 
 group :jekyll_plugins do
   gem "jekyll-theme-chirpy", "3.2.2"
-  gem "rexml", ">= 3.2.5"
-  gem "nokogiri", ">= 1.13.6"
 end
