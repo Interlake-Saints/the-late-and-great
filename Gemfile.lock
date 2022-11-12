@@ -52,7 +52,7 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-chirpy (5.3.1)
+    jekyll-theme-chirpy (3.2.2)
       jekyll (~> 4.1)
       jekyll-archives (~> 2.2)
       jekyll-paginate (~> 1.1)
@@ -107,8 +107,8 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 4.2)
-  jekyll (>= 4.2.2)
-  jekyll-theme-chirpy (>= 3.2.2)
+  jekyll
+  jekyll-theme-chirpy (= 3.2.2)
   nokogiri (>= 1.13.6)
   rake
   rexml (>= 3.2.5)
