@@ -15,4 +15,4 @@ C﻿heryl lived in Satsop, WA, where she loved animals, loved gardening, and lov
 
 S﻿he is survived by her mother, Edna Anderson, and her son, Brandon Anderson, who both live in Lacey. She was preceded in death by her father, John Anderson. 
 
-Her friends miss Cheryl and still think about her every day.
+C﻿heryl's friends miss her and still think about her every day.
