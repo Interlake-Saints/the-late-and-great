@@ -41,7 +41,7 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-chirpy (3.2.2)
+    jekyll-theme-chirpy (5.3.2)
       jekyll (~> 4.1)
       jekyll-archives (~> 2.2)
       jekyll-paginate (~> 1.1)
@@ -82,7 +82,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-theme-chirpy (= 3.2.2)
+  jekyll-theme-chirpy (= 5.3.2)
 
 BUNDLED WITH
    2.2.28
