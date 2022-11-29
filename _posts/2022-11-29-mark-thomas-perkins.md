@@ -7,6 +7,9 @@ categories:
   - class-of-1975
 tags:
   - accident
+images:
+  - /assets/markperkins.jpg
+  - /assets/markperkins75.png
 gender: male
 ---
 E﻿ntry coming soon
