@@ -9,6 +9,7 @@ images:
   - /assets/hilton4.jpg
   - /assets/hiltonmitchell2.png
 gender: male
-obituary: https://www.thefactsnewspaper.com/post/in-loving-memory-of-hilton-edward-mitchell
+obituary: /assets/hilton80.jpg,
+  https://www.thefactsnewspaper.com/post/in-loving-memory-of-hilton-edward-mitchell
 ---
 E﻿ntry coming soon
