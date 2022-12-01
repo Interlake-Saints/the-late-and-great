@@ -5,6 +5,8 @@ sortKey: Dooley, Annette
 date: 2022-10-30
 categories:
   - staff
+images:
+  - /assets/annettedooley.jpg
 gender: female
 ---
 Entry coming soon.
