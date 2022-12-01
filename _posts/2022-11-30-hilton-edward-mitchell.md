@@ -9,8 +9,7 @@ images:
   - /assets/hilton4.jpg
   - /assets/hilton80.jpg
 gender: male
-obituary: /assets/hilton80.jpg,
-  https://www.thefactsnewspaper.com/post/in-loving-memory-of-hilton-edward-mitchell
+obituary: https://www.thefactsnewspaper.com/post/in-loving-memory-of-hilton-edward-mitchell
 ---
 Hilton was a standout athlete at Interlake, who was not only named "most athletic" in the 1980 yearbook, he was also the MVP of the basketball team, and was voted "most inspirational member" of the football team. Even though he was short in stature, he thrilled people with his amazing athletic abilities, his ability as a teammate, and his quickness.
 
