@@ -7,7 +7,6 @@ categories:
   - class-of-1980
 images:
   - /assets/hilton4.jpg
-  - /assets/hiltonmitchell2.png
   - /assets/hilton80.jpg
 gender: male
 obituary: /assets/hilton80.jpg,
