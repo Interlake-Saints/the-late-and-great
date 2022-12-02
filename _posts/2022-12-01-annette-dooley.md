@@ -9,8 +9,9 @@ tags:
   - cancer
 images:
   - /assets/annettedooley.jpg
+  - /assets/mrsdooley92.jpg
 gender: female
 ---
-Entry coming soon.
+Annette Dooley, aka Annette Dooley Hoelscher, was a Spanish teacher at Interlake from the early 90s through the early 2000s. She was an incredible teacher, friend, and mentor to many.
 
-S﻿panish teacher,. aka Annette Dooley Hoelscher. 90's-200's.
+She passed away peacefully on October 30, 2022, after a battle with cancer.
