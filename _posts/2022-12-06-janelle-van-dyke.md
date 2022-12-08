@@ -15,4 +15,4 @@ Janelle, who was also known as Janelle Van Dyke-Roberts and Janelle Roberts Heal
 
 Janelle struggled with lung cancer before passing away on June 24, 2022.
 
-"To you, ma. May your memory follow all those who you loved, and even more so those who got in the way!"
+"To you, ma. May your memory follow all those who you loved, and even moreso those who got in the way!"
