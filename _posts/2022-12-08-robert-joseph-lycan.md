@@ -11,7 +11,7 @@ images:
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/robert-lycan-1086265510
 ---
-Robert Lycan taught English in the Bellevue School District for over thirty years. Most of his time was spent at Bellewood Elementary, Sammamish, and Newport (where he was also the head softball coach), but he also taught at Interlake off an on throughout the 80s and early 90s.
+Robert Lycan taught English in the Bellevue School District for over thirty years. Most of his time was spent at Bellewood Elementary, Sammamish, and Newport (where he was also the head softball coach), but he also taught at Interlake off and on throughout the 80s and early 90s.
 
 After retiring from the Bellevue School District, he continued to teach. Only this time at Bellevue College, and at various local businesses. He also ran a tutoring service and a business learning company out of his house. Overall, he spent thirty-four years as a teacher, and twenty-eight years as a coach.
 
