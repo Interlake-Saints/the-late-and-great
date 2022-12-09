@@ -6,6 +6,7 @@ date: 2022-09-07
 categories:
   - staff
 images:
+  - /assets/lycan86.jpg
   - /assets/lycan2022.jpg
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/robert-lycan-1086265510
