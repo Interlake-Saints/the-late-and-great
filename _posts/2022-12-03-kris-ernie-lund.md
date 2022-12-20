@@ -2,7 +2,7 @@
 layout: post
 title: Kris Ernie Lund
 sortKey: Lund, Kris
-date: 2022-11-09
+date: 2022-11-07
 categories:
   - class-of-1970
 images:
@@ -14,4 +14,4 @@ T﻿hroughout his life, Kris Lund was known as a gentle giant.  He stood 6'8" an
 
 A﻿fter high school, Kris went on to play football at the University of Oregon. He then became the head of public works in Kodiak, Alaska, where he spent a large portion of his life. His favorite hobby in Alaska was salmon fishing. In later years, he retired and moved to Anacortes to take care of his father. 
 
-K﻿ris was married to the love of his life, Chris Little, for over forty-three years, and his friends consider him a great representative of the class of 1970, a kind man, and one of the greatest cooks they knew. Sadly, he died on November 9, 2022, of congestive heart failure and pneumonia. He was just two days short of his 70th birthday.
+K﻿ris was married to the love of his life, Little Chris Lund, for over forty-three years, and his friends consider him a great representative of the class of 1970, a kind man, and one of the greatest cooks they knew. Sadly, he died on November 7, 2022, of congestive heart failure and pneumonia. He was just four days short of his 70th birthday.
