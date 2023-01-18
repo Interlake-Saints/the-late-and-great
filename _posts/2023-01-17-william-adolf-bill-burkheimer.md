@@ -7,6 +7,9 @@ categories:
   - class-of-1970
 tags:
   - cancer
+images:
+  - /assets/billburkheimer3.jpg
+  - /assets/burkheimer70.jpg
 gender: male
 ---
 E﻿ntry coming soon
