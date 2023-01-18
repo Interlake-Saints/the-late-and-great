@@ -8,8 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/billburkheimer3.jpg
-  - /assets/burkheimer70.jpg
+  - /assets/billburkheimerboth.jpg
 gender: male
 ---
 B﻿ill was the captain of the 1969 IHS football team, and an all-conference linebacker, and he helped lead Interlake to two consecutive Kingco championships. After Interlake, he held a variety of jobs. He eventually retired from Verizon as a manager, but his favorite job ever was a defensive driving instructor. Many years later, he still had students contacting him to let him know he was the best teacher they ever had. That always made him so happy.
