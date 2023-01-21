@@ -7,6 +7,8 @@ categories:
   - class-of-2012
 tags:
   - overdose
+images:
+  - /assets/dumilongwe.jpg
 gender: male
 obituary: https://www.legacy.com/us/obituaries/name/dumisani-longwe-obituary?id=38646008
 ---
