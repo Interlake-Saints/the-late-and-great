@@ -9,4 +9,4 @@ images:
   - /assets/glenngilkinson82.png
 gender: male
 ---
-E﻿ntry coming soon
+Glenn passed away on February 11, 2018. He was 54 years old.
