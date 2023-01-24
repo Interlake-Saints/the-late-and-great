@@ -3,7 +3,7 @@ layout: post
 title: Katherine D. McEniry
 sortKey: McEniry, Katherine
 date: 1980-11-05
-dateUnknown: true
+dateUnknown: false
 categories:
   - class-of-1978
 tags:
