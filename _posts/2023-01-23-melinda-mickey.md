@@ -10,5 +10,3 @@ images:
 gender: female
 ---
 Melinda, who was also known as Melinda Mickey Holt Nause, passed away unexpectedly at her home on December 30, 2022. She is survived by her twin sister Michelle, her son Michael, and many friends.
-
-More pictures coming soon.
