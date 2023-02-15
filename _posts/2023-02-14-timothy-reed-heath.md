@@ -5,6 +5,8 @@ sortKey: Heath, Tim
 date: 2022-12-05
 categories:
   - class-of-1978
+tags:
+  - cardiovascular-disease
 images:
   - /assets/timheath78.png
 gender: male
