@@ -7,6 +7,9 @@ categories:
   - class-of-1970
 tags:
   - cancer
+images:
+  - /assets/terigjersetboth.png
+  - /assets/terigjerset2.jpg
 gender: female
 ---
 E﻿ntry coming soon
