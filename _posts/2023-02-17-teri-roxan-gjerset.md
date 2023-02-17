@@ -12,4 +12,4 @@ images:
   - /assets/terigjerset2.jpg
 gender: female
 ---
-E﻿ntry coming soon
+Teri, aka Teri Gjerset Morris, passed into heaven on February 6, 2023, after a fourteen-year battle with cancer.
