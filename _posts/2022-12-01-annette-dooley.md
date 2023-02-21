@@ -11,7 +11,7 @@ images:
   - /assets/annettedooley.jpg
   - /assets/mrsdooley92.jpg
 gender: female
-obituary: https://www.dignitymemorial.com/obituaries/redmond-wa/annette-hoelscher-11161935
+obituary: https://www.dignitymemorial.com/obituaries/redmond-wa/annette-hoelscher-11161935#remembering
 ---
 Annette Dooley, aka Annette Dooley Hoelscher, was a Spanish teacher at Interlake from the early 90s through the early 2000s. She was an incredible teacher, friend, and mentor to many.
 
