@@ -9,4 +9,4 @@ images:
   - /assets/73maryjeanparle.jpg
 gender: female
 ---
-Mary passed away in Spokane in February of 2015.
+Mary passed away in Spokane in February of 2015. She was loved by both her adoptive and biological family, and is greatly missed.
