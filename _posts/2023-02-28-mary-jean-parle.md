@@ -10,3 +10,5 @@ images:
 gender: female
 ---
 Mary passed away in Spokane in February of 2015. She was loved by both her adoptive and biological family, and is greatly missed.
+
+Unfortunately Mary is not the only member of her family listed on this page. Her younger brother Henry passed away in 2018. He is listed under the class of 75.
