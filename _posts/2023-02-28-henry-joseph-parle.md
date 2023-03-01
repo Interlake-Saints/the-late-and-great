@@ -5,6 +5,8 @@ sortKey: Parle, Henry
 date: 2018-03-07
 categories:
   - class-of-1975
+tags:
+  - aneurysm
 images:
   - /assets/henryparle75.jpg
 gender: male
