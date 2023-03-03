@@ -7,6 +7,8 @@ categories:
   - class-of-1983
 tags:
   - infection
+images:
+  - /assets/aliciasmithboth.jpg
 gender: female
 ---
 E﻿ntry coming soon
