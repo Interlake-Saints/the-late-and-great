@@ -9,4 +9,4 @@ images:
   - /assets/dougbaileyboth.jpg
 gender: male
 ---
-Doug passed away on February 17, 2023 from complications of pneumonia.
+Doug passed away on February 17, 2023, from complications of pneumonia. He leaves behind his wife of 42 years, Lori, three children, and six grandchildren.
