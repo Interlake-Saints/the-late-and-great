@@ -7,6 +7,8 @@ categories:
   - class-of-1975
 tags:
   - cancer
+images:
+  - /assets/jeffthiemeboth.jpg
 gender: male
 obituary: https://everloved.com/life-of/jeffrey-thieme/obituary/?flow=201
 ---
