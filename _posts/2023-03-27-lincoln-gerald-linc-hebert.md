@@ -5,6 +5,8 @@ sortKey: Hebert, Linc
 date: 2023-03-12
 categories:
   - class-of-1982
+images:
+  - /assets/lincboth.jpg
 gender: male
 obituary: https://www.flintofts.com/obituaries/obituary-listings?obId=27552005
 ---
