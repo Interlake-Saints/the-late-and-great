@@ -14,4 +14,4 @@ Cassi, who was also known as Cassi Carter, loved her years of work with the King
 
 Cassi is survived by her life partner, Gary Carter, her siblings Venus and Larry, and her children Amber, Sharon, and Devon. She is also survived by two grandchildren and an aunt and uncle, Gail and Mike.
 
-Cassi passed away peacefully in Pennsylvania on Sunday, March 5th, 2023. She was 52 years old.
+Cassi died peacefully in Pennsylvania on Sunday, March 5th, 2023. She was 52 years old.
