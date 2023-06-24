@@ -7,6 +7,9 @@ categories:
   - class-of-1980
 tags:
   - cardiovascular-disease
+images:
+  - /assets/paulp4.jpg
+  - /assets/paulp1.png
 gender: male
 ---
 E﻿ntry coming soon
