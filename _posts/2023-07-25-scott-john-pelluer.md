@@ -7,6 +7,8 @@ categories:
   - class-of-1977
 tags:
   - cardiovascular-disease
+images:
+  - /assets/scottpelleurpics.png
 gender: male
 obituary: https://www.seattletimes.com/sports/wsu-cougar-football/scott-pelluer-standout-linebacker-at-washington-state-and-nfl-dies-at-64/
 ---
