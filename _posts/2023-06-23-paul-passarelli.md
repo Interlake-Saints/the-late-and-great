@@ -9,7 +9,7 @@ tags:
   - cardiovascular-disease
 images:
   - /assets/paulp4.jpg
-  - /assets/paulp1.png
+  - /assets/paulp2.png
 gender: male
 ---
 Paul Passarelli was known around the Northwest as the lead singer for the bands Joker, Lipstick, October, 70 Proof, 80 Proof, Palooka, and most importantly, Flight To Mars, which he fronted for fifteen years. He was born on February 12, 1962 in Southern California, and he moved to Bellevue in his early teens. For the last few years of his life, Paul lived in Snohomish County with the love of his life for the past twenty years, Lisa Fisher. 
