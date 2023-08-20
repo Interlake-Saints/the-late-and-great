@@ -9,4 +9,4 @@ images:
   - /assets/jonkgarber2.png
 gender: male
 ---
-E﻿ntry coming soon
+E﻿ntry coming soon. More information needed.
