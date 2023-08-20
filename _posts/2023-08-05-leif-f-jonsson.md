@@ -7,6 +7,10 @@ categories:
   - class-of-1978
 tags:
   - accident
+images:
+  - /assets/leif-jonsson.jpg
 gender: male
 ---
-E﻿ntry coming soon
+Leif passed away in an accidental fall at his home. 
+
+Entry coming soon. More info needed.
