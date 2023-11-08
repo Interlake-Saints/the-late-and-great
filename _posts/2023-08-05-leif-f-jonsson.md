@@ -11,6 +11,4 @@ images:
   - /assets/leif-jonsson.jpg
 gender: male
 ---
-Leif passed away in an accidental fall at his home. 
-
-Entry coming soon. More info needed.
+Leif passed away in an accidental fall at his home.
