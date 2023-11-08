@@ -7,6 +7,8 @@ categories:
   - class-of-1978
 tags:
   - accident
+images:
+  - /assets/deanpattersonpic.png
 gender: male
 ---
 E﻿ntry coming soon
