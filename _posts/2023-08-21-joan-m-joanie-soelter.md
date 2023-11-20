@@ -9,4 +9,6 @@ images:
   - /assets/joansoelter76.png
 gender: female
 ---
-Joanie died on July 14, 2023. Full entry coming soon.
+Joanie passed away on July 14, 2023. 
+
+U﻿nfortunately Joanie is not the only member of the Soelter family to be on this page. Her younger sister, [Sonia](https://ihsmemorial.org/class-of-1979/sonia-p-soelter/), passed away in 2020.
