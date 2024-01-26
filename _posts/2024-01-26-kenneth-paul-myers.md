@@ -19,4 +19,4 @@ In addition to his remarkable military career, Ken was also an active member of 
 
 Ken cherished his role as a husband, father, and grandfather, though words cannot express the depth of his love for each of them. His family members were the lights of his life, and his legacy will live on through each and every one of them.
 
-Sadly, Ken left us unexpectedly on November 3, 2023, in the comfort of his own home in Rancho Bernardo, California. But he will always be remembered as man who led a fulfilling long life, full of love, laughter. and incredible achievements.
+Sadly, Ken left us unexpectedly on November 3, 2023, in the comfort of his own home in Rancho Bernardo, California. But he will always be remembered as man who led a fulfilling long life, full of love, laughter, and incredible achievements.
