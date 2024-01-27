@@ -11,7 +11,7 @@ images:
 gender: male
 obituary: https://everloved.com/life-of/kenneth-myers/obituary/
 ---
-After graduating from Interlake in 1972 (he was a member of the first freshman class), Ken further pursued his education at Seattle University and the University of Redlands, eventually earning his Master’s Degree in Business Administration. Ken was exceptionally intelligent and he always had a passion for learning. 
+After graduating from Interlake in 1972, Ken further pursued his education at Seattle University and the University of Redlands, eventually earning his Master’s Degree in Business Administration. Ken was exceptionally intelligent and he always had a passion for learning. 
 
 As a United States Marine, Ken's place of work was not limited to just one location. He courageously served his country across the globe, consistently holding himself to the highest standards of the Corps, no matter the task at hand. His dedication and unwavering commitment to his role as a Colonel and Logistician brought honor to his name, and left a lasting impact on all who had the pleasure of working alongside him.
 
