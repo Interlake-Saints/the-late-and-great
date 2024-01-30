@@ -10,9 +10,9 @@ images:
 gender: male
 obituary: https://www.flintofts.com/obituaries/Thomas-Finley-Flynn?obId=28806585
 ---
-Tom graduated from Lewiston High School in Idaho in 1950. He was an outstanding prep athlete as a teenager, competing in basketball, baseball, track, and golf. He was All-State two years in a row in basketball and won two state titles as a pitcher in baseball. He later received a full athletic scholarship to The University of Idaho.
+Tom graduated from Lewiston High School in Idaho in 1950. He was an outstanding prep athlete as a teenager, competing in basketball, baseball, track, and golf. He was All-State two years in a row in basketball and also won two state titles as a pitcher in baseball. He later received a full athletic scholarship to The University of Idaho.
 
-In college, Tom played basketball for four years, and at one time led the nation in field goal percentage. He was named the Outstanding Senior Athlete of his graduating class. In 2002 he was inducted into the Idaho Athletic Hall of Fame.
+In college, Tom played basketball for four years, and at one time led the nation in field goal percentage. He was eventually named the Outstanding Senior Athlete of his graduating class. In 2002 he was inducted into the Idaho Athletic Hall of Fame.
 
 After college, Tom began his long career as a public school teacher/administrator. He first worked as a teacher and coach in Idaho, and then in Oregon, and then in Anacortes (WA), before eventually being hired as head basketball coach at Bellevue’s newly opened School, Interlake High School. Tom coached the Interlake basketball team for four years, in which they won two league championships. For the last sixteen years at Interlake, up until his retirement, he was the school's Athletic Director. Throughout his career, Tom coached hundreds of young high school athletes and taught thousands of students in his classes. Upon his retirement, the Interlake High School gymnasium was renamed “Flynn Court” in his honor. 
 
