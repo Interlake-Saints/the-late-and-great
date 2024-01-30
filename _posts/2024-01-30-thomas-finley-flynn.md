@@ -5,6 +5,8 @@ sortKey: Flynn, Thomas
 date: 2023-08-22
 categories:
   - staff
+images:
+  - /assets/tomflynn71pics.png
 gender: male
 obituary: https://www.flintofts.com/obituaries/Thomas-Finley-Flynn?obId=28806585
 ---
