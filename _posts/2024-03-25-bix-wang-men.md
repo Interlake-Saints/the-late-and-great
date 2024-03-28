@@ -17,4 +17,4 @@ However, tragedy struck on the evening of June 25, 2023. Bix was in Taiwan, and 
 
 Although his time on Earth was cut short, Bix left an indelible mark on the hearts of those who knew him. He inspired them to cherish every moment, embrace their passions, and pursue their dreams. Bix's story also serves as a reminder that life is precious and should be lived to the fullest. He leaves behind a legacy of love, perseverance, and an unwavering belief in the power of the human spirit.
 
-In his honor, Bix's parents later created a charity in his name: The Bix Men Pedestrian Safety Foundation. Its mission is to create a safer, more more mindful world of traffic. Ensuring that the heartache his family endured will become a thing of the past. You can find their website at <http://bixmenpsf.org>.
+In his honor, Bix's parents later created a charity in his name: The Bix Men Pedestrian Safety Foundation. Its mission is to create a safer, more more mindful world of traffic. So hopefully, the heartache his family endured will become a thing of the past. You can find the foundation website here: <http://bixmenpsf.org>.
