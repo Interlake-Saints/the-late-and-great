@@ -11,9 +11,9 @@ images:
   - /assets/bixmen5.jpg
 gender: male
 ---
-Bix Men was an exceptional student, a top golf player, a loving son, an Eagle Scout, and a highly skilled programmer. After graduating from Interlake he was accepted into the prestigious Informatics program at the University of Washington, with plans to one day become a game developer. He even accepted an internship in Taiwan to further his studies.
+Bix Men was an exceptional student, a top golf player, a loving son, an Eagle Scout, and a highly skilled programmer. After graduating from Interlake, he was accepted into the prestigious Informatics program at the University of Washington, with plans to one day become a game developer. After his second year at UW, he accepted a summer internship in Taiwan to further his studies. 
 
-However, tragedy struck on the evening of June 25, 2023. Bix was in Taiwan, and he was on his way home from a run in a park, and his beautiful life was abruptly cut short by a reckless tow truck driver who had run a red light. Bix was hit in the middle of the intersection and he died at the scene. He was only 20 years old. The news devastated his family, friends, and the entire community who had witnessed his incredible journey.
+However, tragedy struck on the evening of June 25, 2023. Bix was in Taiwan, and he was on his way home from a run in a park. But his beautiful life was abruptly cut short by a reckless tow truck driver who had run a red light. Bix was hit in the middle of the intersection and he died at the scene. He was only 20 years old. 
 
 Although his time on Earth was cut short, Bix left an indelible mark on the hearts of those who knew him. He inspired them to cherish every moment, embrace their passions, and pursue their dreams. Bix's story also serves as a reminder that life is precious and should be lived to the fullest. He leaves behind a legacy of love, perseverance, and an unwavering belief in the power of the human spirit.
 
