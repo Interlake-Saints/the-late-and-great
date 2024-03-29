@@ -5,7 +5,9 @@ sortKey: Kearns, Abraham
 date: 2021-09-03
 categories:
   - class-of-2021
+images:
+  - /assets/abrahamkearns2021.jpg
 gender: male
 obituary: https://www.dignitymemorial.com/en-ca/obituaries/bellevue-wa/abraham-kerns-10344214
 ---
-E﻿ntry coming soon
+Abraham passed away a few months after he graduated high school, on September 3, 2021. He was just 18 years old.
