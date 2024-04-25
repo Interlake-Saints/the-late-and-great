@@ -5,6 +5,8 @@ sortKey: Chou, James
 date: 2018-03-16
 categories:
   - class-of-1990
+images:
+  - /assets/chou1.jpg
 gender: male
 obituary: https://obituaries.forestlawn.com/obituaries/james-chou
 ---
