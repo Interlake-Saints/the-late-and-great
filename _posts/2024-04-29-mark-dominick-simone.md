@@ -1,11 +1,10 @@
 ---
-layout: post
-title: Mark Dominick Simone
+title: Mark Dominick "Marco" Simone
 sortKey: Simone, Mark
 date: 2024-03-14
 categories:
   - class-of-1971
 gender: male
-obituary: https://neptunesociety.com/obituaries/spokane-wa/mark-simone-11717588
+obituary: https://obituaries.seattletimes.com/obituary/mark-simone-1089550953
 ---
-E﻿ntry coming soon.
+E﻿ntry coming soon
