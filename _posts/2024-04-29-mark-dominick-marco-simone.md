@@ -5,6 +5,9 @@ sortKey: Simone, Marco
 date: 2024-03-14
 categories:
   - class-of-1971
+images:
+  - /assets/marksimone2024.jpg
+  - /assets/marksimone71.png
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/mark-simone-1089550953
 ---
