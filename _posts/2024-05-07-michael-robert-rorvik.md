@@ -14,6 +14,4 @@ After graduating from high school, Michael served in the United States Marine Co
 
 He was the owner of Recovery Recycling in Peru, where he dedicated over twenty years of service. While he had a true passion for his work, in his free time he enjoyed spending time with his family, especially his children and grandchildren.
 
-Michael passed away peacefully at home on Saturday, January 13, 2024. He was 59 years old. 
-
-Military rites were performed at his funeral.
+Michael passed away peacefully at home on Saturday, January 13, 2024. He was 59 years old. Military rites were performed at his funeral.
