@@ -4,7 +4,7 @@ title: Noah Deve Gurrola
 sortKey: Gurrola, Noah
 date: 2022-05-28
 categories:
-  - class-of-2021
+  - class-of-2020
 tags:
   - accident
 images:

@@ -1,45 +1,4 @@
 #!/usr/bin/env bash
 
-echo "Fulfilling dependencies of the project"
-
-# confirm this is MacOS
-if [[ $OSTYPE == 'darwin'* ]];
-then
-  echo 'Confirmed running MacOS.'
-else
-  echo "Must be running MacOS!" 1>&2;
-  exit 1;
-fi
-
-# install homebrew
-which -s brew
-if [[ $? != 0 ]] ; then
-  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-  echo "Close your terminal, reopen, and rerun the prior command." 1>&2;
-  exit 1;
-fi
-
-# install rvm
-which -s rvm
-if [[ $? != 0 ]] ; then
-  brew install gnupg
-  command curl -sSL https://rvm.io/mpapis.asc | gpg --import -
-  command curl -sSL https://rvm.io/pkuczynski.asc | gpg --import -
-  command curl -sSL https://get.rvm.io | bash -s stable --ruby
-  source $HOME/.rvm/scripts/rvm
-fi
-
-# install ruby
-rvm install ruby-$(cat .ruby-version)
-
-# install bundler
-gem install bundler
-
-brew install openssl@1.1
-export PATH="/opt/homebrew/opt/openssl@1.1/bin:$PATH"
-export LDFLAGS="-L/opt/homebrew/opt/openssl@1.1/lib"
-export CPPFLAGS="-I/opt/homebrew/opt/openssl@1.1/include"
-export PKG_CONFIG_PATH="/opt/homebrew/opt/openssl@1.1/lib/pkgconfig"
-
-# run bundler
+./script/ensure-bundler
 bundle
