@@ -9,4 +9,4 @@ tags:
   - cardiovascular-disease
 gender: male
 ---
-E﻿ntry coming soon.
+John was born with a heart condition. He passed away of cardiovascular complications on June 22, 2017. He was 42 years old.
