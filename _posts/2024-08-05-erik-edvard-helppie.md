@@ -2,14 +2,16 @@
 layout: post
 title: Erik Edvard Helppie
 sortKey: Helppie, Erike
-date: 1972-08-01
+date: 1972-08-03
 categories:
   - class-of-1969
 tags:
   - cancer
+images:
+  - /assets/erikhelppiepics.png
 gender: male
 ---
-Erik was the first Interlake ASB President, and was a well-known nationally ranked debate champion. He died of cancer on August 1, 1972, just three years after he graduated from high school.
+Erik was the first Interlake ASB President, and he was a well-known nationally ranked debate champion. He died of cancer on August 3, 1972, just three years after he graduated from high school. He was only 20 years old.
 
 After his death, the Erik Helppie Award was created to honor the top senior in speech and debate in the state of Washington. The Helppie Award is still given out every year by the Washington State Forensics Association.
 
