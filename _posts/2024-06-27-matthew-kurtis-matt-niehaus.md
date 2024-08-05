@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/mattniehaus_2.jpg
+  - /assets/mattniehauspictures.jpg
 gender: male
 ---
 E﻿ntry coming soon
