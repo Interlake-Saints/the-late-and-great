@@ -10,5 +10,6 @@ tags:
 images:
   - /assets/mattniehauspictures.jpg
 gender: male
+obituary: https://obituaries.seattletimes.com/obituary/matthew-niehaus-1090083027
 ---
 E﻿ntry coming soon
