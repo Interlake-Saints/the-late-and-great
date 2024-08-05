@@ -7,6 +7,7 @@ categories:
   - class-of-1985
 images:
   - /assets/larryridgerspics.png
+  - /assets/lawrenceridgers85.jpg
 gender: male
 ---
 Larry graduated from Interlake in 1985. After school, he became a chef working at Schwartz Brother Restaurants. He started off at The Sandwich Shop and Pie place in Bellevue Square, but quickly moved up to their fine dining restaurants. 
