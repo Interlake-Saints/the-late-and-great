@@ -11,5 +11,6 @@ images:
   - /assets/class-of-1972/june-m-gustafson-1.png
 gender: female
 ---
+June was married and she worked in dentistry
 
-June was married and worked in dentistry, and died very unexpectedly of blood poisoning sometime in the mid 70's.
+She died very unexpectedly of blood poisoning, sometime in the mid 70s.
