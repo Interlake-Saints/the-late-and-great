@@ -7,6 +7,7 @@ categories:
   - class-of-1969
 images:
   - /assets/anitagalepics.jpg
+  - /assets/anitagalepic3.jpg
 gender: female
 obituary: https://nss.org/the-national-space-society-mourns-the-passing-of-ceo-anita-gale/
 ---
