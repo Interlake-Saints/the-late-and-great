@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/carollynn2022.jpg
+  - /assets/carolynlynnpics.jpg
 gender: female
 obituary: https://www.legacy.com/us/obituaries/name/carolyn-gough-obituary?id=36269268
 ---
