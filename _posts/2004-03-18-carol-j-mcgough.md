@@ -8,7 +8,6 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1977/carol-j-mcgough-1.png
   - /assets/class-of-1977/carol-j-mcgough-2.png
 gender: female
 ---
