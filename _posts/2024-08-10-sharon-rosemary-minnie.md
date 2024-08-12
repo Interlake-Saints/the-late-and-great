@@ -6,7 +6,7 @@ date: 2024-04-13
 categories:
   - class-of-1995
 images:
-  - /assets/sharonminnie07.jpg
+  - /assets/sharonminniepics.jpg
 gender: female
 ---
 E﻿ntry coming soon.
