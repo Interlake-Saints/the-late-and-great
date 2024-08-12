@@ -8,7 +8,7 @@ categories:
 tags:
   - cardiovascular-disease
 images:
-  - /assets/johnmoore2012.jpg
+  - /assets/johnmoorepics.jpg
 gender: male
 ---
 John was born with a heart condition. He passed away of cardiovascular complications on June 22, 2017. He was 42 years old.
