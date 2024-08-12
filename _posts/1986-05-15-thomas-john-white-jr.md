@@ -8,8 +8,11 @@ categories:
 tags:
   - accident
 images:
-  - /assets/class-of-1984/thomas-j-white-jr-1.png
+  - /assets/thomaswhite84.jpeg
 gender: male
 ---
+T﻿homas was a sophomore in pre-law at the University of Washington when he died in a tragic accident the night of May 15, 1986. He fell out of a third-floor window at the UW Alpha Delta Phi fraternity house.
 
-Thomas died on May 15, 1986 when he fell from a third-floor bedroom window at the UW Alpha Delta Phi fraternity. He was a known sleepwalker, and was not legally drunk at the time, so police classified it as a sleepwalking accident. Thomas was 19.
+Thomas was a known sleepwalker, and he was not legally drunk at the time, so police eventually classified the incident as a sleepwalking accident. Thomas was only 19 years old.
+
+A﻿ scholarship was later opened in his name through the Alpha Delta Phi fraternity.
