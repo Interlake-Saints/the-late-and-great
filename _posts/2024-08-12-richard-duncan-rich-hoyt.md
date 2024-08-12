@@ -7,6 +7,8 @@ categories:
   - class-of-1993
 tags:
   - cancer
+images:
+  - /assets/richhoytpics.jpg
 gender: male
 obituary: https://www.legacy.com/us/obituaries/dailyrecordnews/name/richard-hoyt-obituary?id=55407007
 ---
