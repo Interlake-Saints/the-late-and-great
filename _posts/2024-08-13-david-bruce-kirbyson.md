@@ -10,9 +10,7 @@ images:
 gender: male
 obituary: https://www.springfieldfuneralhome.com/obituaries/kirbyson-david-bruce/
 ---
-David Bruce Kirbyson (known to everyone as Bruce) was born in Winnipeg, Manitoba, and he later lived in Calgary, Burnaby (BC), and then Bellevue. His nickname as a child was “Boo Boo”, and he had a busy life with his three brothers and two sisters. He always was a character, with a voice and a laugh that when you heard it, you always knew he was nearby. He also had a smile that, according to his friends, would always get him out of so much trouble. From a young age, he had a passion for cars, and this continued for all of his life.
-
-Bruce did not graduate from Interlake, but he attended it for his sophomore year and possibly part of his junior year. 
+David Bruce Kirbyson (known to everyone as Bruce) was born in Winnipeg, Manitoba, and he later lived in Calgary, Burnaby (BC), and then Bellevue. His nickname as a child was “Boo Boo”, and he had a busy life with his three brothers and two sisters. He always was a character, with a voice and a laugh that when you heard it, you always knew he was nearby. He also had a smile that, according to his friends, would always get him out of so much trouble. From a young age, he had a passion for cars, and this continued for all of his life. He attended Interlake when he first moved to Bellevue, and he was there for his sophomore year, and possibly part of his junior year. But he did not graduate from Interlake. He likely graduated from somewhere in Canada.
 
 Bruce married his wife Colleen in 1984, and he worked as an appliance repair man. But then, thanks to his dad, he opened and ran Associated Ceiling Cleaners. He worked hard to get this company up and running, and he made many business client friends along the way.
 
