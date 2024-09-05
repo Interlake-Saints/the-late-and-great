@@ -10,7 +10,7 @@ images:
 gender: male
 obituary: https://obituaries.seattletimes.com/obituary/mike-frizzell-1083792264
 ---
-Mike grew up playing basketball on the mean streets of Bellevue, and he spent summers biking perilously down the hills of Lopez Island. Although he attended two years of Interlake with his childhood friends, he technically graduated from Eastside Catholic in 1983. He then went on to graduate from the University of Washington, where he was a member of the Delta Tau Delta fraternity.
+Mike grew up playing basketball on the mean streets of Bellevue, and he spent his summers biking perilously down the hills of Lopez Island. Although he attended two years of Interlake with his childhood friends, he transferred to Eastside Catholic for his senior year, and he technically graduated from Eastside Catholic in 1983. He then went on to graduate from the University of Washington, where he was a member of the Delta Tau Delta fraternity.
 
 Mike's life story was a little more interesting than the average person's. In the early 90s, he became addicted to prescription drugs. And in an attempt to pay for his drug habit, he started robbing banks. And after nearly sixty bank robberies (spread out over four different states), he eventually found himself on the FBI's Most Wanted List.
 
