@@ -7,6 +7,8 @@ categories:
   - class-of-2006
 tags:
   - overdose
+images:
+  - /assets/ryuichiitoi1.jpg
 gender: male
 ---
 E﻿ntry coming soon.
