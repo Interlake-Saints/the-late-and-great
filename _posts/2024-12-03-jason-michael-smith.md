@@ -7,6 +7,8 @@ categories:
   - class-of-1991
 tags:
   - cardiovascular-disease
+images:
+  - /assets/jasonmsmithpics.jpg
 gender: male
 obituary: https://memorialsource.com/memorial/jason-smith
 ---
