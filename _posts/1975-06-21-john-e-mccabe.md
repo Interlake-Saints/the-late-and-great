@@ -9,5 +9,4 @@ images:
   - /assets/class-of-1975/john-e-mccabe-1.png
 gender: male
 ---
-
-John died in Bellevue on June 21, 1975. Although nearly fifty years later, the circumstances behind his death are still unclear. See the comments below for an explanation.
+John committed suicide in Ivanhoe Park in Bellevue on June 21, 1975, which was soon after he graduated from Interlake. See the comments below for more info from his sister.
