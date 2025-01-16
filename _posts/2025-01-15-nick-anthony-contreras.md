@@ -12,4 +12,6 @@ images:
 gender: male
 obituary: https://neptunesociety.com/obituaries/lynnwood-wa/nick-contreras-12083076
 ---
-E﻿ntry coming soon.
+Nick passed away in Kirkland on November 17, 2024, after a battle with cancer. He was sixty years old.
+
+S﻿adly, Nick is not the only member of his family on this page. His younger brother Daniel [passed away in 2021](https://ihsmemorial.org/class-of-1986/daniel-louis-dan-contreras/). Daniel is listed under the class of 1986.
