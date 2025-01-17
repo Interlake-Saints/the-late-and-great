@@ -5,6 +5,8 @@ sortKey: Mahoney, Thom
 date: 2019-03-10
 categories:
   - class-of-1982
+images:
+  - /assets/tommahoneypics22.jpg
 gender: male
 obituary: https://www.dignitymemorial.com/obituaries/bremerton-wa/thomas-mahoney-8200198
 ---
