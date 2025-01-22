@@ -10,7 +10,7 @@ images:
 gender: female
 obituary: https://www.legacy.com/us/obituaries/legacyremembers/vicki-matthews-obituary?id=54801934
 ---
-Vicki was born in Yakima to James and Dorothy Wharton. She was the middle of three children. Her family moved to Spokane where she spent her early childhood, and then relocated to Bellevue for her high school years.
+Vicki, aka Vicki Lynn Matthews, was born in Yakima in 1956. She was the middle of three children of James and Dorothy Wharton. Her family moved to Spokane where she spent her early childhood, and then relocated to Bellevue for her high school years.
 
 Vicki was a lively child. She had lots of energy and was always on the move, traits she was known for throughout her life. In her youth Vicki could be found on the tennis courts, playing tetherball, bowling, softball, or cheerleading. She graduated from Interlake in 1974. She was a member of the drill team and was crowned homecoming princess her senior year. It was also where she met her high school sweetheart, Larry. They later married, had two children, Greg and Sandra, and shared 47 years together.
 
