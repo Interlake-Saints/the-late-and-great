@@ -7,6 +7,8 @@ categories:
   - class-of-1970
 tags:
   - cardiovascular-disease
+images:
+  - /assets/ericsaltz70.jpg
 gender: male
 ---
 E﻿ntry coming soon.
