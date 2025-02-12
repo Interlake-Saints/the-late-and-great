@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/jimholznechtpics.jpg
+  - /assets/jimholzknechtsmallerpics.jpg
 gender: male
 ---
 E﻿ntry coming soon.
