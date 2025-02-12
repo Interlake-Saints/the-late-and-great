@@ -11,5 +11,6 @@ images:
   - /assets/class-of-1970/susan-m-holzknecht-1.png
 gender: female
 ---
+Susan, aka Susan Holzknecht Burke, passed away on March 13, 2006. She was 53 years old. 
 
-Susan, aka Susan Holzknecht Burke, died on March 13, 2006. She was 53.
+S﻿adly, Susan is not the only member of her family on this page. Her younger brother, [Jim Holzknecht '81](https://ihsmemorial.org/class-of-1981/james-p-jim-holzknecht/), died in January of 2025.
