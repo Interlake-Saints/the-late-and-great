@@ -17,3 +17,5 @@ Chris had a deep love for the outdoors, finding peace in camping, gardening, and
 While his time with us feels too short, his impact on the lives of those who knew him will last forever. He leaves behind a legacy of love, laughter, and the reminder to live authentically. Chris will be deeply missed but lovingly remembered by his family, friends, and all who were touched by his light.
 
 Chris passed away on January 11, 2025. He was 48 years old.
+
+A﻿ video tribute to Chris's life can be found [here](https://www.youtube.com/watch?v=kx_MERDdYJY).
