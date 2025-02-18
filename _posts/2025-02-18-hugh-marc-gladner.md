@@ -7,6 +7,8 @@ categories:
   - class-of-1984
 tags:
   - cancer
+images:
+  - /assets/hughgladnerpics.jpg
 gender: male
 ---
 E﻿ntry coming soon.
