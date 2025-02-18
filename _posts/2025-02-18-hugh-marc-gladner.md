@@ -8,7 +8,7 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/hughgladnerpics.jpg
+  - /assets/hughgladnerpics2.jpg
 gender: male
 ---
 E﻿ntry coming soon.
