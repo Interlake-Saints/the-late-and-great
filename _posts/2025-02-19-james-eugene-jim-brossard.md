@@ -5,6 +5,8 @@ sortKey: Brossard, Jim
 date: 2025-01-08
 categories:
   - class-of-1975
+images:
+  - /assets/jimbrossardpics.jpg
 gender: male
 obituary: https://www.legacy.com/us/obituaries/legacyremembers/james-brossard-obituary?id=57258294
 ---
