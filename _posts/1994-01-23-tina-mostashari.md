@@ -9,7 +9,7 @@ tags:
   - homicide
   - firearms
 images:
-  - /assets/class-of-1991/tina-mostashari-1.jpg
+  - /assets/tina-mostashari-2.jpg
 gender: female
 ---
 
