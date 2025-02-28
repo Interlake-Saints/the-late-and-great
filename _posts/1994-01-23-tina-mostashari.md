@@ -9,7 +9,7 @@ tags:
   - homicide
   - firearms
 images:
-  - /assets/tina-mostashari-2.jpg
+  - /assets/tina-mostashari-3.jpg
 gender: female
 ---
 
