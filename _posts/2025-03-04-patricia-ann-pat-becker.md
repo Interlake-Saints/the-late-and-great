@@ -9,4 +9,6 @@ images:
   - /assets/patbeckerpics.jpg
 gender: female
 ---
-E﻿ntry coming soon.
+Pat, who was also known as Patti Becker-Skinner, was a cheerleader at Interlake and was admired by all who knew her. After high school she had a long and successful career as an interior designer.
+
+She was in Spokane at her daughter's house, helping take care of her grandson, when she died unexpectedly of pneumonia on February 22, 2025. She was 72 years old.
