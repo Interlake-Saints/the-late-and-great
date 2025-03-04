@@ -9,7 +9,6 @@ tags:
   - cancer
 images:
   - /assets/heidihuntpics.jpg
-  - /assets/heidi-hunt-12.jpg
 gender: female
 obituary: ""
 ---
