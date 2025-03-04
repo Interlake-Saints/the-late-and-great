@@ -9,7 +9,7 @@ tags:
   - accident
   - traffic
 images:
-  - /assets/class-of-1972/ronald-r-camp-1.png
+  - /assets/ronaldcamppics.jpg
 gender: male
 ---
 
