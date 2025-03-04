@@ -5,8 +5,7 @@ sortKey: Becker, Pat
 date: 2025-02-22
 categories:
   - class-of-1970
-images:
-  - /assets/patbeckerpics.jpg
+images: []
 gender: female
 ---
 Pat, also known as Patti Becker-Skinner, was a cheerleader at Interlake and was admired by all who knew her. After high school she had a long and successful career as an interior designer.
