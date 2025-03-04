@@ -8,11 +8,11 @@ categories:
 tags:
   - cancer
 images:
-  - /assets/class-of-1973/heidi-hunt-1.png
-  - /assets/class-of-1973/heidi-hunt-2.png
-  - /assets/class-of-1973/heidi-hunt-3.png
-obituary: http://www.cremation-salem-oregon.com/obituaries/obituary/16447_Heidi_Hunt_Vantulden
+  - /assets/heidihuntpics.jpg
+  - /assets/heidi-hunt-12.jpg
 gender: female
+obituary: ""
 ---
+Heidi, aka Heidi Hunt Vantulden, graduated from Interlake in 1973, and later attended the University of Washington. She received her MBA in Business Administration in 1984 from City University, and she eventually wound up working in public relations and marketing. At the time of her death, she was the founder and president of Bluestone PR, Inc., based out of Oregon.
 
-Heidi, aka Heidi Hunt Vantulden, passed away of lung cancer on October 3, 2018. She was 63 years old.
+Sadly, Heidi passed away of lung cancer on October 3, 2018. She was 63 years old.
