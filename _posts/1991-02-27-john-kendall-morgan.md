@@ -8,7 +8,7 @@ categories:
 tags:
   - killed-in-action
 images:
-  - /assets/class-of-1981/john-k-morgan-1.jpg
+  - /assets/johnmorganpics.jpg
 gender: male
 obituary: https://archive.seattletimes.com/archive/?date=19910313&slug=1271422
 ---
